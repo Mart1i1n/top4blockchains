@@ -1,0 +1,9 @@
+# Manual overrides for cases where DBLP has not merged two PIDs that are clearly the same person,
+# or where a paper-specific display form differs from the canonical name we want to surface.
+# Keys are display names as they appear on a paper; values are the canonical name we render.
+# PID-based merging happens automatically; this file is only needed for the residue.
+
+aliases:
+  "Roi Bar Zur": "Roi Bar-Zur"
+  "Andres Fabrega": "Andrés Fábrega"
+  "Molly Zhuangtong Huang": "Molly Z. Huang"

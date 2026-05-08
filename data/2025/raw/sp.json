@@ -1,0 +1,7756 @@
+[
+  {
+    "dblp_key": "conf/sp/WangLLH0Z25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "TypeForge: Synthesizing and Selecting Best-Fit Composite Data Types for Stripped Binaries",
+    "authors": [
+      {
+        "pid": "68/5968",
+        "name": "Yanzhong Wang"
+      },
+      {
+        "pid": "232/3062",
+        "name": "Ruigang Liang"
+      },
+      {
+        "pid": "120/8519",
+        "name": "Yilin Li"
+      },
+      {
+        "pid": "277/8277",
+        "name": "Peiwei Hu"
+      },
+      {
+        "pid": "c/KaiChen12",
+        "name": "Kai Chen"
+      },
+      {
+        "pid": "190/2804",
+        "name": "Bolun Zhang"
+      }
+    ],
+    "pages": "1-18",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00193"
+  },
+  {
+    "dblp_key": "conf/sp/DuZ0ZSC0025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SoK: Dataset Copyright Auditing in Machine Learning Systems",
+    "authors": [
+      {
+        "pid": "246/4947",
+        "name": "Linkang Du"
+      },
+      {
+        "pid": "210/8944",
+        "name": "Xuanru Zhou"
+      },
+      {
+        "pid": "50/6996-32",
+        "name": "Min Chen"
+      },
+      {
+        "pid": "391/3430",
+        "name": "Chusong Zhang"
+      },
+      {
+        "pid": "67/4307",
+        "name": "Zhou Su"
+      },
+      {
+        "pid": "76/185-1",
+        "name": "Peng Cheng"
+      },
+      {
+        "pid": "55/2484-1",
+        "name": "Jiming Chen"
+      },
+      {
+        "pid": "90/545-1",
+        "name": "Zhikun Zhang"
+      }
+    ],
+    "pages": "1-19",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00025"
+  },
+  {
+    "dblp_key": "conf/sp/PetelkaBSVS25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Restricting the Link: Effects of Focused Attention and Time Delay on Phishing Warning Effectiveness",
+    "authors": [
+      {
+        "pid": "239/8144",
+        "name": "Justin Petelka"
+      },
+      {
+        "pid": "305/7426",
+        "name": "Benjamin Berens"
+      },
+      {
+        "pid": "292/5933",
+        "name": "Carlo Sugatan"
+      },
+      {
+        "pid": "v/MelanieVolkamer",
+        "name": "Melanie Volkamer"
+      },
+      {
+        "pid": "08/7562",
+        "name": "Florian Schaub"
+      }
+    ],
+    "pages": "1-19",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00007"
+  },
+  {
+    "dblp_key": "conf/sp/AbdulrahmanOPPS25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Towards ML-KEM & ML-DSA on OpenTitan",
+    "authors": [
+      {
+        "pid": "298/9287",
+        "name": "Amin Abdulrahman"
+      },
+      {
+        "pid": "329/4900",
+        "name": "Felix Oberhansl"
+      },
+      {
+        "pid": "381/9711",
+        "name": "Hoang Nguyen Hien Pham"
+      },
+      {
+        "pid": "158/5810",
+        "name": "Jade Philipoom"
+      },
+      {
+        "pid": "30/1431",
+        "name": "Peter Schwabe"
+      },
+      {
+        "pid": "361/3656",
+        "name": "Tobias Stelzer"
+      },
+      {
+        "pid": "60/10279",
+        "name": "Andreas Zankl"
+      }
+    ],
+    "pages": "1-19",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00220"
+  },
+  {
+    "dblp_key": "conf/sp/ZhangZLLHLZ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Secure Transfer Learning: Training Clean Model Against Backdoor in Pre-Trained Encoder and Downstream Dataset",
+    "authors": [
+      {
+        "pid": "304/1238",
+        "name": "Yechao Zhang"
+      },
+      {
+        "pid": "172/9870",
+        "name": "Yuxuan Zhou"
+      },
+      {
+        "pid": "92/9835",
+        "name": "Tianyu Li"
+      },
+      {
+        "pid": "53/5842",
+        "name": "Minghui Li"
+      },
+      {
+        "pid": "169/2268",
+        "name": "Shengshan Hu"
+      },
+      {
+        "pid": "05/6715-1",
+        "name": "Wei Luo"
+      },
+      {
+        "pid": "117/3526",
+        "name": "Leo Yu Zhang"
+      }
+    ],
+    "pages": "1-19",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00162"
+  },
+  {
+    "dblp_key": "conf/sp/MarjanovH25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SoK: Digging into the Digital Underworld of Stolen Data Markets",
+    "authors": [
+      {
+        "pid": "329/0069",
+        "name": "Tina Marjanov"
+      },
+      {
+        "pid": "181/3695",
+        "name": "Alice Hutchings"
+      }
+    ],
+    "pages": "1-18",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00037"
+  },
+  {
+    "dblp_key": "conf/sp/PrasadNR25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Characterizing Robocalls with Multiple Vantage Points",
+    "authors": [
+      {
+        "pid": "252/6374",
+        "name": "Sathvik Prasad"
+      },
+      {
+        "pid": "331/2482",
+        "name": "Aleksandr Nahapetyan"
+      },
+      {
+        "pid": "117/3983",
+        "name": "Bradley Reaves"
+      }
+    ],
+    "pages": "19-36",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00096"
+  },
+  {
+    "dblp_key": "conf/sp/HoMLTLLLDSV25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Understanding the Efficacy of Phishing Training in Practice",
+    "authors": [
+      {
+        "pid": "150/5927",
+        "name": "Grant Ho"
+      },
+      {
+        "pid": "168/9526",
+        "name": "Ariana Mirian"
+      },
+      {
+        "pid": "389/2730",
+        "name": "Elisa Luo"
+      },
+      {
+        "pid": "407/9472",
+        "name": "Khang Tong"
+      },
+      {
+        "pid": "407/8742",
+        "name": "Euyhyun Lee"
+      },
+      {
+        "pid": "61/2115",
+        "name": "Lin Liu"
+      },
+      {
+        "pid": "148/3840",
+        "name": "Christopher A. Longhurst"
+      },
+      {
+        "pid": "325/3583",
+        "name": "Christian Dameff"
+      },
+      {
+        "pid": "s/StefanSavage",
+        "name": "Stefan Savage"
+      },
+      {
+        "pid": "v/GeoffreyMVoelker",
+        "name": "Geoffrey M. Voelker"
+      }
+    ],
+    "pages": "37-54",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00076"
+  },
+  {
+    "dblp_key": "conf/sp/ZhangSYYOXDHES25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Identifying Incoherent Search Sessions: Search Click Fraud Remediation Under Real-World Constraints",
+    "authors": [
+      {
+        "pid": "144/1374",
+        "name": "Runze Zhang"
+      },
+      {
+        "pid": "329/9108",
+        "name": "Ranjita Pai Sridhar"
+      },
+      {
+        "pid": "210/4952",
+        "name": "Mingxuan Yao"
+      },
+      {
+        "pid": "59/5806",
+        "name": "Zheng Yang"
+      },
+      {
+        "pid": "381/1665",
+        "name": "David Oygenblik"
+      },
+      {
+        "pid": "268/6595",
+        "name": "Haichuan Xu"
+      },
+      {
+        "pid": "21/7538",
+        "name": "Vacha Dave"
+      },
+      {
+        "pid": "45/1437",
+        "name": "Cormac Herley"
+      },
+      {
+        "pid": "51/3259",
+        "name": "Paul England"
+      },
+      {
+        "pid": "150/5240",
+        "name": "Brendan Saltaformaggio"
+      }
+    ],
+    "pages": "93-111",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00111"
+  },
+  {
+    "dblp_key": "conf/sp/0002IGRW025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "What We Talk About When We Talk About Logs: Understanding the Effects of Dataset Quality on Endpoint Threat Detection Research",
+    "authors": [
+      {
+        "pid": "07/6819-2",
+        "name": "Jason Liu"
+      },
+      {
+        "pid": "331/2710",
+        "name": "Muhammad Adil Inam"
+      },
+      {
+        "pid": "334/9010",
+        "name": "Akul Goyal"
+      },
+      {
+        "pid": "365/4120",
+        "name": "Andy Riddle"
+      },
+      {
+        "pid": "365/3911",
+        "name": "Kim Westfall"
+      },
+      {
+        "pid": "126/3601",
+        "name": "Adam Bates"
+      }
+    ],
+    "pages": "112-129",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00112"
+  },
+  {
+    "dblp_key": "conf/sp/MohammadiKT0MJ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Connecting the Extra Dots (Contexts): Correlating External Information about Point of Interest for Attack Investigation",
+    "authors": [
+      {
+        "pid": "325/4834",
+        "name": "Sareh Mohammadi"
+      },
+      {
+        "pid": "318/4217",
+        "name": "Hugo Kermabon-Bobinnec"
+      },
+      {
+        "pid": "224/7374",
+        "name": "Azadeh Tabiban"
+      },
+      {
+        "pid": "w/LingyuWang",
+        "name": "Lingyu Wang"
+      },
+      {
+        "pid": "407/8376",
+        "name": "Tomás Navarro Múnera"
+      },
+      {
+        "pid": "24/5158",
+        "name": "Yosr Jarraya"
+      }
+    ],
+    "pages": "130-148",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00113"
+  },
+  {
+    "dblp_key": "conf/sp/BoschiniKLM0T25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Ringtail: Practical Two-Round Threshold Signatures from Learning with Errors",
+    "authors": [
+      {
+        "pid": "216/6219",
+        "name": "Cecilia Boschini"
+      },
+      {
+        "pid": "305/4144",
+        "name": "Darya Kaviani"
+      },
+      {
+        "pid": "160/8004",
+        "name": "Russell W. F. Lai"
+      },
+      {
+        "pid": "148/1304",
+        "name": "Giulio Malavolta"
+      },
+      {
+        "pid": "21/4240-2",
+        "name": "Akira Takahashi"
+      },
+      {
+        "pid": "65/7423",
+        "name": "Mehdi Tibouchi"
+      }
+    ],
+    "pages": "149-164",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00070"
+  },
+  {
+    "dblp_key": "conf/sp/KashinathAKDMV25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Groundhog: A Restart-Based Systems Framework for Increasing Availability in Threshold Cryptosystems",
+    "authors": [
+      {
+        "pid": "245/2953",
+        "name": "Ashish Kashinath"
+      },
+      {
+        "pid": "407/8435",
+        "name": "Disha Agarwala"
+      },
+      {
+        "pid": "376/9905",
+        "name": "Gabriel Kulp"
+      },
+      {
+        "pid": "31/6808",
+        "name": "Sourav Das"
+      },
+      {
+        "pid": "60/5790",
+        "name": "Sibin Mohan"
+      },
+      {
+        "pid": "148/9587",
+        "name": "Radha Venkatagiri"
+      }
+    ],
+    "pages": "165-183",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00056"
+  },
+  {
+    "dblp_key": "conf/sp/TaHC25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Ring Referral: Efficient Publicly Verifiable Ad hoc Credential Scheme with Issuer and Strong User Anonymity for Decentralized Identity and More",
+    "authors": [
+      {
+        "pid": "330/1728",
+        "name": "The-Anh Ta"
+      },
+      {
+        "pid": "373/6121",
+        "name": "Xiangyu Hui"
+      },
+      {
+        "pid": "130/5040",
+        "name": "Sid Chi-Kin Chau"
+      }
+    ],
+    "pages": "184-202",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00114"
+  },
+  {
+    "dblp_key": "conf/sp/TangX25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Robust Threshold ECDSA with Online-Friendly Design in Three Rounds",
+    "authors": [
+      {
+        "pid": "253/8184",
+        "name": "Guofeng Tang"
+      },
+      {
+        "pid": "137/5280",
+        "name": "Haiyang Xue"
+      }
+    ],
+    "pages": "203-221",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00115"
+  },
+  {
+    "dblp_key": "conf/sp/XuS25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Security Attacks Abusing Pulse-level Quantum Circuits",
+    "authors": [
+      {
+        "pid": "226/4112",
+        "name": "Chuanqi Xu"
+      },
+      {
+        "pid": "66/8277",
+        "name": "Jakub Szefer"
+      }
+    ],
+    "pages": "222-239",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00083"
+  },
+  {
+    "dblp_key": "conf/sp/Ding025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Phecda: Post-Quantum Transparent zkSNARKs from Improved Polynomial Commitment and VOLE-in-the-Head with Application in Publicly Verifiable AES",
+    "authors": [
+      {
+        "pid": "252/4062",
+        "name": "Changchang Ding"
+      },
+      {
+        "pid": "75/6434-1",
+        "name": "Yan Huang"
+      }
+    ],
+    "pages": "240-258",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00055"
+  },
+  {
+    "dblp_key": "conf/sp/YangBHKR25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Gold OPRF: Post-Quantum Oblivious Power-Residue PRF",
+    "authors": [
+      {
+        "pid": "75/5483-1",
+        "name": "Yibin Yang"
+      },
+      {
+        "pid": "125/3488",
+        "name": "Fabrice Benhamouda"
+      },
+      {
+        "pid": "65/4781",
+        "name": "Shai Halevi"
+      },
+      {
+        "pid": "46/6715",
+        "name": "Hugo Krawczyk"
+      },
+      {
+        "pid": "r/TalRabin",
+        "name": "Tal Rabin"
+      }
+    ],
+    "pages": "259-278",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00116"
+  },
+  {
+    "dblp_key": "conf/sp/WengerSMTL25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Benchmarking Attacks on Learning with Errors",
+    "authors": [
+      {
+        "pid": "259/1518",
+        "name": "Emily Wenger"
+      },
+      {
+        "pid": "315/8948",
+        "name": "Eshika Saxena"
+      },
+      {
+        "pid": "342/2793",
+        "name": "Mohamed Malhou"
+      },
+      {
+        "pid": "369/3327",
+        "name": "Ellie Thieu"
+      },
+      {
+        "pid": "08/1510",
+        "name": "Kristin E. Lauter"
+      }
+    ],
+    "pages": "279-297",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00058"
+  },
+  {
+    "dblp_key": "conf/sp/AliAF25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Understanding Users' Security and Privacy Concerns and Attitudes Towards Conversational AI Platforms",
+    "authors": [
+      {
+        "pid": "395/1909",
+        "name": "Mutahar Ali"
+      },
+      {
+        "pid": "331/2639",
+        "name": "Arjun Arunasalam"
+      },
+      {
+        "pid": "222/5923",
+        "name": "Habiba Farrukh"
+      }
+    ],
+    "pages": "298-316",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00241"
+  },
+  {
+    "dblp_key": "conf/sp/HouZW25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "On the (In)Security of LLM App Stores",
+    "authors": [
+      {
+        "pid": "73/7287",
+        "name": "Xinyi Hou"
+      },
+      {
+        "pid": "40/622-1",
+        "name": "Yanjie Zhao"
+      },
+      {
+        "pid": "50/8499-1",
+        "name": "Haoyu Wang"
+      }
+    ],
+    "pages": "317-335",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00117"
+  },
+  {
+    "dblp_key": "conf/sp/0001S0Z25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "GPTracker: A Large-Scale Measurement of Misused GPTs",
+    "authors": [
+      {
+        "pid": "148/9731-1",
+        "name": "Xinyue Shen"
+      },
+      {
+        "pid": "14/4412",
+        "name": "Yun Shen"
+      },
+      {
+        "pid": "b/MichaelBackes1",
+        "name": "Michael Backes"
+      },
+      {
+        "pid": "06/6785-16",
+        "name": "Yang Zhang"
+      }
+    ],
+    "pages": "336-354",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00118"
+  },
+  {
+    "dblp_key": "conf/sp/LiuM0B25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Modifier Unlocked: Jailbreaking Text-to-Image Models Through Prompts",
+    "authors": [
+      {
+        "pid": "360/6399",
+        "name": "Shuofeng Liu"
+      },
+      {
+        "pid": "42/6228",
+        "name": "Mengyao Ma"
+      },
+      {
+        "pid": "166/1912",
+        "name": "Minhui Xue"
+      },
+      {
+        "pid": "86/9673",
+        "name": "Guangdong Bai"
+      }
+    ],
+    "pages": "355-372",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00242"
+  },
+  {
+    "dblp_key": "conf/sp/DongM00G25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-to-Image Generation Models",
+    "authors": [
+      {
+        "pid": "384/6494",
+        "name": "Yingkai Dong"
+      },
+      {
+        "pid": "168/4733",
+        "name": "Xiangtao Meng"
+      },
+      {
+        "pid": "24/3024-6",
+        "name": "Ning Yu"
+      },
+      {
+        "pid": "10/1143-23",
+        "name": "Zheng Li"
+      },
+      {
+        "pid": "47/401",
+        "name": "Shanqing Guo"
+      }
+    ],
+    "pages": "373-391",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00119"
+  },
+  {
+    "dblp_key": "conf/sp/Tan0S0025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "On the Effectiveness of Prompt Stealing Attacks on In-the-Wild Prompts",
+    "authors": [
+      {
+        "pid": "290/7983",
+        "name": "Yicong Tan"
+      },
+      {
+        "pid": "148/9731-1",
+        "name": "Xinyue Shen"
+      },
+      {
+        "pid": "14/4412",
+        "name": "Yun Shen"
+      },
+      {
+        "pid": "b/MichaelBackes1",
+        "name": "Michael Backes"
+      },
+      {
+        "pid": "06/6785-16",
+        "name": "Yang Zhang"
+      }
+    ],
+    "pages": "392-410",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00120"
+  },
+  {
+    "dblp_key": "conf/sp/LabunetsPHFF25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Fun-tuning: Characterizing the Vulnerability of Proprietary LLMs to Optimization-Based Prompt Injection Attacks via the Fine-Tuning Interface",
+    "authors": [
+      {
+        "pid": "312/2370",
+        "name": "Andrey Labunets"
+      },
+      {
+        "pid": "385/8453",
+        "name": "Nishit V. Pandya"
+      },
+      {
+        "pid": "279/6684",
+        "name": "Ashish Hooda"
+      },
+      {
+        "pid": "261/3721",
+        "name": "Xiaohan Fu"
+      },
+      {
+        "pid": "16/10817",
+        "name": "Earlence Fernandes"
+      }
+    ],
+    "pages": "411-429",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00121"
+  },
+  {
+    "dblp_key": "conf/sp/Meerza0L25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Harmonycloak: Making Music Unlearnable for Generative AI",
+    "authors": [
+      {
+        "pid": "309/1613",
+        "name": "Syed Irfan Ali Meerza"
+      },
+      {
+        "pid": "121/0780-1",
+        "name": "Lichao Sun"
+      },
+      {
+        "pid": "35/295-1",
+        "name": "Jian Liu"
+      }
+    ],
+    "pages": "430-448",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00085"
+  },
+  {
+    "dblp_key": "conf/sp/ZhouZYCCD25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Hey, Your Secrets Leaked! Detecting and Characterizing Secret Leakage in the Wild",
+    "authors": [
+      {
+        "pid": "126/4991",
+        "name": "Jiawei Zhou"
+      },
+      {
+        "pid": "72/8471",
+        "name": "Zidong Zhang"
+      },
+      {
+        "pid": "18/7667",
+        "name": "Lingyun Ying"
+      },
+      {
+        "pid": "251/3599",
+        "name": "Huajun Chai"
+      },
+      {
+        "pid": "20/2389",
+        "name": "Jiuxin Cao"
+      },
+      {
+        "pid": "36/5143",
+        "name": "Haixin Duan"
+      }
+    ],
+    "pages": "449-467",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00122"
+  },
+  {
+    "dblp_key": "conf/sp/ChenWYCLJ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Unveiling Security Vulnerabilities in Git Large File Storage Protocol",
+    "authors": [
+      {
+        "pid": "55/6958",
+        "name": "Yuan Chen"
+      },
+      {
+        "pid": "156/1247",
+        "name": "Qinying Wang"
+      },
+      {
+        "pid": "11/357-17",
+        "name": "Yong Yang"
+      },
+      {
+        "pid": "189/5854",
+        "name": "Yuanchao Chen"
+      },
+      {
+        "pid": "156/2830-2",
+        "name": "Yuwei Li"
+      },
+      {
+        "pid": "07/8388",
+        "name": "Shouling Ji"
+      }
+    ],
+    "pages": "468-485",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00123"
+  },
+  {
+    "dblp_key": "conf/sp/ZhuCSXC25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs",
+    "authors": [
+      {
+        "pid": "366/3439",
+        "name": "Ruofan Zhu"
+      },
+      {
+        "pid": "407/9052",
+        "name": "Ganhao Chen"
+      },
+      {
+        "pid": "18/5040",
+        "name": "Wenbo Shen"
+      },
+      {
+        "pid": "127/0713",
+        "name": "Xiaofei Xie"
+      },
+      {
+        "pid": "61/1290",
+        "name": "Rui Chang"
+      }
+    ],
+    "pages": "486-503",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00012"
+  },
+  {
+    "dblp_key": "conf/sp/NapelEP25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Speedrunning the Maze: Meeting Regulatory Patching Deadlines in a Large Enterprise Environment",
+    "authors": [
+      {
+        "pid": "407/8285",
+        "name": "Gerbrand ten Napel"
+      },
+      {
+        "pid": "17/7444",
+        "name": "Michel van Eeten"
+      },
+      {
+        "pid": "84/3561",
+        "name": "Simon Parkin"
+      }
+    ],
+    "pages": "504-521",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00081"
+  },
+  {
+    "dblp_key": "conf/sp/AyalaNG25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "A Deep Dive into How Open-Source Project Maintainers Review and Resolve Bug Bounty Reports",
+    "authors": [
+      {
+        "pid": "348/6631",
+        "name": "Jessy Ayala"
+      },
+      {
+        "pid": "387/3595",
+        "name": "Steven Ngo"
+      },
+      {
+        "pid": "06/6932",
+        "name": "Joshua Garcia"
+      }
+    ],
+    "pages": "522-538",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00063"
+  },
+  {
+    "dblp_key": "conf/sp/PiaoHWA25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Study Club, Labor Union or Start-Up? Characterizing Teams and Collaboration in the Bug Bounty Ecosystem",
+    "authors": [
+      {
+        "pid": "288/1122",
+        "name": "Yangheran Piao"
+      },
+      {
+        "pid": "390/4968",
+        "name": "Temima Hrle"
+      },
+      {
+        "pid": "228/4088",
+        "name": "Daniel W. Woods"
+      },
+      {
+        "pid": "25/2713",
+        "name": "Ross Anderson"
+      }
+    ],
+    "pages": "539-558",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00020"
+  },
+  {
+    "dblp_key": "conf/sp/HanDM00ZW025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Codebreaker: Dynamic Extraction Attacks on Code Language Models",
+    "authors": [
+      {
+        "pid": "379/6282",
+        "name": "Changzhou Han"
+      },
+      {
+        "pid": "204/8295",
+        "name": "Zehang Deng"
+      },
+      {
+        "pid": "206/7127",
+        "name": "Wanlun Ma"
+      },
+      {
+        "pid": "171/2501",
+        "name": "Xiaogang Zhu"
+      },
+      {
+        "pid": "166/1912",
+        "name": "Minhui Xue"
+      },
+      {
+        "pid": "19/8310",
+        "name": "Tianqing Zhu"
+      },
+      {
+        "pid": "41/3095",
+        "name": "Sheng Wen"
+      },
+      {
+        "pid": "50/2192-1",
+        "name": "Yang Xiang"
+      }
+    ],
+    "pages": "559-575",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00124"
+  },
+  {
+    "dblp_key": "conf/sp/LiLWZX00X25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Make a Feint to the East While Attacking in the West: Blinding LLM-Based Code Auditors with Flashboom Attacks",
+    "authors": [
+      {
+        "pid": "66/2069-82",
+        "name": "Xiao Li"
+      },
+      {
+        "pid": "61/500-2",
+        "name": "Yue Li"
+      },
+      {
+        "pid": "72/4250-67",
+        "name": "Hao Wu"
+      },
+      {
+        "pid": "47/722-25",
+        "name": "Yue Zhang"
+      },
+      {
+        "pid": "195/8175",
+        "name": "Kaidi Xu"
+      },
+      {
+        "pid": "c/XiuzhenCheng",
+        "name": "Xiuzhen Cheng"
+      },
+      {
+        "pid": "53/4506-2",
+        "name": "Sheng Zhong"
+      },
+      {
+        "pid": "54/6929",
+        "name": "Fengyuan Xu"
+      }
+    ],
+    "pages": "576-594",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00125"
+  },
+  {
+    "dblp_key": "conf/sp/BencinaDMX25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Post-Quantum Cryptographic Analysis of SSH",
+    "authors": [
+      {
+        "pid": "360/1485",
+        "name": "Benjamin Bencina"
+      },
+      {
+        "pid": "138/8987",
+        "name": "Benjamin Dowling"
+      },
+      {
+        "pid": "250/2022",
+        "name": "Varun Maram"
+      },
+      {
+        "pid": "17/5868",
+        "name": "Keita Xagawa"
+      }
+    ],
+    "pages": "595-613",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00126"
+  },
+  {
+    "dblp_key": "conf/sp/BachoK25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SoK: Dlog-Based Distributed Key Generation",
+    "authors": [
+      {
+        "pid": "320/2171",
+        "name": "Renas Bacho"
+      },
+      {
+        "pid": "262/6226",
+        "name": "Alireza Kavousi"
+      }
+    ],
+    "pages": "614-632",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00127"
+  },
+  {
+    "dblp_key": "conf/sp/0001XTSP025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Verifiable Secret Sharing Simplified",
+    "authors": [
+      {
+        "pid": "31/6808-1",
+        "name": "Sourav Das"
+      },
+      {
+        "pid": "175/1673",
+        "name": "Zhuolun Xiang"
+      },
+      {
+        "pid": "119/7737",
+        "name": "Alin Tomescu"
+      },
+      {
+        "pid": "166/1563",
+        "name": "Alexander Spiegelman"
+      },
+      {
+        "pid": "31/1735",
+        "name": "Benny Pinkas"
+      },
+      {
+        "pid": "30/10661",
+        "name": "Ling Ren"
+      }
+    ],
+    "pages": "633-651",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00046"
+  },
+  {
+    "dblp_key": "conf/sp/Schanck25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Clubcards for the WebPKI: Smaller Certificate Revocation Tests in Theory and Practice",
+    "authors": [
+      {
+        "pid": "138/8980",
+        "name": "John M. Schanck"
+      }
+    ],
+    "pages": "652-663",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00128"
+  },
+  {
+    "dblp_key": "conf/sp/MuidCH25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "AccuRevoke: Enhancing Certificate Revocation with Distributed Cryptographic Accumulators",
+    "authors": [
+      {
+        "pid": "408/0820",
+        "name": "Munshi Rejwan Ala Muid"
+      },
+      {
+        "pid": "90/8396",
+        "name": "Taejoong Chung"
+      },
+      {
+        "pid": "132/2690",
+        "name": "Thang Hoang"
+      }
+    ],
+    "pages": "664-681",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00129"
+  },
+  {
+    "dblp_key": "conf/sp/YangW25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "RankGuess: Password Guessing Using Adversarial Ranking",
+    "authors": [
+      {
+        "pid": "67/1120-40",
+        "name": "Tao Yang"
+      },
+      {
+        "pid": "99/4292-2",
+        "name": "Ding Wang"
+      }
+    ],
+    "pages": "682-700",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00040"
+  },
+  {
+    "dblp_key": "conf/sp/DuanWF25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Security Analysis of Master-Password-Protected Password Management Protocols",
+    "authors": [
+      {
+        "pid": "348/2260",
+        "name": "Yihe Duan"
+      },
+      {
+        "pid": "99/4292-2",
+        "name": "Ding Wang"
+      },
+      {
+        "pid": "301/9705",
+        "name": "Yanduo Fu"
+      }
+    ],
+    "pages": "701-719",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00050"
+  },
+  {
+    "dblp_key": "conf/sp/KimLKK25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Open Sesame! On the Security and Memorability of Verbal Passwords",
+    "authors": [
+      {
+        "pid": "185/1645",
+        "name": "Eunsoo Kim"
+      },
+      {
+        "pid": "04/5599",
+        "name": "Kiho Lee"
+      },
+      {
+        "pid": "133/4707",
+        "name": "Doowon Kim"
+      },
+      {
+        "pid": "64/5383",
+        "name": "Hyoungshick Kim"
+      }
+    ],
+    "pages": "720-739",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00130"
+  },
+  {
+    "dblp_key": "conf/sp/HongJKY0J25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "CMASan: Custom Memory Allocator-aware Address Sanitizer",
+    "authors": [
+      {
+        "pid": "407/9229",
+        "name": "Junwha Hong"
+      },
+      {
+        "pid": "407/8104",
+        "name": "Wonil Jang"
+      },
+      {
+        "pid": "83/7296",
+        "name": "Mijung Kim"
+      },
+      {
+        "pid": "01/2775",
+        "name": "Lei Yu"
+      },
+      {
+        "pid": "139/7034",
+        "name": "Yonghwi Kwon"
+      },
+      {
+        "pid": "125/8622",
+        "name": "Yuseok Jeon"
+      }
+    ],
+    "pages": "740-757",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00110"
+  },
+  {
+    "dblp_key": "conf/sp/AnwarY025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "GoSonar: Detecting Logical Vulnerabilities in Memory Safe Language Using Inductive Constraint Reasoning",
+    "authors": [
+      {
+        "pid": "358/3435",
+        "name": "Md Sakib Anwar"
+      },
+      {
+        "pid": "185/6250",
+        "name": "Carter Yagemann"
+      },
+      {
+        "pid": "49/4102-1",
+        "name": "Zhiqiang Lin"
+      }
+    ],
+    "pages": "758-773",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00043"
+  },
+  {
+    "dblp_key": "conf/sp/VintilaZH25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Evaluating the Effectiveness of Memory Safety Sanitizers",
+    "authors": [
+      {
+        "pid": "299/5512",
+        "name": "Emanuel Q. Vintila"
+      },
+      {
+        "pid": "220/2401",
+        "name": "Philipp Zieris"
+      },
+      {
+        "pid": "142/8337",
+        "name": "Julian Horsch"
+      }
+    ],
+    "pages": "774-792",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00088"
+  },
+  {
+    "dblp_key": "conf/sp/AhnLPMK25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SwiftSweeper: Defeating Use-After-Free Bugs Using Memory Sweeper Without Stop-the-World",
+    "authors": [
+      {
+        "pid": "32/2676",
+        "name": "Junho Ahn"
+      },
+      {
+        "pid": "81/11176",
+        "name": "Kanghyuk Lee"
+      },
+      {
+        "pid": "396/3564",
+        "name": "Chanyoung Park"
+      },
+      {
+        "pid": "119/7680",
+        "name": "Hyungon Moon"
+      },
+      {
+        "pid": "94/8239",
+        "name": "Youngjin Kwon"
+      }
+    ],
+    "pages": "793-809",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00131"
+  },
+  {
+    "dblp_key": "conf/sp/XieH000GS25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "BridgeRouter: Automated Capability Upgrading of Out-Of-Bounds Write Vulnerabilities to Arbitrary Memory Write Primitives in the Linux Kernel",
+    "authors": [
+      {
+        "pid": "386/4146",
+        "name": "Dongchen Xie"
+      },
+      {
+        "pid": "386/4953",
+        "name": "Dongnan He"
+      },
+      {
+        "pid": "87/6465-1",
+        "name": "Wei You"
+      },
+      {
+        "pid": "41/2181-1",
+        "name": "Jianjun Huang"
+      },
+      {
+        "pid": "71/6053-2",
+        "name": "Bin Liang"
+      },
+      {
+        "pid": "153/0205",
+        "name": "Shuitao Gan"
+      },
+      {
+        "pid": "74/2181",
+        "name": "Wenchang Shi"
+      }
+    ],
+    "pages": "810-828",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00132"
+  },
+  {
+    "dblp_key": "conf/sp/GulmezEMN25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Mon CHERI: Mitigating Uninitialized Memory Access with Conditional Capabilities",
+    "authors": [
+      {
+        "pid": "158/1692",
+        "name": "Merve Gülmez"
+      },
+      {
+        "pid": "72/4279",
+        "name": "Håkan Englund"
+      },
+      {
+        "pid": "84/4044",
+        "name": "Jan Tobias Mühlberg"
+      },
+      {
+        "pid": "149/2426",
+        "name": "Thomas Nyman"
+      }
+    ],
+    "pages": "829-847",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00133"
+  },
+  {
+    "dblp_key": "conf/sp/HuangPQSTJ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SoK: Challenges and Paths Toward Memory Safety for eBPF",
+    "authors": [
+      {
+        "pid": "35/5361",
+        "name": "Kaiming Huang"
+      },
+      {
+        "pid": "31/1273",
+        "name": "Mathias Payer"
+      },
+      {
+        "pid": "31/8302",
+        "name": "Zhiyun Qian"
+      },
+      {
+        "pid": "11/2192",
+        "name": "Jack Sampson"
+      },
+      {
+        "pid": "91/6206",
+        "name": "Gang Tan"
+      },
+      {
+        "pid": "45/576",
+        "name": "Trent Jaeger"
+      }
+    ],
+    "pages": "848-866",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00134"
+  },
+  {
+    "dblp_key": "conf/sp/MomeuGHK25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "IUBIK: Isolating User Bytes in Commodity Operating System Kernels via Memory Tagging Extensions",
+    "authors": [
+      {
+        "pid": "231/1935",
+        "name": "Marius Momeu"
+      },
+      {
+        "pid": "344/1644",
+        "name": "Alexander J. Gaidis"
+      },
+      {
+        "pid": "408/0104",
+        "name": "Jasper v. d. Heidt"
+      },
+      {
+        "pid": "87/1029",
+        "name": "Vasileios P. Kemerlis"
+      }
+    ],
+    "pages": "867-885",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00135"
+  },
+  {
+    "dblp_key": "conf/sp/Wang0L025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation",
+    "authors": [
+      {
+        "pid": "324/6554",
+        "name": "Chenlin Wang"
+      },
+      {
+        "pid": "05/3920-1",
+        "name": "Wei Meng"
+      },
+      {
+        "pid": "294/1088",
+        "name": "Changhua Luo"
+      },
+      {
+        "pid": "81/8013-1",
+        "name": "Penghui Li"
+      }
+    ],
+    "pages": "886-902",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00066"
+  },
+  {
+    "dblp_key": "conf/sp/LiuS00L025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "MOCGuard: Automatically Detecting Missing-Owner-Check Vulnerabilities in Java Web Applications",
+    "authors": [
+      {
+        "pid": "62/2067",
+        "name": "Fengyu Liu"
+      },
+      {
+        "pid": "331/2215",
+        "name": "Youkun Shi"
+      },
+      {
+        "pid": "48/2168-9",
+        "name": "Yuan Zhang"
+      },
+      {
+        "pid": "153/5855",
+        "name": "Guangliang Yang"
+      },
+      {
+        "pid": "407/8779",
+        "name": "Enhao Li"
+      },
+      {
+        "pid": "02/1640-2",
+        "name": "Min Yang"
+      }
+    ],
+    "pages": "903-919",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00010"
+  },
+  {
+    "dblp_key": "conf/sp/ParkKY25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "RGFuzz: Rule-Guided Fuzzer for WebAssembly Runtimes",
+    "authors": [
+      {
+        "pid": "05/5040",
+        "name": "Junyoung Park"
+      },
+      {
+        "pid": "76/5961",
+        "name": "Yunho Kim"
+      },
+      {
+        "pid": "119/7670",
+        "name": "Insu Yun"
+      }
+    ],
+    "pages": "920-938",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00003"
+  },
+  {
+    "dblp_key": "conf/sp/Chen0L25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Racedb: Detecting Request Race Vulnerabilities in Database-Backed Web Applications",
+    "authors": [
+      {
+        "pid": "48/4487",
+        "name": "An Chen"
+      },
+      {
+        "pid": "139/7034",
+        "name": "Yonghwi Kwon"
+      },
+      {
+        "pid": "31/9698",
+        "name": "Kyu Hyung Lee"
+      }
+    ],
+    "pages": "939-955",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00029"
+  },
+  {
+    "dblp_key": "conf/sp/PangZGZCZL25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "PFortifier: Mitigating PHP Object Injection Through Automatic Patch Generation",
+    "authors": [
+      {
+        "pid": "16/6344",
+        "name": "Bo Pang"
+      },
+      {
+        "pid": "51/1000",
+        "name": "Yiheng Zhang"
+      },
+      {
+        "pid": "237/6062",
+        "name": "Mingzhe Gao"
+      },
+      {
+        "pid": "121/7232",
+        "name": "Junzhe Zhang"
+      },
+      {
+        "pid": "247/6549",
+        "name": "Ligeng Chen"
+      },
+      {
+        "pid": "407/8639",
+        "name": "Mingxue Zhangt"
+      },
+      {
+        "pid": "22/6518",
+        "name": "Gang Liang"
+      }
+    ],
+    "pages": "956-971",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00136"
+  },
+  {
+    "dblp_key": "conf/sp/Liu0CS0L0HL25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications",
+    "authors": [
+      {
+        "pid": "62/2067",
+        "name": "Fengyu Liu"
+      },
+      {
+        "pid": "48/2168-9",
+        "name": "Yuan Zhang"
+      },
+      {
+        "pid": "66/5721",
+        "name": "Tian Chen"
+      },
+      {
+        "pid": "331/2215",
+        "name": "Youkun Shi"
+      },
+      {
+        "pid": "153/5855",
+        "name": "Guangliang Yang"
+      },
+      {
+        "pid": "248/8419",
+        "name": "Zihan Lin"
+      },
+      {
+        "pid": "02/1640-2",
+        "name": "Min Yang"
+      },
+      {
+        "pid": "388/5685",
+        "name": "Junyao He"
+      },
+      {
+        "pid": "181/2688",
+        "name": "Qi Li"
+      }
+    ],
+    "pages": "972-990",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00137"
+  },
+  {
+    "dblp_key": "conf/sp/KangLLYFLC25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Follow My Flow: Unveiling Client-Side Prototype Pollution Gadgets from One Million Real-World Websites",
+    "authors": [
+      {
+        "pid": "254/6529",
+        "name": "Zifeng Kang"
+      },
+      {
+        "pid": "407/8413",
+        "name": "Muxi Lyu"
+      },
+      {
+        "pid": "93/405",
+        "name": "Zhengyu Liu"
+      },
+      {
+        "pid": "251/3631",
+        "name": "Jianjia Yu"
+      },
+      {
+        "pid": "408/0467",
+        "name": "Runqi Fan"
+      },
+      {
+        "pid": "67/2580-6",
+        "name": "Song Li"
+      },
+      {
+        "pid": "28/8733",
+        "name": "Yinzhi Cao"
+      }
+    ],
+    "pages": "991-1008",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00016"
+  },
+  {
+    "dblp_key": "conf/sp/InnocentiJMMK25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "\"Only as Strong as the Weakest Link\": On the Security of Brokered Single Sign-On on the Web",
+    "authors": [
+      {
+        "pid": "296/7414",
+        "name": "Tommaso Innocenti"
+      },
+      {
+        "pid": "332/3121",
+        "name": "Louis Jannett"
+      },
+      {
+        "pid": "57/11338",
+        "name": "Christian Mainka"
+      },
+      {
+        "pid": "138/0964",
+        "name": "Vladislav Mladenov"
+      },
+      {
+        "pid": "k/EnginKirda",
+        "name": "Engin Kirda"
+      }
+    ],
+    "pages": "1009-1027",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00024"
+  },
+  {
+    "dblp_key": "conf/sp/RemyECFX25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SoK: Space Infrastructures Vulnerabilities, Attacks and Defenses",
+    "authors": [
+      {
+        "pid": "352/2550",
+        "name": "Jose Luis Castanon Remy"
+      },
+      {
+        "pid": "352/2533",
+        "name": "Ekzhin Ear"
+      },
+      {
+        "pid": "407/8092",
+        "name": "Caleb Chang"
+      },
+      {
+        "pid": "356/6927",
+        "name": "Antonia Feffer"
+      },
+      {
+        "pid": "78/2715",
+        "name": "Shouhuai Xu"
+      }
+    ],
+    "pages": "1028-1046",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00138"
+  },
+  {
+    "dblp_key": "conf/sp/WillboldCWBSDH25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Space RADSIM: Binary-Agnostic Fault Injection to Evaluate Cosmic Radiation Impact on Exploit Mitigation Techniques in Space",
+    "authors": [
+      {
+        "pid": "331/2527",
+        "name": "Johannes Willbold"
+      },
+      {
+        "pid": "270/1642",
+        "name": "Tobias Cloosters"
+      },
+      {
+        "pid": "248/1623",
+        "name": "Simon Wörner"
+      },
+      {
+        "pid": "353/7581",
+        "name": "Felix Buchmann"
+      },
+      {
+        "pid": "207/4015",
+        "name": "Moritz Schloegel"
+      },
+      {
+        "pid": "73/7564",
+        "name": "Lucas Davi"
+      },
+      {
+        "pid": "h/ThorstenHolz",
+        "name": "Thorsten Holz"
+      }
+    ],
+    "pages": "1047-1063",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00139"
+  },
+  {
+    "dblp_key": "conf/sp/LiuLWLWLZLL025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks",
+    "authors": [
+      {
+        "pid": "323/0101",
+        "name": "Weisen Liu"
+      },
+      {
+        "pid": "148/1959",
+        "name": "Zeqi Lai"
+      },
+      {
+        "pid": "61/591-1",
+        "name": "Qian Wu"
+      },
+      {
+        "pid": "51/8276",
+        "name": "Hewu Li"
+      },
+      {
+        "pid": "387/4049",
+        "name": "Yuxuan Weng"
+      },
+      {
+        "pid": "49/3283-192",
+        "name": "Wei Liu"
+      },
+      {
+        "pid": "52/323-102",
+        "name": "Qi Zhang"
+      },
+      {
+        "pid": "34/10479",
+        "name": "Jihao Li"
+      },
+      {
+        "pid": "75/10258",
+        "name": "Yuanjie Li"
+      },
+      {
+        "pid": "95/3736-63",
+        "name": "Jun Liu"
+      }
+    ],
+    "pages": "1064-1080",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00140"
+  },
+  {
+    "dblp_key": "conf/sp/AkonTH25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "From Control to Chaos: A Comprehensive Formal Analysis of 5G's Access Control",
+    "authors": [
+      {
+        "pid": "301/5126",
+        "name": "Mujtahid Akon"
+      },
+      {
+        "pid": "267/1509",
+        "name": "Md. Toufikuzzaman"
+      },
+      {
+        "pid": "83/7270",
+        "name": "Syed Rafiul Hussain"
+      }
+    ],
+    "pages": "1081-1100",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00141"
+  },
+  {
+    "dblp_key": "conf/sp/KlischiesGHMMM25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "BaseBridge: Bridging the Gap Between Over-the-Air and Emulation Testing for Cellular Baseband Firmware",
+    "authors": [
+      {
+        "pid": "211/4792",
+        "name": "Daniel Klischies"
+      },
+      {
+        "pid": "407/8259",
+        "name": "Dyon Goos"
+      },
+      {
+        "pid": "166/7845",
+        "name": "David Hirsch"
+      },
+      {
+        "pid": "212/6785",
+        "name": "Alyssa Milburn"
+      },
+      {
+        "pid": "185/2352",
+        "name": "Marius Muench"
+      },
+      {
+        "pid": "20/11342",
+        "name": "Veelasha Moonsamy"
+      }
+    ],
+    "pages": "1101-1119",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00142"
+  },
+  {
+    "dblp_key": "conf/sp/RanjbarYTKH25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Stateful Analysis and Fuzzing of Commercial Baseband Firmware",
+    "authors": [
+      {
+        "pid": "358/7127",
+        "name": "Ali Ranjbar"
+      },
+      {
+        "pid": "154/4724",
+        "name": "Tianchang Yang"
+      },
+      {
+        "pid": "87/1149",
+        "name": "Kai Tu"
+      },
+      {
+        "pid": "408/0860",
+        "name": "Saaman Khalilollahi"
+      },
+      {
+        "pid": "83/7270",
+        "name": "Syed Rafiul Hussain"
+      }
+    ],
+    "pages": "1120-1139",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00143"
+  },
+  {
+    "dblp_key": "conf/sp/YangS0A025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "PGUS: Pretty Good User Security for Thick MVNOs with a Novel Sanitizable Blind Signature",
+    "authors": [
+      {
+        "pid": "48/450-138",
+        "name": "Yang Yang"
+      },
+      {
+        "pid": "50/6404",
+        "name": "Quan Shi"
+      },
+      {
+        "pid": "146/8257",
+        "name": "Prosanta Gope"
+      },
+      {
+        "pid": "165/0256",
+        "name": "Behzad Abdolmaleki"
+      },
+      {
+        "pid": "s/BiplabSikdar",
+        "name": "Biplab Sikdar"
+      }
+    ],
+    "pages": "1140-1158",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00144"
+  },
+  {
+    "dblp_key": "conf/sp/Zhang0YDW0W025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Invade the Walled Garden: Evaluating GTP Security in Cellular Networks",
+    "authors": [
+      {
+        "pid": "76/5416-9",
+        "name": "Yiming Zhang"
+      },
+      {
+        "pid": "62/2525-4",
+        "name": "Tao Wan"
+      },
+      {
+        "pid": "235/0575",
+        "name": "Yaru Yang"
+      },
+      {
+        "pid": "36/5143",
+        "name": "Haixin Duan"
+      },
+      {
+        "pid": "74/8792",
+        "name": "Yichen Wang"
+      },
+      {
+        "pid": "20/1036-5",
+        "name": "Jianjun Chen"
+      },
+      {
+        "pid": "131/2191",
+        "name": "Zixiang Wei"
+      },
+      {
+        "pid": "40/1491-108",
+        "name": "Xiang Li"
+      }
+    ],
+    "pages": "1159-1177",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00028"
+  },
+  {
+    "dblp_key": "conf/sp/BeadleTETOMZV25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SoK: A Privacy Framework for Security Research Using Social Media Data",
+    "authors": [
+      {
+        "pid": "354/6105",
+        "name": "Kyle Beadle"
+      },
+      {
+        "pid": "344/8538",
+        "name": "Kieron Ivy Turk"
+      },
+      {
+        "pid": "323/5342",
+        "name": "Aliai Eusebi"
+      },
+      {
+        "pid": "353/2032",
+        "name": "Mindy Tran"
+      },
+      {
+        "pid": "362/7430",
+        "name": "Marilyne Ordekian"
+      },
+      {
+        "pid": "178/2014",
+        "name": "Enrico Mariconti"
+      },
+      {
+        "pid": "218/0356",
+        "name": "Yixin Zou"
+      },
+      {
+        "pid": "145/2831",
+        "name": "Marie Vasek"
+      }
+    ],
+    "pages": "1178-1196",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00145"
+  },
+  {
+    "dblp_key": "conf/sp/CiclosiVM25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "GDPR in the Small: A Field Study of Privacy and Security Challenges in Schools",
+    "authors": [
+      {
+        "pid": "252/0859",
+        "name": "Francesco Ciclosi"
+      },
+      {
+        "pid": "11/4125",
+        "name": "Giovanna Varni"
+      },
+      {
+        "pid": "59/6145",
+        "name": "Fabio Massacci"
+      }
+    ],
+    "pages": "1197-1214",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00243"
+  },
+  {
+    "dblp_key": "conf/sp/HorstmannH0SDJM25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "\"Sorry for Bugging you so much.\" Exploring Developers' Behavior Towards Privacy-Compliant Implementation",
+    "authors": [
+      {
+        "pid": "287/4547",
+        "name": "Stefan Albert Horstmann"
+      },
+      {
+        "pid": "405/3708",
+        "name": "Sandy Hong"
+      },
+      {
+        "pid": "78/854-1",
+        "name": "David Klein"
+      },
+      {
+        "pid": "353/6883",
+        "name": "Raphael Serafini"
+      },
+      {
+        "pid": "120/5815",
+        "name": "Martin Degeling"
+      },
+      {
+        "pid": "82/359",
+        "name": "Martin Johns"
+      },
+      {
+        "pid": "20/11342",
+        "name": "Veelasha Moonsamy"
+      },
+      {
+        "pid": "201/9227",
+        "name": "Alena Naiakshina"
+      }
+    ],
+    "pages": "1215-1233",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00146"
+  },
+  {
+    "dblp_key": "conf/sp/LuvisonCSNTL25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "A Low-Cost Privacy-Preserving Digital Wallet for Humanitarian Aid Distribution",
+    "authors": [
+      {
+        "pid": "391/0281",
+        "name": "Eva Luvison"
+      },
+      {
+        "pid": "245/4979",
+        "name": "Sylvain Chatel"
+      },
+      {
+        "pid": "344/2305",
+        "name": "Justinas Sukaitis"
+      },
+      {
+        "pid": "344/1618",
+        "name": "Vincent Graf Narbel"
+      },
+      {
+        "pid": "01/4825",
+        "name": "Carmela Troncoso"
+      },
+      {
+        "pid": "35/9846",
+        "name": "Wouter Lueks"
+      }
+    ],
+    "pages": "1234-1250",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00069"
+  },
+  {
+    "dblp_key": "conf/sp/WenZXYJ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Teaching Data Science Students to Sketch Privacy Designs Through Heuristics",
+    "authors": [
+      {
+        "pid": "390/3404",
+        "name": "Jinhe Wen"
+      },
+      {
+        "pid": "405/1632",
+        "name": "Yingxi Zhao"
+      },
+      {
+        "pid": "269/6968",
+        "name": "Wenqian Xu"
+      },
+      {
+        "pid": "142/7931",
+        "name": "Yaxing Yao"
+      },
+      {
+        "pid": "128/9277",
+        "name": "Haojian Jin"
+      }
+    ],
+    "pages": "1251-1269",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00147"
+  },
+  {
+    "dblp_key": "conf/sp/BrysonBMAELMMU25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Characterizing the Usability and Usefulness of U.S. Ad Transparency Systems",
+    "authors": [
+      {
+        "pid": "33/904-2",
+        "name": "Kevin Bryson"
+      },
+      {
+        "pid": "280/6860",
+        "name": "Arthur Borem"
+      },
+      {
+        "pid": "301/7837",
+        "name": "Phoebe Moh"
+      },
+      {
+        "pid": "198/9755",
+        "name": "Omer Akgul"
+      },
+      {
+        "pid": "236/5179",
+        "name": "Laura Edelson"
+      },
+      {
+        "pid": "00/3175",
+        "name": "Tobias Lauinger"
+      },
+      {
+        "pid": "20/7983",
+        "name": "Michelle L. Mazurek"
+      },
+      {
+        "pid": "58/4016",
+        "name": "Damon McCoy"
+      },
+      {
+        "pid": "66/9786",
+        "name": "Blase Ur"
+      }
+    ],
+    "pages": "1270-1287",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00148"
+  },
+  {
+    "dblp_key": "conf/sp/WenLY25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Supporting Family Discussions About Digital Privacy Through Perspective-Taking: An Empirical Investigation",
+    "authors": [
+      {
+        "pid": "134/7639",
+        "name": "Zikai Wen"
+      },
+      {
+        "pid": "63/7830",
+        "name": "Lanjing Liu"
+      },
+      {
+        "pid": "142/7931",
+        "name": "Yaxing Yao"
+      }
+    ],
+    "pages": "1288-1305",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00149"
+  },
+  {
+    "dblp_key": "conf/sp/AgahariDJRF25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "The Importance of Being Earnest: Shedding Light on Johnny's (False) Sense of Privacy",
+    "authors": [
+      {
+        "pid": "271/3636",
+        "name": "Wirawan Agahari"
+      },
+      {
+        "pid": "297/8337",
+        "name": "Alexandra Dirksen"
+      },
+      {
+        "pid": "82/359",
+        "name": "Martin Johns"
+      },
+      {
+        "pid": "46/2088",
+        "name": "Mark de Reuver"
+      },
+      {
+        "pid": "150/5174",
+        "name": "Tobias Fiebig"
+      }
+    ],
+    "pages": "1306-1324",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00150"
+  },
+  {
+    "dblp_key": "conf/sp/VafaSTR25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Learning from Censored Experiences: Social Media Discussions around Censorship Circumvention Technologies",
+    "authors": [
+      {
+        "pid": "387/9042",
+        "name": "Elham Pourabbas Vafa"
+      },
+      {
+        "pid": "252/6782",
+        "name": "Mohit Singhal"
+      },
+      {
+        "pid": "296/1793",
+        "name": "Poojitha Thota"
+      },
+      {
+        "pid": "306/0885",
+        "name": "Sayak Saha Roy"
+      }
+    ],
+    "pages": "1325-1343",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00062"
+  },
+  {
+    "dblp_key": "conf/sp/NiereLMS25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Transport Layer Obscurity: Circumventing SNI Censorship on the TLS-Layer",
+    "authors": [
+      {
+        "pid": "361/1716",
+        "name": "Niklas Niere"
+      },
+      {
+        "pid": "222/1046",
+        "name": "Felix Lange"
+      },
+      {
+        "pid": "248/1716",
+        "name": "Robert Merget"
+      },
+      {
+        "pid": "27/8331",
+        "name": "Juraj Somorovsky"
+      }
+    ],
+    "pages": "1344-1362",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00151"
+  },
+  {
+    "dblp_key": "conf/sp/WuZDHW25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "A Wall Behind A Wall: Emerging Regional Censorship in China",
+    "authors": [
+      {
+        "pid": "353/7580",
+        "name": "Mingshi Wu"
+      },
+      {
+        "pid": "350/7826",
+        "name": "Ali Zohaib"
+      },
+      {
+        "pid": "143/5673",
+        "name": "Zakir Durumeric"
+      },
+      {
+        "pid": "22/1797",
+        "name": "Amir Houmansadr"
+      },
+      {
+        "pid": "60/8733",
+        "name": "Eric Wustrow"
+      }
+    ],
+    "pages": "1363-1380",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00152"
+  },
+  {
+    "dblp_key": "conf/sp/KamaliB25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Anix: Anonymous Blackout-Resistant Microblogging with Message Endorsing",
+    "authors": [
+      {
+        "pid": "331/3579",
+        "name": "Sina Kamali"
+      },
+      {
+        "pid": "204/5176",
+        "name": "Diogo Barradas"
+      }
+    ],
+    "pages": "1381-1399",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00015"
+  },
+  {
+    "dblp_key": "conf/sp/NourinR0HL25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Is Nobody There? Good! Globally Measuring Connection Tampering Without Responsive Endhosts",
+    "authors": [
+      {
+        "pid": "344/4118",
+        "name": "Sadia Nourin"
+      },
+      {
+        "pid": "185/5733",
+        "name": "Erik C. Rye"
+      },
+      {
+        "pid": "186/5066",
+        "name": "Kevin Bock"
+      },
+      {
+        "pid": "179/2240",
+        "name": "Nguyen Phong Hoang"
+      },
+      {
+        "pid": "03/6428",
+        "name": "Dave Levin"
+      }
+    ],
+    "pages": "1400-1418",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00153"
+  },
+  {
+    "dblp_key": "conf/sp/Deng0WZXW25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Countmamba: A Generalized Website Fingerprinting Attack via Coarse-Grained Representation and Fine-Grained Prediction",
+    "authors": [
+      {
+        "pid": "315/6039",
+        "name": "Xianwen Deng"
+      },
+      {
+        "pid": "92/10854-1",
+        "name": "Ruijie Zhao"
+      },
+      {
+        "pid": "123/2365",
+        "name": "Yanhao Wang"
+      },
+      {
+        "pid": "352/8677",
+        "name": "Mingwei Zhan"
+      },
+      {
+        "pid": "44/3322",
+        "name": "Zhi Xue"
+      },
+      {
+        "pid": "27/1332",
+        "name": "Yijun Wang"
+      }
+    ],
+    "pages": "1419-1437",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00154"
+  },
+  {
+    "dblp_key": "conf/sp/BaiYPXY025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Provably Robust and Secure Steganography in Asymmetric Resource Scenario",
+    "authors": [
+      {
+        "pid": "361/3951",
+        "name": "Minhao Bai"
+      },
+      {
+        "pid": "267/5357",
+        "name": "Jinshuai Yang"
+      },
+      {
+        "pid": "361/4092",
+        "name": "Kaiyi Pang"
+      },
+      {
+        "pid": "66/3874",
+        "name": "Xin Xu"
+      },
+      {
+        "pid": "70/2539-15",
+        "name": "Zhen Yang"
+      },
+      {
+        "pid": "76/6824-1",
+        "name": "Yongfeng Huang"
+      }
+    ],
+    "pages": "1438-1456",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00155"
+  },
+  {
+    "dblp_key": "conf/sp/FredricksonDHL25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Sparta: Practical Anonymity with Long-Term Resistance to Traffic Analysis",
+    "authors": [
+      {
+        "pid": "304/2669",
+        "name": "Kyle Fredrickson"
+      },
+      {
+        "pid": "181/5758",
+        "name": "Ioannis Demertzis"
+      },
+      {
+        "pid": "68/10852",
+        "name": "James P. Hughes"
+      },
+      {
+        "pid": "49/4298",
+        "name": "Darrell D. E. Long"
+      }
+    ],
+    "pages": "1457-1473",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00065"
+  },
+  {
+    "dblp_key": "conf/sp/Han0YB25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "P2C2T: Preserving the Privacy of Cross-Chain Transfer",
+    "authors": [
+      {
+        "pid": "133/5698",
+        "name": "Panpan Han"
+      },
+      {
+        "pid": "43/180-2",
+        "name": "Zheng Yan"
+      },
+      {
+        "pid": "y/LaurenceTianruoYang",
+        "name": "Laurence T. Yang"
+      },
+      {
+        "pid": "b/ElisaBertino",
+        "name": "Elisa Bertino"
+      }
+    ],
+    "pages": "1474-1492",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00051"
+  },
+  {
+    "dblp_key": "conf/sp/AustgenFKVABYJ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Liquefaction: Privately Liquefying Blockchain Assets",
+    "authors": [
+      {
+        "pid": "305/3202",
+        "name": "James Austgen"
+      },
+      {
+        "pid": "333/8848",
+        "name": "Andrés Fábrega"
+      },
+      {
+        "pid": "218/7156",
+        "name": "Mahimna Kelkar"
+      },
+      {
+        "pid": "392/5745",
+        "name": "Dani Vilardell"
+      },
+      {
+        "pid": "49/1564",
+        "name": "Sarah Allen"
+      },
+      {
+        "pid": "197/6885",
+        "name": "Kushal Babel"
+      },
+      {
+        "pid": "274/2928",
+        "name": "Jay Yu"
+      },
+      {
+        "pid": "j/AriJuels",
+        "name": "Ari Juels"
+      }
+    ],
+    "pages": "1493-1511",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00156"
+  },
+  {
+    "dblp_key": "conf/sp/YangN025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Decentralization of Ethereum's Builder Market",
+    "authors": [
+      {
+        "pid": "90/4655-11",
+        "name": "Sen Yang"
+      },
+      {
+        "pid": "143/4459",
+        "name": "Kartik Nayak"
+      },
+      {
+        "pid": "21/3626-22",
+        "name": "Fan Zhang"
+      }
+    ],
+    "pages": "1512-1530",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00157"
+  },
+  {
+    "dblp_key": "conf/sp/ChatzigiannisWA25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms",
+    "authors": [
+      {
+        "pid": "241/5872",
+        "name": "Panagiotis Chatzigiannis"
+      },
+      {
+        "pid": "220/3081",
+        "name": "Ke Coby Wang"
+      },
+      {
+        "pid": "118/1516",
+        "name": "Sunpreet S. Arora"
+      },
+      {
+        "pid": "139/2505",
+        "name": "Mohsen Minaei"
+      }
+    ],
+    "pages": "1531-1546",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00158"
+  },
+  {
+    "dblp_key": "conf/sp/SuiWD25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Signature-Free Atomic Broadcast with Optimal $O(n^{2})$ Messages and $O(1)$ Expected Time",
+    "authors": [
+      {
+        "pid": "320/2137",
+        "name": "Xiao Sui"
+      },
+      {
+        "pid": "10/5630",
+        "name": "Xin Wang"
+      },
+      {
+        "pid": "146/0078",
+        "name": "Sisi Duan"
+      }
+    ],
+    "pages": "1547-1565",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00244"
+  },
+  {
+    "dblp_key": "conf/sp/NiT025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Warning! The Timeout T Cannot Protect You From Losing Coins: PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps",
+    "authors": [
+      {
+        "pid": "216/6079",
+        "name": "Peifang Ni"
+      },
+      {
+        "pid": "273/0653",
+        "name": "Anqi Tian"
+      },
+      {
+        "pid": "07/1951-2",
+        "name": "Jing Xu"
+      }
+    ],
+    "pages": "1566-1583",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00245"
+  },
+  {
+    "dblp_key": "conf/sp/DingT025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs",
+    "authors": [
+      {
+        "pid": "269/2842",
+        "name": "Wanning Ding"
+      },
+      {
+        "pid": "09/1770",
+        "name": "Yuzhe Tang"
+      },
+      {
+        "pid": "25/4764-6",
+        "name": "Yibo Wang"
+      }
+    ],
+    "pages": "1584-1602",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00061"
+  },
+  {
+    "dblp_key": "conf/sp/OsadnikKCLM25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Papercraft: Lattice-Based Verifiable Delay Function Implemented",
+    "authors": [
+      {
+        "pid": "326/4694",
+        "name": "Michal Osadnik"
+      },
+      {
+        "pid": "305/4144",
+        "name": "Darya Kaviani"
+      },
+      {
+        "pid": "280/4036",
+        "name": "Valerio Cini"
+      },
+      {
+        "pid": "160/8004",
+        "name": "Russell W. F. Lai"
+      },
+      {
+        "pid": "148/1304",
+        "name": "Giulio Malavolta"
+      }
+    ],
+    "pages": "1603-1621",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00159"
+  },
+  {
+    "dblp_key": "conf/sp/0001WXWZV25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Preference Poisoning Attacks on Reward Model Learning",
+    "authors": [
+      {
+        "pid": "188/8292-1",
+        "name": "Junlin Wu"
+      },
+      {
+        "pid": "322/5991",
+        "name": "Jiongxiao Wang"
+      },
+      {
+        "pid": "150/3317",
+        "name": "Chaowei Xiao"
+      },
+      {
+        "pid": "62/3432",
+        "name": "Chenguang Wang"
+      },
+      {
+        "pid": "181/2597-17",
+        "name": "Ning Zhang"
+      },
+      {
+        "pid": "70/2217",
+        "name": "Yevgeniy Vorobeychik"
+      }
+    ],
+    "pages": "1622-1640",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00094"
+  },
+  {
+    "dblp_key": "conf/sp/LiZJ0C025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Query Provenance Analysis: Efficient and Robust Defense Against Query-Based Black-Box Attacks",
+    "authors": [
+      {
+        "pid": "251/7559",
+        "name": "Shaofei Li"
+      },
+      {
+        "pid": "97/7236",
+        "name": "Ziqi Zhang"
+      },
+      {
+        "pid": "378/3989",
+        "name": "Haomin Jia"
+      },
+      {
+        "pid": "07/6300-1",
+        "name": "Yao Guo"
+      },
+      {
+        "pid": "49/628",
+        "name": "Xiangqun Chen"
+      },
+      {
+        "pid": "95/7132-1",
+        "name": "Ding Li"
+      }
+    ],
+    "pages": "1641-1656",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00072"
+  },
+  {
+    "dblp_key": "conf/sp/LangfordSZMP25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Architectural Neural Backdoors from First Principles",
+    "authors": [
+      {
+        "pid": "368/6362",
+        "name": "Harry Langford"
+      },
+      {
+        "pid": "213/8587",
+        "name": "Ilia Shumailov"
+      },
+      {
+        "pid": "200/2754",
+        "name": "Yiren Zhao"
+      },
+      {
+        "pid": "31/789",
+        "name": "Robert Mullins"
+      },
+      {
+        "pid": "162/1405",
+        "name": "Nicolas Papernot"
+      }
+    ],
+    "pages": "1657-1675",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00060"
+  },
+  {
+    "dblp_key": "conf/sp/Shen0000GY0AM025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target",
+    "authors": [
+      {
+        "pid": "216/6403",
+        "name": "Guangyu Shen"
+      },
+      {
+        "pid": "263/7049",
+        "name": "Siyuan Cheng"
+      },
+      {
+        "pid": "16/1234-2",
+        "name": "Zhuo Zhang"
+      },
+      {
+        "pid": "88/10370-1",
+        "name": "Guanhong Tao"
+      },
+      {
+        "pid": "147/6644-2",
+        "name": "Kaiyuan Zhang"
+      },
+      {
+        "pid": "300/2967",
+        "name": "Hanxi Guo"
+      },
+      {
+        "pid": "y/LuYan",
+        "name": "Lu Yan"
+      },
+      {
+        "pid": "00/1728-2",
+        "name": "Xiaolong Jin"
+      },
+      {
+        "pid": "168/9413",
+        "name": "Shengwei An"
+      },
+      {
+        "pid": "172/8745",
+        "name": "Shiqing Ma"
+      },
+      {
+        "pid": "95/3760-1",
+        "name": "Xiangyu Zhang"
+      }
+    ],
+    "pages": "1676-1694",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00103"
+  },
+  {
+    "dblp_key": "conf/sp/0004ZWXYLZ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Prompt Inversion Attack Against Collaborative Inference of Large Language Models",
+    "authors": [
+      {
+        "pid": "216/6884-1",
+        "name": "Wenjie Qu"
+      },
+      {
+        "pid": "197/3727",
+        "name": "Yuguang Zhou"
+      },
+      {
+        "pid": "179/3242",
+        "name": "Yongji Wu"
+      },
+      {
+        "pid": "274/6452",
+        "name": "Tingsong Xiao"
+      },
+      {
+        "pid": "141/0690",
+        "name": "Binhang Yuan"
+      },
+      {
+        "pid": "l/YimingLi-4",
+        "name": "Yiming Li"
+      },
+      {
+        "pid": "203/8611",
+        "name": "Jiaheng Zhang"
+      }
+    ],
+    "pages": "1695-1712",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00160"
+  },
+  {
+    "dblp_key": "conf/sp/0001CLL0CH025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning",
+    "authors": [
+      {
+        "pid": "48/969-1",
+        "name": "Zhen Sun"
+      },
+      {
+        "pid": "233/3780",
+        "name": "Tianshuo Cong"
+      },
+      {
+        "pid": "382/8529",
+        "name": "Yule Liu"
+      },
+      {
+        "pid": "198/9470",
+        "name": "Chenhao Lin"
+      },
+      {
+        "pid": "227/7262-1",
+        "name": "Xinlei He"
+      },
+      {
+        "pid": "164/2718",
+        "name": "Rongmao Chen"
+      },
+      {
+        "pid": "310/0337",
+        "name": "Xingshuo Han"
+      },
+      {
+        "pid": "82/4944-1",
+        "name": "Xinyi Huang"
+      }
+    ],
+    "pages": "1713-1731",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00161"
+  },
+  {
+    "dblp_key": "conf/sp/VoMBKN25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated Learning",
+    "authors": [
+      {
+        "pid": "124/6826",
+        "name": "Viet Vo"
+      },
+      {
+        "pid": "42/6228",
+        "name": "Mengyao Ma"
+      },
+      {
+        "pid": "86/9673",
+        "name": "Guangdong Bai"
+      },
+      {
+        "pid": "75/11480",
+        "name": "Ryan K. L. Ko"
+      },
+      {
+        "pid": "22/3939",
+        "name": "Surya Nepal"
+      }
+    ],
+    "pages": "1751-1769",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00163"
+  },
+  {
+    "dblp_key": "conf/sp/DengPTQK25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Beyond the Horizon: Uncovering Hosts and Services Behind Misconfigured Firewalls",
+    "authors": [
+      {
+        "pid": "119/5192",
+        "name": "Qing Deng"
+      },
+      {
+        "pid": "385/8658",
+        "name": "Juefei Pu"
+      },
+      {
+        "pid": "177/7011",
+        "name": "Zhaowei Tan"
+      },
+      {
+        "pid": "31/8302",
+        "name": "Zhiyun Qian"
+      },
+      {
+        "pid": "k/SrikanthVKrishnamurthy",
+        "name": "Srikanth V. Krishnamurthy"
+      }
+    ],
+    "pages": "1770-1788",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00164"
+  },
+  {
+    "dblp_key": "conf/sp/DenizN0K25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "MANTIS: Detection of Zero-Day Malicious Domains Leveraging Low Reputed Hosting Infrastructure",
+    "authors": [
+      {
+        "pid": "116/0894",
+        "name": "Fatih Deniz"
+      },
+      {
+        "pid": "65/4357",
+        "name": "Mohamed Nabeel"
+      },
+      {
+        "pid": "y/TingYu-1",
+        "name": "Ting Yu"
+      },
+      {
+        "pid": "115/8715",
+        "name": "Issa Khalil"
+      }
+    ],
+    "pages": "1789-1807",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00067"
+  },
+  {
+    "dblp_key": "conf/sp/LiuDW25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Resolution Without Dissent: In-Path Per-Query Sanitization to Defeat Surreptitious Communication Over DNS",
+    "authors": [
+      {
+        "pid": "150/5465",
+        "name": "Daiping Liu"
+      },
+      {
+        "pid": "117/4491",
+        "name": "Ruian Duan"
+      },
+      {
+        "pid": "125/8189",
+        "name": "Jun Wang"
+      }
+    ],
+    "pages": "1808-1824",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00004"
+  },
+  {
+    "dblp_key": "conf/sp/WickramasingheS25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SoK: Decoding the Enigma of Encrypted Network Traffic Classifiers",
+    "authors": [
+      {
+        "pid": "305/4413",
+        "name": "Nimesha Wickramasinghe"
+      },
+      {
+        "pid": "186/7967",
+        "name": "Arash Shaghaghi"
+      },
+      {
+        "pid": "08/1183",
+        "name": "Gene Tsudik"
+      },
+      {
+        "pid": "j/SanjayJha",
+        "name": "Sanjay K. Jha"
+      }
+    ],
+    "pages": "1825-1843",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00165"
+  },
+  {
+    "dblp_key": "conf/sp/ZhouGL00025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "TrafficFormer: An Efficient Pre-trained Model for Traffic Data",
+    "authors": [
+      {
+        "pid": "295/9534",
+        "name": "Guangmeng Zhou"
+      },
+      {
+        "pid": "407/9232",
+        "name": "Xiongwen Guo"
+      },
+      {
+        "pid": "69/11514",
+        "name": "Zhuotao Liu"
+      },
+      {
+        "pid": "29/3826-14",
+        "name": "Tong Li"
+      },
+      {
+        "pid": "181/2688-2",
+        "name": "Qi Li"
+      },
+      {
+        "pid": "181/2626-2",
+        "name": "Ke Xu"
+      }
+    ],
+    "pages": "1844-1860",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00102"
+  },
+  {
+    "dblp_key": "conf/sp/Man00ZZ0Q25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SCAD: Towards a Universal and Automated Network Side-Channel Vulnerability Detection",
+    "authors": [
+      {
+        "pid": "267/1308",
+        "name": "Keyu Man"
+      },
+      {
+        "pid": "88/845-2",
+        "name": "Zhongjie Wang"
+      },
+      {
+        "pid": "33/3270-6",
+        "name": "Yu Hao"
+      },
+      {
+        "pid": "408/0029",
+        "name": "Shenghan Zheng"
+      },
+      {
+        "pid": "306/1011",
+        "name": "Xin'an Zhou"
+      },
+      {
+        "pid": "74/5570-3",
+        "name": "Yue Cao"
+      },
+      {
+        "pid": "31/8302",
+        "name": "Zhiyun Qian"
+      }
+    ],
+    "pages": "1861-1876",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00068"
+  },
+  {
+    "dblp_key": "conf/sp/DeLaughterS25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SYN Proof-of- Work: Improving Volumetric DoS Resilience in TCP",
+    "authors": [
+      {
+        "pid": "308/2830",
+        "name": "Samuel DeLaughter"
+      },
+      {
+        "pid": "15/3878",
+        "name": "Karen R. Sollins"
+      }
+    ],
+    "pages": "1877-1890",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00166"
+  },
+  {
+    "dblp_key": "conf/sp/WyssFKP25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Low-Cost and Robust Global Time Synchronization",
+    "authors": [
+      {
+        "pid": "227/7984",
+        "name": "Marc Wyss"
+      },
+      {
+        "pid": "324/4676",
+        "name": "Marc Frei"
+      },
+      {
+        "pid": "46/4109",
+        "name": "Jonghoon Kwon"
+      },
+      {
+        "pid": "16/6873",
+        "name": "Adrian Perrig"
+      }
+    ],
+    "pages": "1891-1909",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00167"
+  },
+  {
+    "dblp_key": "conf/sp/SchmiedelH0SY25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Constant Latency and Finality for Dynamically Available DAG",
+    "authors": [
+      {
+        "pid": "373/6123",
+        "name": "Hans Schmiedel"
+      },
+      {
+        "pid": "217/8511",
+        "name": "Runchao Han"
+      },
+      {
+        "pid": "17/2212-5",
+        "name": "Qiang Tang"
+      },
+      {
+        "pid": "71/625",
+        "name": "Ron Steinfeld"
+      },
+      {
+        "pid": "18/11043",
+        "name": "Jiangshan Yu"
+      }
+    ],
+    "pages": "1910-1927",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00246"
+  },
+  {
+    "dblp_key": "conf/sp/ShresthaSKN25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Sailfish: Towards Improving the Latency of DAG-Based BFT",
+    "authors": [
+      {
+        "pid": "236/5741",
+        "name": "Nibesh Shrestha"
+      },
+      {
+        "pid": "407/8745",
+        "name": "Rohan Shrothrium"
+      },
+      {
+        "pid": "12/3394",
+        "name": "Aniket Kate"
+      },
+      {
+        "pid": "143/4459",
+        "name": "Kartik Nayak"
+      }
+    ],
+    "pages": "1928-1946",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00021"
+  },
+  {
+    "dblp_key": "conf/sp/LuoJGK25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and Application to Stateless Blockchains",
+    "authors": [
+      {
+        "pid": "306/1508",
+        "name": "Zhongtang Luo"
+      },
+      {
+        "pid": "231/8643",
+        "name": "Yanxue Jia"
+      },
+      {
+        "pid": "397/2053",
+        "name": "Alejandra Victoria Ospina Gracia"
+      },
+      {
+        "pid": "12/3394",
+        "name": "Aniket Kate"
+      }
+    ],
+    "pages": "1947-1963",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00247"
+  },
+  {
+    "dblp_key": "conf/sp/ZhaoSCZ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "MicroNova: Folding-Based Arguments with Efficient (On-Chain) Verification",
+    "authors": [
+      {
+        "pid": "218/7008",
+        "name": "Jiaxing Zhao"
+      },
+      {
+        "pid": "68/8463",
+        "name": "Srinath T. V. Setty"
+      },
+      {
+        "pid": "50/549",
+        "name": "Weidong Cui"
+      },
+      {
+        "pid": "64/5417",
+        "name": "Greg Zaverucha"
+      }
+    ],
+    "pages": "1964-1982",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00168"
+  },
+  {
+    "dblp_key": "conf/sp/FischL0Y25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)",
+    "authors": [
+      {
+        "pid": "148/2252",
+        "name": "Ben Fisch"
+      },
+      {
+        "pid": "329/5777",
+        "name": "Arthur Lazzaretti"
+      },
+      {
+        "pid": "116/0645-4",
+        "name": "Zeyu Liu"
+      },
+      {
+        "pid": "50/2484",
+        "name": "Lei Yang"
+      }
+    ],
+    "pages": "1983-2001",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00248"
+  },
+  {
+    "dblp_key": "conf/sp/FrenkelK25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "An Attack on TON's ADNL Secure Channel Protocol",
+    "authors": [
+      {
+        "pid": "405/9514",
+        "name": "Aviv Frenkel"
+      },
+      {
+        "pid": "61/210",
+        "name": "Dmitry Kogan"
+      }
+    ],
+    "pages": "2002-2017",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00169"
+  },
+  {
+    "dblp_key": "conf/sp/ThyagarajanMHKM25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Vitārit: Paying for Threshold Services on Bitcoin and Friends",
+    "authors": [
+      {
+        "pid": "164/5298",
+        "name": "Sri Aravinda Krishnan Thyagarajan"
+      },
+      {
+        "pid": "125/2314",
+        "name": "Easwar Vivek Mangipudi"
+      },
+      {
+        "pid": "119/3581",
+        "name": "Lucjan Hanzlik"
+      },
+      {
+        "pid": "12/3394",
+        "name": "Aniket Kate"
+      },
+      {
+        "pid": "128/5167",
+        "name": "Pratyay Mukherjee"
+      }
+    ],
+    "pages": "2018-2036",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00170"
+  },
+  {
+    "dblp_key": "conf/sp/Xin025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "\"Check-Before-you-Solve\": Verifiable Time-Lock Puzzles",
+    "authors": [
+      {
+        "pid": "151/6222",
+        "name": "Jiajun Xin"
+      },
+      {
+        "pid": "18/9002",
+        "name": "Dimitrios Papadopoulos"
+      }
+    ],
+    "pages": "2037-2056",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00053"
+  },
+  {
+    "dblp_key": "conf/sp/CalzavaraCLP25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Verifiable Boosted Tree Ensembles",
+    "authors": [
+      {
+        "pid": "89/9526",
+        "name": "Stefano Calzavara"
+      },
+      {
+        "pid": "294/3340",
+        "name": "Lorenzo Cazzaro"
+      },
+      {
+        "pid": "l/ClaudioLucchese",
+        "name": "Claudio Lucchese"
+      },
+      {
+        "pid": "204/0111",
+        "name": "Giulio Ermanno Pibiri"
+      }
+    ],
+    "pages": "2057-2075",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00022"
+  },
+  {
+    "dblp_key": "conf/sp/Lou0ZYGT25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "GRID: Protecting Training Graph from Link Stealing Attacks on GNN Models",
+    "authors": [
+      {
+        "pid": "271/9833",
+        "name": "Jiadong Lou"
+      },
+      {
+        "pid": "24/6114-1",
+        "name": "Xu Yuan"
+      },
+      {
+        "pid": "60/2536",
+        "name": "Rui Zhang"
+      },
+      {
+        "pid": "21/8884",
+        "name": "Xingliang Yuan"
+      },
+      {
+        "pid": "03/9437",
+        "name": "Neil Zhenqiang Gong"
+      },
+      {
+        "pid": "82/4827",
+        "name": "Nian-Feng Tzeng"
+      }
+    ],
+    "pages": "2095-2113",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00059"
+  },
+  {
+    "dblp_key": "conf/sp/0015XLLC25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "TSQP: Safeguarding Real-Time Inference for Quantization Neural Networks on Edge Devices",
+    "authors": [
+      {
+        "pid": "62/3689-15",
+        "name": "Yu Sun"
+      },
+      {
+        "pid": "367/3868",
+        "name": "Gaojian Xiong"
+      },
+      {
+        "pid": "00/5899",
+        "name": "Jianhua Liu"
+      },
+      {
+        "pid": "06/3580",
+        "name": "Zheng Liu"
+      },
+      {
+        "pid": "41/5360",
+        "name": "Jian Cui"
+      }
+    ],
+    "pages": "2114-2132",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00001"
+  },
+  {
+    "dblp_key": "conf/sp/FengLM00S025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Fight Fire with Fire: Combating Adversarial Patch Attacks using Pattern-randomized Defensive Patches",
+    "authors": [
+      {
+        "pid": "09/743",
+        "name": "Jianan Feng"
+      },
+      {
+        "pid": "09/7698",
+        "name": "Jiachun Li"
+      },
+      {
+        "pid": "134/1309",
+        "name": "Changqing Miao"
+      },
+      {
+        "pid": "41/2181-1",
+        "name": "Jianjun Huang"
+      },
+      {
+        "pid": "87/6465-1",
+        "name": "Wei You"
+      },
+      {
+        "pid": "74/2181",
+        "name": "Wenchang Shi"
+      },
+      {
+        "pid": "71/6053-2",
+        "name": "Bin Liang"
+      }
+    ],
+    "pages": "2133-2151",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00006"
+  },
+  {
+    "dblp_key": "conf/sp/Yang0CX25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Alleviating the Fear of Losing Alignment in LLM Fine-tuning",
+    "authors": [
+      {
+        "pid": "86/8501",
+        "name": "Kang Yang"
+      },
+      {
+        "pid": "88/10370-1",
+        "name": "Guanhong Tao"
+      },
+      {
+        "pid": "34/6795",
+        "name": "Xun Chen"
+      },
+      {
+        "pid": "90/514-24",
+        "name": "Jun Xu"
+      }
+    ],
+    "pages": "2152-2170",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00171"
+  },
+  {
+    "dblp_key": "conf/sp/RaynalT25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "On the Conflict Between Robustness and Learning in Collaborative Machine Learning",
+    "authors": [
+      {
+        "pid": "277/0894",
+        "name": "Mathilde Raynal"
+      },
+      {
+        "pid": "01/4825",
+        "name": "Carmela Troncoso"
+      }
+    ],
+    "pages": "2171-2189",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00249"
+  },
+  {
+    "dblp_key": "conf/sp/LiuJ0SG25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks",
+    "authors": [
+      {
+        "pid": "204/1178",
+        "name": "Yupei Liu"
+      },
+      {
+        "pid": "359/3184",
+        "name": "Yuqi Jia"
+      },
+      {
+        "pid": "24/5124-1",
+        "name": "Jinyuan Jia"
+      },
+      {
+        "pid": "s/DXSong",
+        "name": "Dawn Song"
+      },
+      {
+        "pid": "03/9437",
+        "name": "Neil Zhenqiang Gong"
+      }
+    ],
+    "pages": "2190-2208",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00250"
+  },
+  {
+    "dblp_key": "conf/sp/HuanRR25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Ownership and Gatekeeping vs. Safeguarding and Consent: How Migrant Parents Navigate Child Data Management Complexities",
+    "authors": [
+      {
+        "pid": "201/9168",
+        "name": "Rui Huan"
+      },
+      {
+        "pid": "190/2066",
+        "name": "Kopo M. Ramokapane"
+      },
+      {
+        "pid": "26/3330",
+        "name": "Awais Rashid"
+      }
+    ],
+    "pages": "2209-2227",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00172"
+  },
+  {
+    "dblp_key": "conf/sp/RotthalerRSFA25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "\"It's Time. Time for Digital Security.\": An End User Study on Actionable Security and Privacy Advice",
+    "authors": [
+      {
+        "pid": "390/3286",
+        "name": "Anna Lena Rotthaler"
+      },
+      {
+        "pid": "327/6458",
+        "name": "Harshini Sri Ramulu"
+      },
+      {
+        "pid": "31/9612",
+        "name": "Lucy Simko"
+      },
+      {
+        "pid": "38/9378",
+        "name": "Sascha Fahl"
+      },
+      {
+        "pid": "132/9687",
+        "name": "Yasemin Acar"
+      }
+    ],
+    "pages": "2228-2245",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00100"
+  },
+  {
+    "dblp_key": "conf/sp/GeierhaasMA025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "\"Not the Right Question?\" A Study on Attitudes Toward Client-Side Scanning with Security and Privacy Researchers and a U.S. Population Sample",
+    "authors": [
+      {
+        "pid": "331/6898",
+        "name": "Lisa Geierhaas"
+      },
+      {
+        "pid": "344/9226",
+        "name": "Florin Martius"
+      },
+      {
+        "pid": "402/8945",
+        "name": "Arthi Arumugam"
+      },
+      {
+        "pid": "88/5808-1",
+        "name": "Matthew Smith"
+      }
+    ],
+    "pages": "2246-2263",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00086"
+  },
+  {
+    "dblp_key": "conf/sp/JainHMJBW25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "\"Why Would Money Protect me from Cyber Bullying?\": A Mixed-Methods Study of Personal Cyber Insurance",
+    "authors": [
+      {
+        "pid": "385/8571",
+        "name": "Rachiyta Jain"
+      },
+      {
+        "pid": "390/4968",
+        "name": "Temima Hrle"
+      },
+      {
+        "pid": "407/8363",
+        "name": "Margherita Marinetti"
+      },
+      {
+        "pid": "305/9286",
+        "name": "Adam D. G. Jenkins"
+      },
+      {
+        "pid": "52/6295",
+        "name": "Rainer Böhme"
+      },
+      {
+        "pid": "228/4088",
+        "name": "Daniel W. Woods"
+      }
+    ],
+    "pages": "2264-2283",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00027"
+  },
+  {
+    "dblp_key": "conf/sp/UsmanSTERZ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Security and Privacy Experiences of First- and Second-Generation Pakistani Immigrants to the US: Perceptions, Practices, Challenges, and Parent-Child Dynamics",
+    "authors": [
+      {
+        "pid": "353/7094",
+        "name": "Warda Usman"
+      },
+      {
+        "pid": "367/7074",
+        "name": "John Sadik"
+      },
+      {
+        "pid": "407/8950",
+        "name": "Taha"
+      },
+      {
+        "pid": "367/3286",
+        "name": "Ran Elgedawy"
+      },
+      {
+        "pid": "124/2527",
+        "name": "Scott Ruoti"
+      },
+      {
+        "pid": "71/2423",
+        "name": "Daniel Zappala"
+      }
+    ],
+    "pages": "2284-2302",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00031"
+  },
+  {
+    "dblp_key": "conf/sp/ZimmermannTSFIH25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Let's Get Visual - Testing Visual Analogies and Metaphors for Conveying Privacy Policies and Data Handling Information",
+    "authors": [
+      {
+        "pid": "198/5724",
+        "name": "Verena Zimmermann"
+      },
+      {
+        "pid": "378/9947",
+        "name": "Adrienn Toth"
+      },
+      {
+        "pid": "384/6364",
+        "name": "Hannah Sievers"
+      },
+      {
+        "pid": "407/8107",
+        "name": "Linda Fanconi"
+      },
+      {
+        "pid": "407/9103",
+        "name": "Yanis Isenring"
+      },
+      {
+        "pid": "362/7455",
+        "name": "Mona Henz"
+      },
+      {
+        "pid": "264/7948",
+        "name": "Alina Stöver"
+      },
+      {
+        "pid": "181/7338",
+        "name": "Nina Gerber"
+      }
+    ],
+    "pages": "2303-2321",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00240"
+  },
+  {
+    "dblp_key": "conf/sp/SchmuserKFF25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "\"I'm Pretty Expert and I Still Screw It Up\": Qualitative Insights into Experiences and Challenges of Designing and Implementing Cryptographic Library APIs",
+    "authors": [
+      {
+        "pid": "327/7084",
+        "name": "Juliane Schmüser"
+      },
+      {
+        "pid": "322/5233",
+        "name": "Philip Klostermeyer"
+      },
+      {
+        "pid": "400/5220",
+        "name": "Kay Friedrich"
+      },
+      {
+        "pid": "38/9378",
+        "name": "Sascha Fahl"
+      }
+    ],
+    "pages": "2322-2340",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00026"
+  },
+  {
+    "dblp_key": "conf/sp/MandalN25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "\"We can't Change it Overnight\": Understanding Industry Perspectives on IoT Product Security Compliance and Certification",
+    "authors": [
+      {
+        "pid": "354/8813",
+        "name": "Prianka Mandal"
+      },
+      {
+        "pid": "136/8334",
+        "name": "Adwait Nadkarni"
+      }
+    ],
+    "pages": "2341-2359",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00091"
+  },
+  {
+    "dblp_key": "conf/sp/HuCSYZCY25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Opera: Achieving Secure and High-Performance OLAP with Parallelized Homomorphic Comparisons",
+    "authors": [
+      {
+        "pid": "10/4280",
+        "name": "Qi Hu"
+      },
+      {
+        "pid": "181/2832-161",
+        "name": "Wei Chen"
+      },
+      {
+        "pid": "271/6016",
+        "name": "Tianxiang Shen"
+      },
+      {
+        "pid": "202/9077",
+        "name": "Xin Yao"
+      },
+      {
+        "pid": "268/5693",
+        "name": "Nicholas Zhang"
+      },
+      {
+        "pid": "59/5565",
+        "name": "Heming Cui"
+      },
+      {
+        "pid": "y/SiuMingYiu",
+        "name": "Siu-Ming Yiu"
+      }
+    ],
+    "pages": "2360-2377",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00173"
+  },
+  {
+    "dblp_key": "conf/sp/SantriajiXZLS25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "DataSeal: Ensuring the Verifiability of Private Computation on Encrypted Data",
+    "authors": [
+      {
+        "pid": "177/5255",
+        "name": "Muhammad Husni Santriaji"
+      },
+      {
+        "pid": "170/2507",
+        "name": "Jiaqi Xue"
+      },
+      {
+        "pid": "305/5393",
+        "name": "Yancheng Zhang"
+      },
+      {
+        "pid": "207/3962",
+        "name": "Qian Lou"
+      },
+      {
+        "pid": "11/2624",
+        "name": "Yan Solihin"
+      }
+    ],
+    "pages": "2378-2394",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00078"
+  },
+  {
+    "dblp_key": "conf/sp/0001ZS0M0LWSGHJ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "CHLOE: Loop Transformation over Fully Homomorphic Encryption via Multi-Level Vectorization and Control-Path Reduction",
+    "authors": [
+      {
+        "pid": "179/7914",
+        "name": "Song Bian"
+      },
+      {
+        "pid": "223/0159",
+        "name": "Zian Zhao"
+      },
+      {
+        "pid": "394/4611",
+        "name": "Ruiyu Shen"
+      },
+      {
+        "pid": "335/6237",
+        "name": "Zhou Zhang"
+      },
+      {
+        "pid": "358/0128",
+        "name": "Ran Mao"
+      },
+      {
+        "pid": "13/5856-9",
+        "name": "Dawei Li"
+      },
+      {
+        "pid": "83/8785",
+        "name": "Yizhong Liu"
+      },
+      {
+        "pid": "182/1837",
+        "name": "Masaki Waga"
+      },
+      {
+        "pid": "82/6723",
+        "name": "Kohei Suenaga"
+      },
+      {
+        "pid": "121/1665-2",
+        "name": "Zhenyu Guan"
+      },
+      {
+        "pid": "183/1847",
+        "name": "Jiafeng Hua"
+      },
+      {
+        "pid": "34/756",
+        "name": "Yier Jin"
+      },
+      {
+        "pid": "43/3771-1",
+        "name": "Jianwei Liu"
+      }
+    ],
+    "pages": "2395-2413",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00035"
+  },
+  {
+    "dblp_key": "conf/sp/BoyleGHIT25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Improved Constructions for Distributed Multi-Point Functions",
+    "authors": [
+      {
+        "pid": "12/9528",
+        "name": "Elette Boyle"
+      },
+      {
+        "pid": "94/4510",
+        "name": "Niv Gilboa"
+      },
+      {
+        "pid": "181/0799",
+        "name": "Matan Hamilis"
+      },
+      {
+        "pid": "05/667",
+        "name": "Yuval Ishai"
+      },
+      {
+        "pid": "280/5921",
+        "name": "Yaxin Tu"
+      }
+    ],
+    "pages": "2414-2432",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00044"
+  },
+  {
+    "dblp_key": "conf/sp/BoyleGHIN25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Preprocessing for Life: Dishonest-Majority MPC with a Trusted or Untrusted Dealer",
+    "authors": [
+      {
+        "pid": "12/9528",
+        "name": "Elette Boyle"
+      },
+      {
+        "pid": "94/4510",
+        "name": "Niv Gilboa"
+      },
+      {
+        "pid": "181/0799",
+        "name": "Matan Hamilis"
+      },
+      {
+        "pid": "05/667",
+        "name": "Yuval Ishai"
+      },
+      {
+        "pid": "167/3062",
+        "name": "Ariel Nof"
+      }
+    ],
+    "pages": "2433-2452",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00041"
+  },
+  {
+    "dblp_key": "conf/sp/ChaHMSS25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "MatriGear: Accelerating Authenticated Matrix Triple Generation with Scalable Prime Fields via Optimized HE Packing",
+    "authors": [
+      {
+        "pid": "398/6982",
+        "name": "Hyunho Cha"
+      },
+      {
+        "pid": "357/9973",
+        "name": "Intak Hwang"
+      },
+      {
+        "pid": "333/9602",
+        "name": "Seonhong Min"
+      },
+      {
+        "pid": "318/5126",
+        "name": "Jinyeong Seo"
+      },
+      {
+        "pid": "145/5981",
+        "name": "Yongsoo Song"
+      }
+    ],
+    "pages": "2453-2471",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00174"
+  },
+  {
+    "dblp_key": "conf/sp/GuptaC0K025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SHARK: Actively Secure Inference Using Function Secret Sharing",
+    "authors": [
+      {
+        "pid": "274/1360",
+        "name": "Kanav Gupta"
+      },
+      {
+        "pid": "77/5616",
+        "name": "Nishanth Chandran"
+      },
+      {
+        "pid": "66/11477-1",
+        "name": "Divya Gupta"
+      },
+      {
+        "pid": "k/JonathanKatz",
+        "name": "Jonathan Katz"
+      },
+      {
+        "pid": "22/846-1",
+        "name": "Rahul Sharma"
+      }
+    ],
+    "pages": "2472-2490",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00175"
+  },
+  {
+    "dblp_key": "conf/sp/KysterNOS25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Rushing at SPDZ: On the Practical Security of Malicious MPC Implementations",
+    "authors": [
+      {
+        "pid": "405/9662",
+        "name": "Alexander Kyster"
+      },
+      {
+        "pid": "405/9529",
+        "name": "Frederik Huss Nielsen"
+      },
+      {
+        "pid": "189/1611",
+        "name": "Sabine Oechsner"
+      },
+      {
+        "pid": "00/10576",
+        "name": "Peter Scholl"
+      }
+    ],
+    "pages": "2491-2508",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00176"
+  },
+  {
+    "dblp_key": "conf/sp/WangZ0T025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Rigging the Foundation: Manipulating Pre-training for Advanced Membership Inference Attacks",
+    "authors": [
+      {
+        "pid": "148/9655",
+        "name": "Zihao Wang"
+      },
+      {
+        "pid": "72/1974",
+        "name": "Rui Zhu"
+      },
+      {
+        "pid": "90/545-1",
+        "name": "Zhikun Zhang"
+      },
+      {
+        "pid": "90/3951",
+        "name": "Haixu Tang"
+      },
+      {
+        "pid": "06/6268",
+        "name": "XiaoFeng Wang"
+      }
+    ],
+    "pages": "2509-2526",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00177"
+  },
+  {
+    "dblp_key": "conf/sp/GongZZZ0P25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning",
+    "authors": [
+      {
+        "pid": "334/0570",
+        "name": "Zirui Gong"
+      },
+      {
+        "pid": "24/6547",
+        "name": "Yanjun Zhang"
+      },
+      {
+        "pid": "117/3526",
+        "name": "Leo Yu Zhang"
+      },
+      {
+        "pid": "232/1976-1",
+        "name": "Zhaoxi Zhang"
+      },
+      {
+        "pid": "98/2912-1",
+        "name": "Yong Xiang"
+      },
+      {
+        "pid": "91/8171",
+        "name": "Shirui Pan"
+      }
+    ],
+    "pages": "2527-2545",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00251"
+  },
+  {
+    "dblp_key": "conf/sp/0001WSLK025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Edge Unlearning is Not \"on Edge\"! an Adaptive Exact Unlearning System on Resource-Constrained Devices",
+    "authors": [
+      {
+        "pid": "207/5756-1",
+        "name": "Xiaoyu Xia"
+      },
+      {
+        "pid": "38/8097-8",
+        "name": "Ziqi Wang"
+      },
+      {
+        "pid": "72/7683-1",
+        "name": "Ruoxi Sun"
+      },
+      {
+        "pid": "41/1201-2",
+        "name": "Bowen Liu"
+      },
+      {
+        "pid": "41/749",
+        "name": "Ibrahim Khalil"
+      },
+      {
+        "pid": "166/1912",
+        "name": "Minhui Xue"
+      }
+    ],
+    "pages": "2546-2563",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00095"
+  },
+  {
+    "dblp_key": "conf/sp/LiWFWLZ0025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models",
+    "authors": [
+      {
+        "pid": "329/5678",
+        "name": "Boheng Li"
+      },
+      {
+        "pid": "178/5578",
+        "name": "Yanhao Wei"
+      },
+      {
+        "pid": "367/7072",
+        "name": "Yankai Fu"
+      },
+      {
+        "pid": "263/4521",
+        "name": "Zhenting Wang"
+      },
+      {
+        "pid": "l/YimingLi-4",
+        "name": "Yiming Li"
+      },
+      {
+        "pid": "84/6889-73",
+        "name": "Jie Zhang"
+      },
+      {
+        "pid": "95/8501-1",
+        "name": "Run Wang"
+      },
+      {
+        "pid": "77/7902-4",
+        "name": "Tianwei Zhang"
+      }
+    ],
+    "pages": "2564-2582",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00073"
+  },
+  {
+    "dblp_key": "conf/sp/Cohen0S25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Watermarking Language Models for Many Adaptive Users",
+    "authors": [
+      {
+        "pid": "157/0152",
+        "name": "Aloni Cohen"
+      },
+      {
+        "pid": "132/4924-1",
+        "name": "Alexander Hoover"
+      },
+      {
+        "pid": "313/2972",
+        "name": "Gabe Schoenbach"
+      }
+    ],
+    "pages": "2583-2601",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00084"
+  },
+  {
+    "dblp_key": "conf/sp/KassisH25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "UnMarker: A Universal Attack on Defensive Image Watermarking",
+    "authors": [
+      {
+        "pid": "234/5908",
+        "name": "Andre Kassis"
+      },
+      {
+        "pid": "04/6136",
+        "name": "Urs Hengartner"
+      }
+    ],
+    "pages": "2602-2620",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00005"
+  },
+  {
+    "dblp_key": "conf/sp/ZhaoGCFFCG0NTJL25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SoK: Watermarking for AI-Generated Content",
+    "authors": [
+      {
+        "pid": "244/8033",
+        "name": "Xuandong Zhao"
+      },
+      {
+        "pid": "243/3184",
+        "name": "Sam Gunn"
+      },
+      {
+        "pid": "318/4946",
+        "name": "Miranda Christ"
+      },
+      {
+        "pid": "277/8240",
+        "name": "Jaiden Fairoze"
+      },
+      {
+        "pid": "333/8848",
+        "name": "Andrés Fábrega"
+      },
+      {
+        "pid": "145/1806",
+        "name": "Nicholas Carlini"
+      },
+      {
+        "pid": "33/5817",
+        "name": "Sanjam Garg"
+      },
+      {
+        "pid": "135/8991",
+        "name": "Sanghyun Hong"
+      },
+      {
+        "pid": "187/8997",
+        "name": "Milad Nasr"
+      },
+      {
+        "pid": "158/7224",
+        "name": "Florian Tramèr"
+      },
+      {
+        "pid": "j/SomeshJha",
+        "name": "Somesh Jha"
+      },
+      {
+        "pid": "13/7007-5",
+        "name": "Lei Li"
+      },
+      {
+        "pid": "62/1637-3",
+        "name": "Yu-Xiang Wang"
+      },
+      {
+        "pid": "s/DXSong",
+        "name": "Dawn Song"
+      }
+    ],
+    "pages": "2621-2639",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00178"
+  },
+  {
+    "dblp_key": "conf/sp/Mahloujifar0SC25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Machine Learning with Privacy for Protected Attributes",
+    "authors": [
+      {
+        "pid": "208/0825",
+        "name": "Saeed Mahloujifar"
+      },
+      {
+        "pid": "147/5346",
+        "name": "Chuan Guo"
+      },
+      {
+        "pid": "09/5657",
+        "name": "G. Edward Suh"
+      },
+      {
+        "pid": "56/6435",
+        "name": "Kamalika Chaudhuri"
+      }
+    ],
+    "pages": "2640-2657",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00179"
+  },
+  {
+    "dblp_key": "conf/sp/KlemmerSL0SSF25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Transparency in Usable Privacy and Security Research: Scholars' Perspectives, Practices, and Recommendations",
+    "authors": [
+      {
+        "pid": "325/3232",
+        "name": "Jan H. Klemmer"
+      },
+      {
+        "pid": "327/7084",
+        "name": "Juliane Schmüser"
+      },
+      {
+        "pid": "164/6568",
+        "name": "Byron M. Lowens"
+      },
+      {
+        "pid": "400/4324",
+        "name": "Fabian Fischer"
+      },
+      {
+        "pid": "407/9887",
+        "name": "Lea Schmüser"
+      },
+      {
+        "pid": "08/7562",
+        "name": "Florian Schaub"
+      },
+      {
+        "pid": "38/9378",
+        "name": "Sascha Fahl"
+      }
+    ],
+    "pages": "2658-2677",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00038"
+  },
+  {
+    "dblp_key": "conf/sp/CrowderLCSTB25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Data to Infinity and Beyond: Examining Data Sharing and Reuse Practices in the Computer Security Community",
+    "authors": [
+      {
+        "pid": "392/3053",
+        "name": "Anna Crowder"
+      },
+      {
+        "pid": "361/2134",
+        "name": "Allison Lu"
+      },
+      {
+        "pid": "80/752",
+        "name": "Kevin Childs"
+      },
+      {
+        "pid": "361/0817",
+        "name": "Carson Stillman"
+      },
+      {
+        "pid": "14/3295",
+        "name": "Patrick Traynor"
+      },
+      {
+        "pid": "82/1935",
+        "name": "Kevin R. B. Butler"
+      }
+    ],
+    "pages": "2678-2696",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00180"
+  },
+  {
+    "dblp_key": "conf/sp/UsmanZ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SoK: A Framework and Guide for Human-Centered Threat Modeling in Security and Privacy Research",
+    "authors": [
+      {
+        "pid": "353/7094",
+        "name": "Warda Usman"
+      },
+      {
+        "pid": "71/2423",
+        "name": "Daniel Zappala"
+      }
+    ],
+    "pages": "2697-2715",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00033"
+  },
+  {
+    "dblp_key": "conf/sp/LiuHZTC25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Prevalence Overshadows Concerns? Understanding Chinese Users' Privacy Awareness and Expectations Towards LLM-Based Healthcare Consultation",
+    "authors": [
+      {
+        "pid": "251/8150",
+        "name": "Zhihuang Liu"
+      },
+      {
+        "pid": "42/5567",
+        "name": "Ling Hu"
+      },
+      {
+        "pid": "147/1609",
+        "name": "Tongqing Zhou"
+      },
+      {
+        "pid": "168/4583",
+        "name": "Yonghao Tang"
+      },
+      {
+        "pid": "64/2739",
+        "name": "Zhiping Cai"
+      }
+    ],
+    "pages": "2716-2734",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00092"
+  },
+  {
+    "dblp_key": "conf/sp/YuSHWW25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns, Mitigation Strategies, and Design Implications",
+    "authors": [
+      {
+        "pid": "344/8557",
+        "name": "Yaman Yu"
+      },
+      {
+        "pid": "221/3567",
+        "name": "Tanusree Sharma"
+      },
+      {
+        "pid": "380/7802",
+        "name": "Melinda Hu"
+      },
+      {
+        "pid": "150/6954",
+        "name": "Justin Wang"
+      },
+      {
+        "pid": "w/YangWang5",
+        "name": "Yang Wang"
+      }
+    ],
+    "pages": "2735-2752",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00090"
+  },
+  {
+    "dblp_key": "conf/sp/GuanYSHQWW25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem",
+    "authors": [
+      {
+        "pid": "389/5717",
+        "name": "Maggie Yongqi Guan"
+      },
+      {
+        "pid": "344/8557",
+        "name": "Yaman Yu"
+      },
+      {
+        "pid": "221/3567",
+        "name": "Tanusree Sharma"
+      },
+      {
+        "pid": "386/7776",
+        "name": "Molly Zhuangtong Huang"
+      },
+      {
+        "pid": "246/5857",
+        "name": "Kaihua Qin"
+      },
+      {
+        "pid": "w/YangWang5",
+        "name": "Yang Wang"
+      },
+      {
+        "pid": "44/6292-17",
+        "name": "Kanye Ye Wang"
+      }
+    ],
+    "pages": "2753-2771",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00042"
+  },
+  {
+    "dblp_key": "conf/sp/ThomasKTMVTBFEB25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Supporting Human Raters with the Detection of Harmful Content Using Large Language Models",
+    "authors": [
+      {
+        "pid": "68/8283",
+        "name": "Kurt Thomas"
+      },
+      {
+        "pid": "15/3631",
+        "name": "Patrick Gage Kelley"
+      },
+      {
+        "pid": "79/6478",
+        "name": "David Tao"
+      },
+      {
+        "pid": "94/8813",
+        "name": "Sarah Meiklejohn"
+      },
+      {
+        "pid": "28/4883",
+        "name": "Owen Vallis"
+      },
+      {
+        "pid": "97/4268",
+        "name": "Shunwen Tan"
+      },
+      {
+        "pid": "146/2697",
+        "name": "Blaz Bratanic"
+      },
+      {
+        "pid": "380/4541",
+        "name": "Felipe Tiengo Ferreira"
+      },
+      {
+        "pid": "169/8827",
+        "name": "Vijay Kumar Eranti"
+      },
+      {
+        "pid": "20/7004",
+        "name": "Elie Bursztein"
+      }
+    ],
+    "pages": "2772-2789",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00082"
+  },
+  {
+    "dblp_key": "conf/sp/ShiojiMSWAC25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "\"It's been Lovely Watching you\": Institutional Decision-Making on Online Proctoring Software",
+    "authors": [
+      {
+        "pid": "371/6132",
+        "name": "Elisa Shioji"
+      },
+      {
+        "pid": "407/9155",
+        "name": "Ani Meliksetyan"
+      },
+      {
+        "pid": "31/9612",
+        "name": "Lucy Simko"
+      },
+      {
+        "pid": "274/1618",
+        "name": "Ryan Watkins"
+      },
+      {
+        "pid": "94/1554",
+        "name": "Adam J. Aviv"
+      },
+      {
+        "pid": "170/3520",
+        "name": "Shaanan Cohney"
+      }
+    ],
+    "pages": "2790-2808",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00018"
+  },
+  {
+    "dblp_key": "conf/sp/LinDSHTMFW25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Is MPC Secure? Leveraging Neural Network Classifiers to Detect Data Leakage Vulnerabilities in MPC Implementations",
+    "authors": [
+      {
+        "pid": "330/5132",
+        "name": "Guopeng Lin"
+      },
+      {
+        "pid": "97/6476-1",
+        "name": "Xiaoning Du"
+      },
+      {
+        "pid": "280/3038",
+        "name": "Lushan Song"
+      },
+      {
+        "pid": "42/179",
+        "name": "Weili Han"
+      },
+      {
+        "pid": "15/7663",
+        "name": "Jin Tan"
+      },
+      {
+        "pid": "203/0941",
+        "name": "Junming Ma"
+      },
+      {
+        "pid": "20/11504",
+        "name": "Wenjing Fang"
+      },
+      {
+        "pid": "181/2817",
+        "name": "Lei Wang"
+      }
+    ],
+    "pages": "2809-2826",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00181"
+  },
+  {
+    "dblp_key": "conf/sp/YanZGZCW0M025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity",
+    "authors": [
+      {
+        "pid": "158/6778",
+        "name": "Guang Yan"
+      },
+      {
+        "pid": "77/1630-11",
+        "name": "Yuhui Zhang"
+      },
+      {
+        "pid": "181/9179",
+        "name": "Zimu Guo"
+      },
+      {
+        "pid": "238/2108",
+        "name": "Lutan Zhao"
+      },
+      {
+        "pid": "20/3215-4",
+        "name": "Xiaojun Chen"
+      },
+      {
+        "pid": "82/4206",
+        "name": "Chen Wang"
+      },
+      {
+        "pid": "57/9813-1",
+        "name": "Wenhao Wang"
+      },
+      {
+        "pid": "01/2538-2",
+        "name": "Dan Meng"
+      },
+      {
+        "pid": "79/3631-1",
+        "name": "Rui Hou"
+      }
+    ],
+    "pages": "2827-2845",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00182"
+  },
+  {
+    "dblp_key": "conf/sp/LiuLYWYY025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Highly Efficient Actively Secure Two-Party Computation with One-Bit Advantage Bound",
+    "authors": [
+      {
+        "pid": "97/4626-53",
+        "name": "Yi Liu"
+      },
+      {
+        "pid": "20/2135",
+        "name": "Junzuo Lai"
+      },
+      {
+        "pid": "57/5443-16",
+        "name": "Peng Yang"
+      },
+      {
+        "pid": "19/1924-12",
+        "name": "Qi Wang"
+      },
+      {
+        "pid": "119/6400",
+        "name": "Anjia Yang"
+      },
+      {
+        "pid": "y/SiuMingYiu",
+        "name": "Siu-Ming Yiu"
+      },
+      {
+        "pid": "81/1232-1",
+        "name": "Jian Weng"
+      }
+    ],
+    "pages": "2846-2864",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00183"
+  },
+  {
+    "dblp_key": "conf/sp/LeH25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Hermes: Efficient and Secure Multi-Writer Encrypted Database",
+    "authors": [
+      {
+        "pid": "83/2787-5",
+        "name": "Tung Le"
+      },
+      {
+        "pid": "132/2690",
+        "name": "Thang Hoang"
+      }
+    ],
+    "pages": "2865-2884",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00184"
+  },
+  {
+    "dblp_key": "conf/sp/HuLLW25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Towards Efficient and Practical Multi-party Computation under Inconsistent Trust in TEEs",
+    "authors": [
+      {
+        "pid": "340/3705",
+        "name": "Xuanwei Hu"
+      },
+      {
+        "pid": "246/5130-1",
+        "name": "Rujia Li"
+      },
+      {
+        "pid": "97/4626-53",
+        "name": "Yi Liu"
+      },
+      {
+        "pid": "19/1924-12",
+        "name": "Qi Wang"
+      }
+    ],
+    "pages": "2885-2902",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00185"
+  },
+  {
+    "dblp_key": "conf/sp/BalleBCGK0S025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Hash-Prune-Invert: Improved Differentially Private Heavy-Hitter Detection in the Two-Server Model",
+    "authors": [
+      {
+        "pid": "06/8421",
+        "name": "Borja Balle"
+      },
+      {
+        "pid": "238/0043",
+        "name": "James Bell-Clark"
+      },
+      {
+        "pid": "209/9888",
+        "name": "Albert Cheu"
+      },
+      {
+        "pid": "90/3256",
+        "name": "Adrià Gascón"
+      },
+      {
+        "pid": "k/JonathanKatz",
+        "name": "Jonathan Katz"
+      },
+      {
+        "pid": "07/5590-1",
+        "name": "Mariana Raykova"
+      },
+      {
+        "pid": "187/5645",
+        "name": "Phillipp Schoppmann"
+      },
+      {
+        "pid": "73/4025-2",
+        "name": "Thomas Steinke"
+      }
+    ],
+    "pages": "2903-2918",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00186"
+  },
+  {
+    "dblp_key": "conf/sp/XiaoDZ0YZK25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Click Without Compromise: Online Advertising Measurement via Per User Differential Privacy",
+    "authors": [
+      {
+        "pid": "244/1962",
+        "name": "Yingtai Xiao"
+      },
+      {
+        "pid": "58/2985",
+        "name": "Jian Du"
+      },
+      {
+        "pid": "83/3715",
+        "name": "Shikun Zhang"
+      },
+      {
+        "pid": "395/2123",
+        "name": "Wanrong Zhang"
+      },
+      {
+        "pid": "15/3199",
+        "name": "Qian Yang"
+      },
+      {
+        "pid": "23/3719",
+        "name": "Danfeng Zhang"
+      },
+      {
+        "pid": "84/114",
+        "name": "Daniel Kifer"
+      }
+    ],
+    "pages": "2919-2937",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00187"
+  },
+  {
+    "dblp_key": "conf/sp/0002025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Smaug: Modular Augmentation of LLVM for MPC",
+    "authors": [
+      {
+        "pid": "144/2147-2",
+        "name": "Radhika Garg"
+      },
+      {
+        "pid": "150/9413",
+        "name": "Xiao Wang"
+      }
+    ],
+    "pages": "2938-2956",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00188"
+  },
+  {
+    "dblp_key": "conf/sp/LiSQ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Redefining Indirect Call Analysis with KallGraph",
+    "authors": [
+      {
+        "pid": "272/7041",
+        "name": "Guoren Li"
+      },
+      {
+        "pid": "83/2559",
+        "name": "Manu Sridharan"
+      },
+      {
+        "pid": "31/8302",
+        "name": "Zhiyun Qian"
+      }
+    ],
+    "pages": "2957-2975",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00189"
+  },
+  {
+    "dblp_key": "conf/sp/WiedemeierTZK0C25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "PyLingual: Toward Perfect Decompilation of Evolving High-Level Languages",
+    "authors": [
+      {
+        "pid": "348/8917",
+        "name": "Joshua Wiedemeier"
+      },
+      {
+        "pid": "407/9424",
+        "name": "Elliot Tarbet"
+      },
+      {
+        "pid": "278/2640",
+        "name": "Max Zheng"
+      },
+      {
+        "pid": "196/1893",
+        "name": "Sangsoo Ko"
+      },
+      {
+        "pid": "59/9256-1",
+        "name": "Jessica Ouyang"
+      },
+      {
+        "pid": "49/8463",
+        "name": "Sang Kil Cha"
+      },
+      {
+        "pid": "36/10085",
+        "name": "Kangkook Jee"
+      }
+    ],
+    "pages": "2976-2994",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00052"
+  },
+  {
+    "dblp_key": "conf/sp/YaoS25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Empc: Effective Path Prioritization for Symbolic Execution with Path Cover",
+    "authors": [
+      {
+        "pid": "407/7514",
+        "name": "Shuangjie Yao"
+      },
+      {
+        "pid": "168/9537",
+        "name": "Dongdong She"
+      }
+    ],
+    "pages": "2995-3013",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00190"
+  },
+  {
+    "dblp_key": "conf/sp/LiBHMKJJ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis",
+    "authors": [
+      {
+        "pid": "90/2100",
+        "name": "Yansong Li"
+      },
+      {
+        "pid": "134/0527",
+        "name": "Paula Branco"
+      },
+      {
+        "pid": "37/3214",
+        "name": "Alexander M. Hoole"
+      },
+      {
+        "pid": "61/6132",
+        "name": "Manish Marwah"
+      },
+      {
+        "pid": "139/4222",
+        "name": "Hari Manassery Koduvely"
+      },
+      {
+        "pid": "99/2759",
+        "name": "Guy-Vincent Jourdan"
+      },
+      {
+        "pid": "71/9163",
+        "name": "Stephan Jou"
+      }
+    ],
+    "pages": "3014-3032",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00191"
+  },
+  {
+    "dblp_key": "conf/sp/Flores-MontoyaL25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Disassembly as Weighted Interval Scheduling with Learned Weights",
+    "authors": [
+      {
+        "pid": "40/10517",
+        "name": "Antonio Flores-Montoya"
+      },
+      {
+        "pid": "94/2026",
+        "name": "Junghee Lim"
+      },
+      {
+        "pid": "248/1632",
+        "name": "Adam Seitz"
+      },
+      {
+        "pid": "230/4213",
+        "name": "Akshay Sood"
+      },
+      {
+        "pid": "204/3369",
+        "name": "Edward Raff"
+      },
+      {
+        "pid": "93/1248",
+        "name": "James Holt"
+      }
+    ],
+    "pages": "3033-3050",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00192"
+  },
+  {
+    "dblp_key": "conf/sp/Zhang00XY25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Inspecting Virtual Machine Diversification Inside Virtualization Obfuscation",
+    "authors": [
+      {
+        "pid": "80/3336",
+        "name": "Naiqian Zhang"
+      },
+      {
+        "pid": "158/2764",
+        "name": "Dongpeng Xu"
+      },
+      {
+        "pid": "09/6585-2",
+        "name": "Jiang Ming"
+      },
+      {
+        "pid": "90/514-24",
+        "name": "Jun Xu"
+      },
+      {
+        "pid": "15/2734",
+        "name": "Qiaoyan Yu"
+      }
+    ],
+    "pages": "3051-3069",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00071"
+  },
+  {
+    "dblp_key": "conf/sp/KimTU25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Chimera: Fuzzing P4 Network Infrastructure for Multi-Plane Bug Detection and Vulnerability Discovery",
+    "authors": [
+      {
+        "pid": "24/1630-1",
+        "name": "Jiwon Kim"
+      },
+      {
+        "pid": "159/0537",
+        "name": "Dave Jing Tian"
+      },
+      {
+        "pid": "205/3765",
+        "name": "Benjamin E. Ujcich"
+      }
+    ],
+    "pages": "3088-3106",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00194"
+  },
+  {
+    "dblp_key": "conf/sp/LefeuvreDCO25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SoK: Software Compartmentalization",
+    "authors": [
+      {
+        "pid": "279/6840",
+        "name": "Hugo Lefeuvre"
+      },
+      {
+        "pid": "20/10299",
+        "name": "Nathan Dautenhahn"
+      },
+      {
+        "pid": "85/1618",
+        "name": "David Chisnall"
+      },
+      {
+        "pid": "97/9808",
+        "name": "Pierre Olivier"
+      }
+    ],
+    "pages": "3107-3126",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00075"
+  },
+  {
+    "dblp_key": "conf/sp/YangCCZSL25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "CoinDef: A Comprehensive Code Injection Defense for the Electron Framework",
+    "authors": [
+      {
+        "pid": "59/5806",
+        "name": "Zheng Yang"
+      },
+      {
+        "pid": "38/860",
+        "name": "Simon P. Chung"
+      },
+      {
+        "pid": "301/5888",
+        "name": "Jizhou Chen"
+      },
+      {
+        "pid": "144/1374",
+        "name": "Runze Zhang"
+      },
+      {
+        "pid": "150/5240",
+        "name": "Brendan Saltaformaggio"
+      },
+      {
+        "pid": "29/5976",
+        "name": "Wenke Lee"
+      }
+    ],
+    "pages": "3127-3144",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00195"
+  },
+  {
+    "dblp_key": "conf/sp/0002SBPHSM25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Efficient Storage Integrity in Adversarial Settings",
+    "authors": [
+      {
+        "pid": "55/8327-2",
+        "name": "Quinn Burke"
+      },
+      {
+        "pid": "195/5821",
+        "name": "Ryan Sheatsley"
+      },
+      {
+        "pid": "265/2278",
+        "name": "Yohan Beugin"
+      },
+      {
+        "pid": "227/2618",
+        "name": "Eric Pauley"
+      },
+      {
+        "pid": "399/1448",
+        "name": "Owen Hines"
+      },
+      {
+        "pid": "377/2745",
+        "name": "Michael Swift"
+      },
+      {
+        "pid": "m/PatrickDrewMcDaniel",
+        "name": "Patrick D. McDaniel"
+      }
+    ],
+    "pages": "3145-3160",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00196"
+  },
+  {
+    "dblp_key": "conf/sp/GuptaMSSM25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Growlithe: A Developer-Centric Compliance Tool for Serverless Applications",
+    "authors": [
+      {
+        "pid": "161/4984",
+        "name": "Praveen Gupta"
+      },
+      {
+        "pid": "359/6510",
+        "name": "Arshia Moghimi"
+      },
+      {
+        "pid": "408/0172",
+        "name": "Devam Sisodraker"
+      },
+      {
+        "pid": "166/3165",
+        "name": "Mohammad Shahrad"
+      },
+      {
+        "pid": "161/0164",
+        "name": "Aastha Mehta"
+      }
+    ],
+    "pages": "3161-3179",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00099"
+  },
+  {
+    "dblp_key": "conf/sp/YadmaniGZ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "The File That Contained the Keys Has Been Removed: An Empirical Analysis of Secret Leaks in Cloud Buckets and Responsible Disclosure Outcomes",
+    "authors": [
+      {
+        "pid": "331/3330",
+        "name": "Soufian El Yadmani"
+      },
+      {
+        "pid": "77/6173",
+        "name": "Olga Gadyatskaya"
+      },
+      {
+        "pid": "94/10817",
+        "name": "Yury Zhauniarovich"
+      }
+    ],
+    "pages": "3180-3198",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00009"
+  },
+  {
+    "dblp_key": "conf/sp/GuTZGY25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "EPScan: Automated Detection of Excessive RBAC Permissions in Kubernetes Applications",
+    "authors": [
+      {
+        "pid": "74/10179",
+        "name": "Yue Gu"
+      },
+      {
+        "pid": "89/6413",
+        "name": "Xin Tan"
+      },
+      {
+        "pid": "48/2168",
+        "name": "Yuan Zhang"
+      },
+      {
+        "pid": "288/7873",
+        "name": "Siyan Gao"
+      },
+      {
+        "pid": "02/1640",
+        "name": "Min Yang"
+      }
+    ],
+    "pages": "3199-3217",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00011"
+  },
+  {
+    "dblp_key": "conf/sp/ChehadeHS25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "403 Forbidden? Ethically Evaluating Broken Access Control in the Wild",
+    "authors": [
+      {
+        "pid": "377/8780",
+        "name": "Saiid El Hajj Chehade"
+      },
+      {
+        "pid": "277/2819",
+        "name": "Florian Hantke"
+      },
+      {
+        "pid": "136/8343",
+        "name": "Ben Stock"
+      }
+    ],
+    "pages": "3218-3235",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00252"
+  },
+  {
+    "dblp_key": "conf/sp/NathSBBDRA25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "\"It's almost like Frankenstein\": Investigating the Complexities of Scientific Collaboration and Privilege Management within Research Computing Infrastructures",
+    "authors": [
+      {
+        "pid": "301/0920",
+        "name": "Souradip Nath"
+      },
+      {
+        "pid": "252/4043",
+        "name": "Ananta Soneji"
+      },
+      {
+        "pid": "186/6013",
+        "name": "Jaejong Baek"
+      },
+      {
+        "pid": "150/5198",
+        "name": "Tiffany Bao"
+      },
+      {
+        "pid": "28/8280",
+        "name": "Adam Doupé"
+      },
+      {
+        "pid": "11/3908",
+        "name": "Carlos E. Rubio-Medrano"
+      },
+      {
+        "pid": "a/GailJoonAhn",
+        "name": "Gail-Joon Ahn"
+      }
+    ],
+    "pages": "3236-3254",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00197"
+  },
+  {
+    "dblp_key": "conf/sp/AmmarCN25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SoK: Integrity, Attestation, and Auditing of Program Execution",
+    "authors": [
+      {
+        "pid": "02/5804",
+        "name": "Mahmoud Ammar"
+      },
+      {
+        "pid": "322/1174",
+        "name": "Adam Caulfield"
+      },
+      {
+        "pid": "173/5375",
+        "name": "Ivan De Oliveira Nunes"
+      }
+    ],
+    "pages": "3255-3272",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00077"
+  },
+  {
+    "dblp_key": "conf/sp/WangZLBCQSL25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "The Digital Cybersecurity Expert: How Far Have We Come?",
+    "authors": [
+      {
+        "pid": "39/2537-21",
+        "name": "Dawei Wang"
+      },
+      {
+        "pid": "00/2762",
+        "name": "Geng Zhou"
+      },
+      {
+        "pid": "197/7390",
+        "name": "Xianglong Li"
+      },
+      {
+        "pid": "03/6325-21",
+        "name": "Yu Bai"
+      },
+      {
+        "pid": "c/LiChen8",
+        "name": "Li Chen"
+      },
+      {
+        "pid": "79/6106",
+        "name": "Ting Qin"
+      },
+      {
+        "pid": "68/4942",
+        "name": "Jian Sun"
+      },
+      {
+        "pid": "48/4185-1",
+        "name": "Dan Li"
+      }
+    ],
+    "pages": "3273-3290",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00198"
+  },
+  {
+    "dblp_key": "conf/sp/WooOSPG25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Efficient Proofs of Possession for Legacy Signatures",
+    "authors": [
+      {
+        "pid": "294/1277",
+        "name": "Anna P. Y. Woo"
+      },
+      {
+        "pid": "200/3122",
+        "name": "Alex Ozdemir"
+      },
+      {
+        "pid": "227/9053",
+        "name": "Chad Sharp"
+      },
+      {
+        "pid": "07/4667",
+        "name": "Thomas Pornin"
+      },
+      {
+        "pid": "139/2372",
+        "name": "Paul Grubbs"
+      }
+    ],
+    "pages": "3291-3308",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00080"
+  },
+  {
+    "dblp_key": "conf/sp/OzdemirLB25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Volatile and Persistent Memory for zkSNARKs via Algebraic Interactive Proofs",
+    "authors": [
+      {
+        "pid": "200/3122",
+        "name": "Alex Ozdemir"
+      },
+      {
+        "pid": "322/4215",
+        "name": "Evan Laufer"
+      },
+      {
+        "pid": "b/DanBoneh",
+        "name": "Dan Boneh"
+      }
+    ],
+    "pages": "3309-3327",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00054"
+  },
+  {
+    "dblp_key": "conf/sp/Zhou0WYZ00C25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "ZHE: Efficient Zero-Knowledge Proofs for HE Evaluations",
+    "authors": [
+      {
+        "pid": "294/0621",
+        "name": "Zhelei Zhou"
+      },
+      {
+        "pid": "87/6284-10",
+        "name": "Yun Li"
+      },
+      {
+        "pid": "82/8599",
+        "name": "Yuchen Wang"
+      },
+      {
+        "pid": "276/0707",
+        "name": "Zhaomin Yang"
+      },
+      {
+        "pid": "65/7564",
+        "name": "Bingsheng Zhang"
+      },
+      {
+        "pid": "78/10002-1",
+        "name": "Cheng Hong"
+      },
+      {
+        "pid": "64/5099-2",
+        "name": "Tao Wei"
+      },
+      {
+        "pid": "60/810",
+        "name": "Wenguang Chen"
+      }
+    ],
+    "pages": "3328-3346",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00199"
+  },
+  {
+    "dblp_key": "conf/sp/JiangBW25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "CoBBL: Dynamic Constraint Generation for SNARKs",
+    "authors": [
+      {
+        "pid": "333/9975",
+        "name": "Kunming Jiang"
+      },
+      {
+        "pid": "177/8590",
+        "name": "Fraser Brown"
+      },
+      {
+        "pid": "150/9448",
+        "name": "Riad S. Wahby"
+      }
+    ],
+    "pages": "3347-3363",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00200"
+  },
+  {
+    "dblp_key": "conf/sp/KimKCWG25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "ALPACA: Anonymous Blocklisting with Constant-Sized Updatable Proofs",
+    "authors": [
+      {
+        "pid": "24/1630",
+        "name": "Jiwon Kim"
+      },
+      {
+        "pid": "208/8364",
+        "name": "Abhiram Kothapalli"
+      },
+      {
+        "pid": "298/9130",
+        "name": "Orestis Chardouvelis"
+      },
+      {
+        "pid": "150/9448",
+        "name": "Riad S. Wahby"
+      },
+      {
+        "pid": "139/2372",
+        "name": "Paul Grubbs"
+      }
+    ],
+    "pages": "3364-3382",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00201"
+  },
+  {
+    "dblp_key": "conf/sp/LiZLH0Z25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "HyperPianist: Pianist with Linear-Time Prover and Logarithmic Communication Cost",
+    "authors": [
+      {
+        "pid": "88/5700",
+        "name": "Chongrong Li"
+      },
+      {
+        "pid": "40/6172",
+        "name": "Pengfei Zhu"
+      },
+      {
+        "pid": "87/6284-10",
+        "name": "Yun Li"
+      },
+      {
+        "pid": "78/10002-1",
+        "name": "Cheng Hong"
+      },
+      {
+        "pid": "216/6884-1",
+        "name": "Wenjie Qu"
+      },
+      {
+        "pid": "203/8611",
+        "name": "Jiaheng Zhang"
+      }
+    ],
+    "pages": "3383-3401",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00202"
+  },
+  {
+    "dblp_key": "conf/sp/LiuHLA25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "JesseQ: Efficient Zero-Knowledge Proofs for Circuits Over Any Field",
+    "authors": [
+      {
+        "pid": "37/10342",
+        "name": "Mengling Liu"
+      },
+      {
+        "pid": "219/9589",
+        "name": "Yang Heng"
+      },
+      {
+        "pid": "180/8214",
+        "name": "Xingye Lu"
+      },
+      {
+        "pid": "55/24",
+        "name": "Man Ho Au"
+      }
+    ],
+    "pages": "3402-3420",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00203"
+  },
+  {
+    "dblp_key": "conf/sp/Pappas0P25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "HydraProofs: Optimally Computing All Proofs in a Vector Commitment (With Applications to Efficient zkSNARKs Over Data from Multiple Users)",
+    "authors": [
+      {
+        "pid": "283/4885",
+        "name": "Christodoulos Pappas"
+      },
+      {
+        "pid": "18/9002",
+        "name": "Dimitrios Papadopoulos"
+      },
+      {
+        "pid": "p/CharalamposPapamanthou",
+        "name": "Charalampos Papamanthou"
+      }
+    ],
+    "pages": "3421-3439",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00204"
+  },
+  {
+    "dblp_key": "conf/sp/ErnstbergerZCJS25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs",
+    "authors": [
+      {
+        "pid": "295/7928",
+        "name": "Jens Ernstberger"
+      },
+      {
+        "pid": "337/7725",
+        "name": "Chengru Zhang"
+      },
+      {
+        "pid": "215/3453",
+        "name": "Luca Ciprian"
+      },
+      {
+        "pid": "14/11314",
+        "name": "Philipp Jovanovic"
+      },
+      {
+        "pid": "96/4490",
+        "name": "Sebastian Steinhorst"
+      }
+    ],
+    "pages": "3440-3459",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00057"
+  },
+  {
+    "dblp_key": "conf/sp/ZhangDKSZ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "FairZK: A Scalable System to Prove Machine Learning Fairness in Zero-Knowledge",
+    "authors": [
+      {
+        "pid": "17/3842",
+        "name": "Tianyu Zhang"
+      },
+      {
+        "pid": "74/1722",
+        "name": "Shen Dong"
+      },
+      {
+        "pid": "263/4808",
+        "name": "Oyku Deniz Kose"
+      },
+      {
+        "pid": "120/7392",
+        "name": "Yanning Shen"
+      },
+      {
+        "pid": "82/4816",
+        "name": "Yupeng Zhang"
+      }
+    ],
+    "pages": "3460-3478",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00205"
+  },
+  {
+    "dblp_key": "conf/sp/MorganHOSCGMMRY25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Slice+Slice Baby: Generating Last-Level Cache Eviction Sets in the Blink of an Eye",
+    "authors": [
+      {
+        "pid": "204/9397",
+        "name": "Bradley Morgan"
+      },
+      {
+        "pid": "379/2272",
+        "name": "Gal Horowitz"
+      },
+      {
+        "pid": "207/7931",
+        "name": "Sioli O'Connell"
+      },
+      {
+        "pid": "200/3206",
+        "name": "Stephan van Schaik"
+      },
+      {
+        "pid": "124/1916",
+        "name": "Chitchanok Chuengsatiansup"
+      },
+      {
+        "pid": "98/8283",
+        "name": "Daniel Genkin"
+      },
+      {
+        "pid": "62/3841",
+        "name": "Olaf Maennel"
+      },
+      {
+        "pid": "50/805",
+        "name": "Paul Montague"
+      },
+      {
+        "pid": "180/7297",
+        "name": "Eyal Ronen"
+      },
+      {
+        "pid": "90/10901",
+        "name": "Yuval Yarom"
+      }
+    ],
+    "pages": "3479-3496",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00264"
+  },
+  {
+    "dblp_key": "conf/sp/RainerHTHT0025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Rapid Reversing of Non-Linear CPU Cache Slice Functions: Unlocking Physical Address Leakage",
+    "authors": [
+      {
+        "pid": "378/8344",
+        "name": "Mikka Rainer"
+      },
+      {
+        "pid": "323/3235",
+        "name": "Lorenz Hetterich"
+      },
+      {
+        "pid": "358/6944",
+        "name": "Fabian Thomas"
+      },
+      {
+        "pid": "408/0622",
+        "name": "Tristan Hornetz"
+      },
+      {
+        "pid": "329/6688",
+        "name": "Leon Trampert"
+      },
+      {
+        "pid": "156/3555",
+        "name": "Lukas Gerlach"
+      },
+      {
+        "pid": "08/1117-1",
+        "name": "Michael Schwarz"
+      }
+    ],
+    "pages": "3497-3515",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00206"
+  },
+  {
+    "dblp_key": "conf/sp/WiknerR25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Breaking the Barrier: Post-Barrier Spectre Attacks",
+    "authors": [
+      {
+        "pid": "331/2554",
+        "name": "Johannes Wikner"
+      },
+      {
+        "pid": "121/2685",
+        "name": "Kaveh Razavi"
+      }
+    ],
+    "pages": "3516-3533",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00089"
+  },
+  {
+    "dblp_key": "conf/sp/0004CWFGKP25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Peek-a-Walk: Leaking Secrets via Page Walk Side Channels",
+    "authors": [
+      {
+        "pid": "03/5773-4",
+        "name": "Alan Wang"
+      },
+      {
+        "pid": "362/1699",
+        "name": "Boru Chen"
+      },
+      {
+        "pid": "216/4663",
+        "name": "Yingchen Wang"
+      },
+      {
+        "pid": "25/8166",
+        "name": "Christopher W. Fletcher"
+      },
+      {
+        "pid": "98/8283",
+        "name": "Daniel Genkin"
+      },
+      {
+        "pid": "131/5093",
+        "name": "David Kohlbrenner"
+      },
+      {
+        "pid": "224/9301",
+        "name": "Riccardo Paccagnella"
+      }
+    ],
+    "pages": "3534-3548",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00023"
+  },
+  {
+    "dblp_key": "conf/sp/0007GY25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SLAP: Data Speculation Attacks via Load Address Prediction on Apple Silicon",
+    "authors": [
+      {
+        "pid": "325/3299",
+        "name": "Jason Kim"
+      },
+      {
+        "pid": "98/8283",
+        "name": "Daniel Genkin"
+      },
+      {
+        "pid": "90/10901",
+        "name": "Yuval Yarom"
+      }
+    ],
+    "pages": "3549-3566",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00098"
+  },
+  {
+    "dblp_key": "conf/sp/AmerWKDGK0Y25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "PQ-Hammer: End-to-End Key Recovery Attacks on Post-Quantum Cryptography Using Rowhammer",
+    "authors": [
+      {
+        "pid": "408/0305",
+        "name": "Samy Amer"
+      },
+      {
+        "pid": "216/4663",
+        "name": "Yingchen Wang"
+      },
+      {
+        "pid": "298/9145",
+        "name": "Hunter Kippen"
+      },
+      {
+        "pid": "249/0527",
+        "name": "Thinh Dang"
+      },
+      {
+        "pid": "98/8283",
+        "name": "Daniel Genkin"
+      },
+      {
+        "pid": "176/8068",
+        "name": "Andrew Kwong"
+      },
+      {
+        "pid": "140/7986-1",
+        "name": "Alexander Nelson"
+      },
+      {
+        "pid": "05/4233",
+        "name": "Arkady Yerukhimovich"
+      }
+    ],
+    "pages": "3567-3582",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00048"
+  },
+  {
+    "dblp_key": "conf/sp/DioHG25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Half Spectre, Full Exploit: Hardening Rowhammer Attacks with Half-Spectre Gadgets",
+    "authors": [
+      {
+        "pid": "342/3705",
+        "name": "Andrea Di Dio"
+      },
+      {
+        "pid": "358/3742",
+        "name": "Mathé Hertogh"
+      },
+      {
+        "pid": "75/8194",
+        "name": "Cristiano Giuffrida"
+      }
+    ],
+    "pages": "3583-3598",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00207"
+  },
+  {
+    "dblp_key": "conf/sp/WiebingG25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Training Solo: On the Limitations of Domain Isolation Against Spectre-v2 Attacks",
+    "authors": [
+      {
+        "pid": "334/0589",
+        "name": "Sander Wiebing"
+      },
+      {
+        "pid": "75/8194",
+        "name": "Cristiano Giuffrida"
+      }
+    ],
+    "pages": "3599-3616",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00253"
+  },
+  {
+    "dblp_key": "conf/sp/ChunSP25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Scheduled Disclosure: Turning Power into Timing Without Frequency Scaling",
+    "authors": [
+      {
+        "pid": "326/0576",
+        "name": "Inwhan Chun"
+      },
+      {
+        "pid": "407/8519",
+        "name": "Isabella Siu"
+      },
+      {
+        "pid": "224/9301",
+        "name": "Riccardo Paccagnella"
+      }
+    ],
+    "pages": "3617-3635",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00208"
+  },
+  {
+    "dblp_key": "conf/sp/GuZA25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "I know What You Sync: Covert and Side Channel Attacks on File Systems via syncfs",
+    "authors": [
+      {
+        "pid": "12/4353",
+        "name": "Cheng Gu"
+      },
+      {
+        "pid": "186/7504-4",
+        "name": "Yicheng Zhang"
+      },
+      {
+        "pid": "86/2654",
+        "name": "Nael B. Abu-Ghazaleh"
+      }
+    ],
+    "pages": "3636-3652",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00209"
+  },
+  {
+    "dblp_key": "conf/sp/ZhangZMHLYZZLGZ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "CamLopa: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis",
+    "authors": [
+      {
+        "pid": "91/4353-11",
+        "name": "Xiang Zhang"
+      },
+      {
+        "pid": "84/6889-73",
+        "name": "Jie Zhang"
+      },
+      {
+        "pid": "240/2623",
+        "name": "Zehua Ma"
+      },
+      {
+        "pid": "184/7043",
+        "name": "Jinyang Huang"
+      },
+      {
+        "pid": "70/1726-6",
+        "name": "Meng Li"
+      },
+      {
+        "pid": "87/1372-4",
+        "name": "Huan Yan"
+      },
+      {
+        "pid": "93/4324-24",
+        "name": "Peng Zhao"
+      },
+      {
+        "pid": "43/6524-1",
+        "name": "Zijian Zhang"
+      },
+      {
+        "pid": "35/837-16",
+        "name": "Bin Liu"
+      },
+      {
+        "pid": "25/3038-5",
+        "name": "Qing Guo"
+      },
+      {
+        "pid": "77/7902-4",
+        "name": "Tianwei Zhang"
+      },
+      {
+        "pid": "96/5144",
+        "name": "Nenghai Yu"
+      }
+    ],
+    "pages": "3653-3671",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00210"
+  },
+  {
+    "dblp_key": "conf/sp/0012L0MG25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Adversarial Robust ViT-Based Automatic Modulation Recognition in Practical Deep Learning-Based Wireless Systems",
+    "authors": [
+      {
+        "pid": "28/538-12",
+        "name": "Gen Li"
+      },
+      {
+        "pid": "331/4326",
+        "name": "ChunChih Lin"
+      },
+      {
+        "pid": "03/5142-1",
+        "name": "Xiaonan Zhang"
+      },
+      {
+        "pid": "47/5714",
+        "name": "Xiaolong Ma"
+      },
+      {
+        "pid": "00/10800",
+        "name": "Linke Guo"
+      }
+    ],
+    "pages": "3672-3690",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00030"
+  },
+  {
+    "dblp_key": "conf/sp/DarLSSGTVC25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Saecred: A State-Aware, Over-the-Air Protocol Testing Approach for Discovering Parsing Bugs in SAE Handshake Implementations of COTS Wi-Fi Access Points",
+    "authors": [
+      {
+        "pid": "260/8795",
+        "name": "Muhammad Daniyal Pirwani Dar"
+      },
+      {
+        "pid": "293/9465",
+        "name": "Robert Lorch"
+      },
+      {
+        "pid": "217/1229",
+        "name": "Aliakbar Sadeghi"
+      },
+      {
+        "pid": "408/0153",
+        "name": "Vincenzo Sorcigli"
+      },
+      {
+        "pid": "375/5812",
+        "name": "Héloïse Gollier"
+      },
+      {
+        "pid": "37/4921",
+        "name": "Cesare Tinelli"
+      },
+      {
+        "pid": "130/3608",
+        "name": "Mathy Vanhoef"
+      },
+      {
+        "pid": "53/7986",
+        "name": "Omar Chowdhury"
+      }
+    ],
+    "pages": "3691-3709",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00211"
+  },
+  {
+    "dblp_key": "conf/sp/Pu0HD25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Your Cable, My Antenna: Eavesdropping Serial Communication via Backscatter Signals",
+    "authors": [
+      {
+        "pid": "131/9572",
+        "name": "Lina Pu"
+      },
+      {
+        "pid": "45/6469-1",
+        "name": "Yu Luo"
+      },
+      {
+        "pid": "80/806-2",
+        "name": "Song Han"
+      },
+      {
+        "pid": "241/1335",
+        "name": "Junming Diao"
+      }
+    ],
+    "pages": "3710-3726",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00254"
+  },
+  {
+    "dblp_key": "conf/sp/BenkraoudaD025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "You Can't Judge a Binary by Its Header: Data-Code Separation for Non-Standard ARM Binaries Using Pseudo Labels",
+    "authors": [
+      {
+        "pid": "267/9798",
+        "name": "Hadjer Benkraouda"
+      },
+      {
+        "pid": "263/9750",
+        "name": "Nirav Diwan"
+      },
+      {
+        "pid": "71/4292-11",
+        "name": "Gang Wang"
+      }
+    ],
+    "pages": "3727-3745",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00036"
+  },
+  {
+    "dblp_key": "conf/sp/MandalAGSSN25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "\"We can't Allow IoT Vendors to Pass off all Such Liability to the Consumer\": Investigating the U.S. Legal Perspectives on Liability for IoT Product Security",
+    "authors": [
+      {
+        "pid": "354/8813",
+        "name": "Prianka Mandal"
+      },
+      {
+        "pid": "186/6501",
+        "name": "Amit Seal Ami"
+      },
+      {
+        "pid": "359/4011",
+        "name": "Iria Giuffrida"
+      },
+      {
+        "pid": "176/6193",
+        "name": "Daniel Shin"
+      },
+      {
+        "pid": "407/9716",
+        "name": "Ella Sullivan"
+      },
+      {
+        "pid": "136/8334",
+        "name": "Adwait Nadkarni"
+      }
+    ],
+    "pages": "3746-3764",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00212"
+  },
+  {
+    "dblp_key": "conf/sp/NetoRN25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "PEARTS: Provable Execution in Real-Time Embedded Systems",
+    "authors": [
+      {
+        "pid": "279/6354",
+        "name": "Antonio Joia Neto"
+      },
+      {
+        "pid": "198/1339",
+        "name": "Norrathep Rattanavipanon"
+      },
+      {
+        "pid": "173/5375",
+        "name": "Ivan De Oliveira Nunes"
+      }
+    ],
+    "pages": "3765-3782",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00047"
+  },
+  {
+    "dblp_key": "conf/sp/ChangZZ00BJ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Firmrca: Towards Post-Fuzzing Analysis on ARM Embedded Firmware with Efficient Event-Based Fault Localization",
+    "authors": [
+      {
+        "pid": "264/5312",
+        "name": "Boyu Chang"
+      },
+      {
+        "pid": "79/7820",
+        "name": "Binbin Zhao"
+      },
+      {
+        "pid": "37/3831",
+        "name": "Qiao Zhang"
+      },
+      {
+        "pid": "85/670-3",
+        "name": "Peiyu Liu"
+      },
+      {
+        "pid": "39/5423-1",
+        "name": "Yuan Tian"
+      },
+      {
+        "pid": "12/6354",
+        "name": "Raheem Beyah"
+      },
+      {
+        "pid": "07/8388",
+        "name": "Shouling Ji"
+      }
+    ],
+    "pages": "3783-3800",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00002"
+  },
+  {
+    "dblp_key": "conf/sp/XiaoWDLZY25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "HouseFuzz: Service-Aware Grey-Box Fuzzing for Vulnerability Detection in Linux-Based Firmware",
+    "authors": [
+      {
+        "pid": "325/3450",
+        "name": "Haoyu Xiao"
+      },
+      {
+        "pid": "407/9600",
+        "name": "Ziqi Wei"
+      },
+      {
+        "pid": "217/3746",
+        "name": "Jiarun Dai"
+      },
+      {
+        "pid": "75/10470",
+        "name": "Bowen Li"
+      },
+      {
+        "pid": "48/2168",
+        "name": "Yuan Zhang"
+      },
+      {
+        "pid": "02/1640",
+        "name": "Min Yang"
+      }
+    ],
+    "pages": "3801-3819",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00213"
+  },
+  {
+    "dblp_key": "conf/sp/AlmeidaABBEH00S25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Faster Verification of Faster Implementations: Combining Deductive and Circuit-Based Reasoning in EasyCrypt",
+    "authors": [
+      {
+        "pid": "66/3456",
+        "name": "José Bacelar Almeida"
+      },
+      {
+        "pid": "407/9907",
+        "name": "Gustavo Xavier Delerue Marinho Alves"
+      },
+      {
+        "pid": "06/5631",
+        "name": "Manuel Barbosa"
+      },
+      {
+        "pid": "b/GBarthe",
+        "name": "Gilles Barthe"
+      },
+      {
+        "pid": "354/0435",
+        "name": "Luís Esquível"
+      },
+      {
+        "pid": "277/3814",
+        "name": "Vincent Hwang"
+      },
+      {
+        "pid": "87/4879-4",
+        "name": "Tiago Oliveira"
+      },
+      {
+        "pid": "10/3783",
+        "name": "Hugo Pacheco"
+      },
+      {
+        "pid": "30/1431",
+        "name": "Peter Schwabe"
+      },
+      {
+        "pid": "35/5080",
+        "name": "Pierre-Yves Strub"
+      }
+    ],
+    "pages": "3820-3838",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00214"
+  },
+  {
+    "dblp_key": "conf/sp/SridharXD25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "PAC-Private Algorithms",
+    "authors": [
+      {
+        "pid": "230/4552",
+        "name": "Mayuri Sridhar"
+      },
+      {
+        "pid": "184/4766",
+        "name": "Hanshen Xiao"
+      },
+      {
+        "pid": "14/3973",
+        "name": "Srinivas Devadas"
+      }
+    ],
+    "pages": "3839-3857",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00034"
+  },
+  {
+    "dblp_key": "conf/sp/ZhaoZDWLWG25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "An Attack-Agnostic Defense Framework Against Manipulation Attacks Under Local Differential Privacy",
+    "authors": [
+      {
+        "pid": "216/2680",
+        "name": "Puning Zhao"
+      },
+      {
+        "pid": "90/545-1",
+        "name": "Zhikun Zhang"
+      },
+      {
+        "pid": "78/9960",
+        "name": "Jiawei Dong"
+      },
+      {
+        "pid": "227/7227",
+        "name": "Jiafei Wu"
+      },
+      {
+        "pid": "70/1220-1",
+        "name": "Zhe Liu"
+      },
+      {
+        "pid": "49/6937-3",
+        "name": "Shaowei Wang"
+      },
+      {
+        "pid": "80/2651",
+        "name": "Yunjun Gao"
+      }
+    ],
+    "pages": "3858-3876",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00255"
+  },
+  {
+    "dblp_key": "conf/sp/0001YHXL025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "From Randomized Response to Randomized Index: Answering Subset Counting Queries with Local Differential Privacy",
+    "authors": [
+      {
+        "pid": "194/0001-1",
+        "name": "Qingqing Ye"
+      },
+      {
+        "pid": "405/6017",
+        "name": "Liantong Yu"
+      },
+      {
+        "pid": "86/489-11",
+        "name": "Kai Huang"
+      },
+      {
+        "pid": "33/1903",
+        "name": "Xiaokui Xiao"
+      },
+      {
+        "pid": "71/10355",
+        "name": "Weiran Liu"
+      },
+      {
+        "pid": "90/5236-1",
+        "name": "Haibo Hu"
+      }
+    ],
+    "pages": "3877-3891",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00215"
+  },
+  {
+    "dblp_key": "conf/sp/MurakamiSE25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Augmented Shuffle Protocols for Accurate and Robust Frequency Estimation Under Differential Privacy",
+    "authors": [
+      {
+        "pid": "37/9269",
+        "name": "Takao Murakami"
+      },
+      {
+        "pid": "95/6448",
+        "name": "Yuichi Sei"
+      },
+      {
+        "pid": "249/7167",
+        "name": "Reo Eriguchi"
+      }
+    ],
+    "pages": "3892-3911",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00019"
+  },
+  {
+    "dblp_key": "conf/sp/HodC25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Differentially Private Release of Israel's National Registry of Live Births",
+    "authors": [
+      {
+        "pid": "260/6398",
+        "name": "Shlomi Hod"
+      },
+      {
+        "pid": "c/RanCanetti",
+        "name": "Ran Canetti"
+      }
+    ],
+    "pages": "3912-3930",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00101"
+  },
+  {
+    "dblp_key": "conf/sp/Jiang0LDSY25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Meeting Utility Constraints in Differential Privacy: A Privacy-Boosting Approach",
+    "authors": [
+      {
+        "pid": "34/2005",
+        "name": "Bo Jiang"
+      },
+      {
+        "pid": "395/2123",
+        "name": "Wanrong Zhang"
+      },
+      {
+        "pid": "246/3274",
+        "name": "Donghang Lu"
+      },
+      {
+        "pid": "58/2985",
+        "name": "Jian Du"
+      },
+      {
+        "pid": "167/2117",
+        "name": "Sagar Sharma"
+      },
+      {
+        "pid": "79/6531",
+        "name": "Qiang Yan"
+      }
+    ],
+    "pages": "3931-3949",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00064"
+  },
+  {
+    "dblp_key": "conf/sp/KuchlerVLH25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "DPolicy: Managing Privacy Risks Across Multiple Releases with Differential Privacy",
+    "authors": [
+      {
+        "pid": "297/3254",
+        "name": "Nicolas Küchler"
+      },
+      {
+        "pid": "231/9670",
+        "name": "Alexander Viand"
+      },
+      {
+        "pid": "297/3204",
+        "name": "Hidde Lycklama"
+      },
+      {
+        "pid": "122/5664",
+        "name": "Anwar Hithnawi"
+      }
+    ],
+    "pages": "3950-3968",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00256"
+  },
+  {
+    "dblp_key": "conf/sp/ChavesFPMM25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Differentially Private Selection Using Smooth Sensitivity",
+    "authors": [
+      {
+        "pid": "194/6151",
+        "name": "Iago C. Chaves"
+      },
+      {
+        "pid": "120/3391",
+        "name": "Victor A. E. de Farias"
+      },
+      {
+        "pid": "405/3091",
+        "name": "Amanda Perez"
+      },
+      {
+        "pid": "163/4293",
+        "name": "Diego Mesquita"
+      },
+      {
+        "pid": "12/3896",
+        "name": "Javam C. Machado"
+      }
+    ],
+    "pages": "3969-3987",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00216"
+  },
+  {
+    "dblp_key": "conf/sp/Li0LZHW25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "From Easy to Hard: Building a Shortcut for Differentially Private Image Synthesis",
+    "authors": [
+      {
+        "pid": "361/7589",
+        "name": "Kecen Li"
+      },
+      {
+        "pid": "21/8587-5",
+        "name": "Chen Gong"
+      },
+      {
+        "pid": "49/1510",
+        "name": "Xiaochen Li"
+      },
+      {
+        "pid": "42/8750",
+        "name": "Yuzhong Zhao"
+      },
+      {
+        "pid": "76/5119",
+        "name": "Xinwen Hou"
+      },
+      {
+        "pid": "145/3288-1",
+        "name": "Tianhao Wang"
+      }
+    ],
+    "pages": "3988-4006",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00217"
+  },
+  {
+    "dblp_key": "conf/sp/GanevC25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "The Inadequacy of Similarity-Based Privacy Metrics: Privacy Attacks Against \"Truly Anonymous\" Synthetic Datasets",
+    "authors": [
+      {
+        "pid": "284/8917",
+        "name": "Georgi Ganev"
+      },
+      {
+        "pid": "36/6225",
+        "name": "Emiliano De Cristofaro"
+      }
+    ],
+    "pages": "4007-4025",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00218"
+  },
+  {
+    "dblp_key": "conf/sp/Roche25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "EUCLEAK Side-Channel Attack on the YubiKey 5 Series (Revealing and Breaking Infineon ECDSA Implementation on the Way)",
+    "authors": [
+      {
+        "pid": "29/4478",
+        "name": "Thomas Roche"
+      }
+    ],
+    "pages": "4026-4043",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00219"
+  },
+  {
+    "dblp_key": "conf/sp/KimPRCLKL25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Tiktag: Breaking ARM's Memory Tagging Extension with Speculative Execution",
+    "authors": [
+      {
+        "pid": "22/6131",
+        "name": "Juhee Kim"
+      },
+      {
+        "pid": "231/1918",
+        "name": "Jinbum Park"
+      },
+      {
+        "pid": "380/0031",
+        "name": "Sihyeon Roh"
+      },
+      {
+        "pid": "51/3834",
+        "name": "Jaeyoung Chung"
+      },
+      {
+        "pid": "24/3466",
+        "name": "Youngjoo Lee"
+      },
+      {
+        "pid": "38/8882",
+        "name": "Taesoo Kim"
+      },
+      {
+        "pid": "45/7986",
+        "name": "Byoungyoung Lee"
+      }
+    ],
+    "pages": "4063-4081",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00039"
+  },
+  {
+    "dblp_key": "conf/sp/KalitaYMV25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Ceviche: Capability-Enhanced Secure Virtualization of Caches",
+    "authors": [
+      {
+        "pid": "391/3085",
+        "name": "Arnabjyoti Kalita"
+      },
+      {
+        "pid": "362/2549",
+        "name": "Yilong Yang"
+      },
+      {
+        "pid": "407/9386",
+        "name": "Alenkruth Krishnan Murali"
+      },
+      {
+        "pid": "76/11029",
+        "name": "Ashish Venkat"
+      }
+    ],
+    "pages": "4082-4098",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00008"
+  },
+  {
+    "dblp_key": "conf/sp/SangLZK25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Portal: Fast and Secure Device Access with Arm CCA for Modern Arm Mobile System-on-Chips (SoCs)",
+    "authors": [
+      {
+        "pid": "249/5653",
+        "name": "Fan Sang"
+      },
+      {
+        "pid": "127/7890",
+        "name": "Jaehyuk Lee"
+      },
+      {
+        "pid": "158/4724",
+        "name": "Xiaokuan Zhang"
+      },
+      {
+        "pid": "38/8882",
+        "name": "Taesoo Kim"
+      }
+    ],
+    "pages": "4099-4116",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00013"
+  },
+  {
+    "dblp_key": "conf/sp/MeulemeesterWO025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "BadRAM: Practical Memory Aliasing Attacks on Trusted Execution Environments",
+    "authors": [
+      {
+        "pid": "353/7555",
+        "name": "Jesse De Meulemeester"
+      },
+      {
+        "pid": "263/7337",
+        "name": "Luca Wilke"
+      },
+      {
+        "pid": "190/2073",
+        "name": "David F. Oswald"
+      },
+      {
+        "pid": "72/817",
+        "name": "Thomas Eisenbarth"
+      },
+      {
+        "pid": "92/16",
+        "name": "Ingrid Verbauwhede"
+      },
+      {
+        "pid": "167/1573",
+        "name": "Jo Van Bulck"
+      }
+    ],
+    "pages": "4117-4135",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00104"
+  },
+  {
+    "dblp_key": "conf/sp/YuanLDCWZ025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels",
+    "authors": [
+      {
+        "pid": "295/5277-1",
+        "name": "Yuanyuan Yuan"
+      },
+      {
+        "pid": "193/9286",
+        "name": "Zhibo Liu"
+      },
+      {
+        "pid": "195/2914",
+        "name": "Sen Deng"
+      },
+      {
+        "pid": "292/7423",
+        "name": "Yanzuo Chen"
+      },
+      {
+        "pid": "42/1503-11",
+        "name": "Shuai Wang"
+      },
+      {
+        "pid": "77/3503",
+        "name": "Yinqian Zhang"
+      },
+      {
+        "pid": "s/ZhendongSu",
+        "name": "Zhendong Su"
+      }
+    ],
+    "pages": "4136-4154",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00079"
+  },
+  {
+    "dblp_key": "conf/sp/DharTLC25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Guardain: Protecting Emerging Generative AI Workloads on Heterogeneous NPU",
+    "authors": [
+      {
+        "pid": "118/3376",
+        "name": "Aritra Dhar"
+      },
+      {
+        "pid": "383/8104",
+        "name": "Clément Thorens"
+      },
+      {
+        "pid": "383/8002",
+        "name": "Lara Magdalena Lazier"
+      },
+      {
+        "pid": "137/9406",
+        "name": "Lukas Cavigelli"
+      }
+    ],
+    "pages": "4155-4172",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00221"
+  },
+  {
+    "dblp_key": "conf/sp/CremersHJR25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Token Weaver: Privacy Preserving and Post-Compromise Secure Attestation",
+    "authors": [
+      {
+        "pid": "17/2282",
+        "name": "Cas Cremers"
+      },
+      {
+        "pid": "379/2272",
+        "name": "Gal Horowitz"
+      },
+      {
+        "pid": "195/3195",
+        "name": "Charlie Jacomme"
+      },
+      {
+        "pid": "180/7297",
+        "name": "Eyal Ronen"
+      }
+    ],
+    "pages": "4173-4191",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00093"
+  },
+  {
+    "dblp_key": "conf/sp/DuyKL025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "INCOGNITOS: A Practical Unikernel Design for Full-System Obfuscation in Confidential Virtual Machines",
+    "authors": [
+      {
+        "pid": "305/7328",
+        "name": "Kha Dinh Duy"
+      },
+      {
+        "pid": "48/11202",
+        "name": "Jaeyoon Kim"
+      },
+      {
+        "pid": "381/1590",
+        "name": "Hajeong Lim"
+      },
+      {
+        "pid": "119/7678-1",
+        "name": "Hojoon Lee"
+      }
+    ],
+    "pages": "4192-4209",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00222"
+  },
+  {
+    "dblp_key": "conf/sp/WangWPJWW25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "A Big Step Forward? A User-Centric Examination of iOS App Privacy Report and Enhancements",
+    "authors": [
+      {
+        "pid": "10/3099",
+        "name": "Liu Wang"
+      },
+      {
+        "pid": "40/3934",
+        "name": "Dong Wang"
+      },
+      {
+        "pid": "303/8542",
+        "name": "Shidong Pan"
+      },
+      {
+        "pid": "02/10797",
+        "name": "Zheng Jiang"
+      },
+      {
+        "pid": "50/8499",
+        "name": "Haoyu Wang"
+      },
+      {
+        "pid": "17/221",
+        "name": "Yi Wang"
+      }
+    ],
+    "pages": "4210-4228",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00223"
+  },
+  {
+    "dblp_key": "conf/sp/SchmidtPSKL25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Analyzing the iOS Local Network Permission from a Technical and User Perspective",
+    "authors": [
+      {
+        "pid": "22/8164",
+        "name": "David Schmidt"
+      },
+      {
+        "pid": "301/5910",
+        "name": "Alexander Ponticello"
+      },
+      {
+        "pid": "378/8940",
+        "name": "Magdalena Steinböck"
+      },
+      {
+        "pid": "128/4803",
+        "name": "Katharina Krombholz"
+      },
+      {
+        "pid": "81/10928",
+        "name": "Martina Lindorfer"
+      }
+    ],
+    "pages": "4229-4247",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00045"
+  },
+  {
+    "dblp_key": "conf/sp/WangKRMM25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "WireWatch: Measuring the Security of Proprietary Network Encryption in the Global Android Ecosystem",
+    "authors": [
+      {
+        "pid": "319/9769",
+        "name": "Mona Wang"
+      },
+      {
+        "pid": "41/11468",
+        "name": "Jeffrey Knockel"
+      },
+      {
+        "pid": "392/3300",
+        "name": "Zoë Reichert"
+      },
+      {
+        "pid": "39/6266",
+        "name": "Prateek Mittal"
+      },
+      {
+        "pid": "116/8542",
+        "name": "Jonathan R. Mayer"
+      }
+    ],
+    "pages": "4248-4266",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00224"
+  },
+  {
+    "dblp_key": "conf/sp/WangZDW25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Born with a Silver Spoon: On the (In)Security of Native Granted App Privileges in Custom Android ROMs",
+    "authors": [
+      {
+        "pid": "188/7759-97",
+        "name": "Chao Wang"
+      },
+      {
+        "pid": "40/622-1",
+        "name": "Yanjie Zhao"
+      },
+      {
+        "pid": "370/5563",
+        "name": "Jiapeng Deng"
+      },
+      {
+        "pid": "50/8499-1",
+        "name": "Haoyu Wang"
+      }
+    ],
+    "pages": "4267-4283",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00017"
+  },
+  {
+    "dblp_key": "conf/sp/GuoNLC25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Code Speaks Louder: Exploring Security and Privacy Relevant Regional Variations in Mobile Applications",
+    "authors": [
+      {
+        "pid": "243/8514",
+        "name": "Jiawei Guo"
+      },
+      {
+        "pid": "237/4644",
+        "name": "Yu Nong"
+      },
+      {
+        "pid": "49/4102-1",
+        "name": "Zhiqiang Lin"
+      },
+      {
+        "pid": "117/7062",
+        "name": "Haipeng Cai"
+      }
+    ],
+    "pages": "4284-4302",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00225"
+  },
+  {
+    "dblp_key": "conf/sp/ZhuSRHYWL0T25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Lombard-VLD: Voice Liveness Detection Based on Human Auditory Feedback",
+    "authors": [
+      {
+        "pid": "277/3794",
+        "name": "Hongcheng Zhu"
+      },
+      {
+        "pid": "252/2019",
+        "name": "Zongkun Sun"
+      },
+      {
+        "pid": "76/10143",
+        "name": "Yanzhen Ren"
+      },
+      {
+        "pid": "59/1028",
+        "name": "Kun He"
+      },
+      {
+        "pid": "385/6794",
+        "name": "Yongpeng Yan"
+      },
+      {
+        "pid": "05/10698",
+        "name": "Zixuan Wang"
+      },
+      {
+        "pid": "312/7464",
+        "name": "Wuyang Liu"
+      },
+      {
+        "pid": "52/5811-1",
+        "name": "Yuhong Yang"
+      },
+      {
+        "pid": "119/0299",
+        "name": "Weiping Tu"
+      }
+    ],
+    "pages": "4303-4320",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00226"
+  },
+  {
+    "dblp_key": "conf/sp/SabirBA025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Analyzing Ad Prevalence, Characteristics, and Compliance in Alexa Skills",
+    "authors": [
+      {
+        "pid": "292/9805",
+        "name": "Aafaq Sabir"
+      },
+      {
+        "pid": "372/1765",
+        "name": "Abhinaya S. B."
+      },
+      {
+        "pid": "294/3240",
+        "name": "Dilawer Ahmed"
+      },
+      {
+        "pid": "84/5118-1",
+        "name": "Anupam Das"
+      }
+    ],
+    "pages": "4321-4339",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00257"
+  },
+  {
+    "dblp_key": "conf/sp/LeeC25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Eyes on your Typing: Snooping Finger Motions on Virtual Keyboards",
+    "authors": [
+      {
+        "pid": "56/7811-4",
+        "name": "Sunwoo Lee"
+      },
+      {
+        "pid": "09/6032",
+        "name": "Wonsuk Choi"
+      }
+    ],
+    "pages": "4340-4355",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00227"
+  },
+  {
+    "dblp_key": "conf/sp/YeMWSCS25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "BPSniff: Continuously Surveilling Private Blood Pressure Information in the Metaverse via Unrestricted Inbuilt Motion Sensors",
+    "authors": [
+      {
+        "pid": "322/6627",
+        "name": "Zhengkun Ye"
+      },
+      {
+        "pid": "301/9694",
+        "name": "Ahmed Tanvir Mahdad"
+      },
+      {
+        "pid": "59/2227-3",
+        "name": "Yan Wang"
+      },
+      {
+        "pid": "07/6946-4",
+        "name": "Cong Shi"
+      },
+      {
+        "pid": "18/2343-1",
+        "name": "Yingying Chen"
+      },
+      {
+        "pid": "25/1169",
+        "name": "Nitesh Saxena"
+      }
+    ],
+    "pages": "4356-4374",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00049"
+  },
+  {
+    "dblp_key": "conf/sp/WallezPB25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "TreeKEM: A Modular Machine-Checked Symbolic Security Analysis of Group Key Agreement in Messaging Layer Security",
+    "authors": [
+      {
+        "pid": "336/5873",
+        "name": "Théophile Wallez"
+      },
+      {
+        "pid": "132/3972",
+        "name": "Jonathan Protzenko"
+      },
+      {
+        "pid": "80/3503",
+        "name": "Karthikeyan Bhargavan"
+      }
+    ],
+    "pages": "4375-4390",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00228"
+  },
+  {
+    "dblp_key": "conf/sp/CremersMN25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Impossibility Results for Post-Compromise Security in Real-World Communication Systems",
+    "authors": [
+      {
+        "pid": "17/2282",
+        "name": "Cas Cremers"
+      },
+      {
+        "pid": "272/7168",
+        "name": "Niklas Medinger"
+      },
+      {
+        "pid": "277/8030",
+        "name": "Aurora Naska"
+      }
+    ],
+    "pages": "4391-4405",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00229"
+  },
+  {
+    "dblp_key": "conf/sp/DavidBHLMY25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Extended Diffie-Hellman Encryption for Secure and Efficient Real-Time Beacon Notifications",
+    "authors": [
+      {
+        "pid": "147/4858",
+        "name": "Liron David"
+      },
+      {
+        "pid": "41/5581",
+        "name": "Omer Berkman"
+      },
+      {
+        "pid": "16/2522",
+        "name": "Avinatan Hassidim"
+      },
+      {
+        "pid": "382/0558",
+        "name": "David Lazarov"
+      },
+      {
+        "pid": "m/YossiMatias",
+        "name": "Yossi Matias"
+      },
+      {
+        "pid": "y/MotiYung",
+        "name": "Moti Yung"
+      }
+    ],
+    "pages": "4406-4418",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00230"
+  },
+  {
+    "dblp_key": "conf/sp/KavianiRAP25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Myco: Unlocking Polylogarithmic Accesses in Metadata-Private Messaging",
+    "authors": [
+      {
+        "pid": "305/4144",
+        "name": "Darya Kaviani"
+      },
+      {
+        "pid": "223/6113",
+        "name": "Deevashwer Rathee"
+      },
+      {
+        "pid": "400/9349",
+        "name": "Bhargav Annem"
+      },
+      {
+        "pid": "91/275",
+        "name": "Raluca Ada Popa"
+      }
+    ],
+    "pages": "4419-4437",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00232"
+  },
+  {
+    "dblp_key": "conf/sp/MazmudarVM25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Peer2PIR: Private Queries for IPFS",
+    "authors": [
+      {
+        "pid": "275/2619",
+        "name": "Miti Mazmudar"
+      },
+      {
+        "pid": "245/0250",
+        "name": "Shannon Veitch"
+      },
+      {
+        "pid": "280/8174",
+        "name": "Rasoul Akhavan Mahdavi"
+      }
+    ],
+    "pages": "4438-4456",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00231"
+  },
+  {
+    "dblp_key": "conf/sp/00010KMK25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Mixnets on a Tightrope: Quantifying the Leakage of Mix Networks Using a Provably Optimal Heuristic Adversary",
+    "authors": [
+      {
+        "pid": "02/7901-1",
+        "name": "Sebastian Meiser"
+      },
+      {
+        "pid": "202/3127-1",
+        "name": "Debajyoti Das"
+      },
+      {
+        "pid": "332/2354",
+        "name": "Moritz Kirschte"
+      },
+      {
+        "pid": "77/8938",
+        "name": "Esfandiar Mohammadi"
+      },
+      {
+        "pid": "12/3394",
+        "name": "Aniket Kate"
+      }
+    ],
+    "pages": "4457-4475",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00233"
+  },
+  {
+    "dblp_key": "conf/sp/CaoDGHYLLVHZJ025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "TreePIR: Efficient Private Retrieval of Merkle Proofs via Tree Colorings with Fast Indexing and Zero Storage Overhead",
+    "authors": [
+      {
+        "pid": "320/4803",
+        "name": "Quang Cao"
+      },
+      {
+        "pid": "30/5607",
+        "name": "Son Hoang Dau"
+      },
+      {
+        "pid": "320/3866",
+        "name": "Rinaldo Gagiano"
+      },
+      {
+        "pid": "00/4252",
+        "name": "Duy Huynh"
+      },
+      {
+        "pid": "94/4423",
+        "name": "Xun Yi"
+      },
+      {
+        "pid": "320/4536",
+        "name": "Phuc Lu Le"
+      },
+      {
+        "pid": "249/9414",
+        "name": "Quang-Hung Luu"
+      },
+      {
+        "pid": "18/2349",
+        "name": "Emanuele Viterbo"
+      },
+      {
+        "pid": "77/68",
+        "name": "Yu-Chih Huang"
+      },
+      {
+        "pid": "95/8397",
+        "name": "Jingge Zhu"
+      },
+      {
+        "pid": "237/9791",
+        "name": "Mohammad M. Jalalzai"
+      },
+      {
+        "pid": "01/161-1",
+        "name": "Chen Feng"
+      }
+    ],
+    "pages": "4476-4494",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00032"
+  },
+  {
+    "dblp_key": "conf/sp/SamperF25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "SoK: Self-Generated Nudes over Private Chats: How can Technology Contribute to a Safer Sexting?",
+    "authors": [
+      {
+        "pid": "394/5384",
+        "name": "Joel Samper"
+      },
+      {
+        "pid": "145/9850",
+        "name": "Bernardo Ferreira"
+      }
+    ],
+    "pages": "4495-4514",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00234"
+  },
+  {
+    "dblp_key": "conf/sp/MunyendoOSWAKR25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "\"You Have to Ignore the Dangers\": User Perceptions of the Security and Privacy Benefits of WhatsApp Mods",
+    "authors": [
+      {
+        "pid": "293/9864",
+        "name": "Collins W. Munyendo"
+      },
+      {
+        "pid": "292/5885",
+        "name": "Kentrell Owens"
+      },
+      {
+        "pid": "408/0055",
+        "name": "Faith Strong"
+      },
+      {
+        "pid": "156/4566",
+        "name": "Shaoqi Wang"
+      },
+      {
+        "pid": "94/1554",
+        "name": "Adam J. Aviv"
+      },
+      {
+        "pid": "k/TadayoshiKohno",
+        "name": "Tadayoshi Kohno"
+      },
+      {
+        "pid": "23/2758",
+        "name": "Franziska Roesner"
+      }
+    ],
+    "pages": "4515-4533",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00087"
+  },
+  {
+    "dblp_key": "conf/sp/ChangSXZK25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "EveGuard: Defeating Vibration-based Side-Channel Eavesdropping with Audio Adversarial Perturbations",
+    "authors": [
+      {
+        "pid": "34/7013",
+        "name": "Jung-Woo Chang"
+      },
+      {
+        "pid": "69/476-12",
+        "name": "Ke Sun"
+      },
+      {
+        "pid": "15/2758",
+        "name": "David Xia"
+      },
+      {
+        "pid": "58/4582-3",
+        "name": "Xinyu Zhang"
+      },
+      {
+        "pid": "k/FarinazKoushanfar",
+        "name": "Farinaz Koushanfar"
+      }
+    ],
+    "pages": "4534-4552",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00235"
+  },
+  {
+    "dblp_key": "conf/sp/ShaikhanovACCAM25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Spoofing Eavesdroppers with Audio Misinformation",
+    "authors": [
+      {
+        "pid": "283/6926",
+        "name": "Zhambyl Shaikhanov"
+      },
+      {
+        "pid": "408/0208",
+        "name": "Mahmoud Al-Madi"
+      },
+      {
+        "pid": "394/3470",
+        "name": "Hou-Tong Chen"
+      },
+      {
+        "pid": "02/1482",
+        "name": "Chun-Chieh Chang"
+      },
+      {
+        "pid": "340/0589",
+        "name": "Sadhvikas Addamane"
+      },
+      {
+        "pid": "202/4701",
+        "name": "Daniel M. Mittleman"
+      },
+      {
+        "pid": "k/EWKnightly",
+        "name": "Edward W. Knightly"
+      }
+    ],
+    "pages": "4553-4568",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00258"
+  },
+  {
+    "dblp_key": "conf/sp/YuanZGCWZCLLWZ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "EvilHarmony: Stealthy Adversarial Attacks Against Black-Box Speech Recognition Systems",
+    "authors": [
+      {
+        "pid": "213/8010",
+        "name": "Xuejing Yuan"
+      },
+      {
+        "pid": "93/10773",
+        "name": "Jiangshan Zhang"
+      },
+      {
+        "pid": "03/5499",
+        "name": "Feng Guo"
+      },
+      {
+        "pid": "c/KaiChen12",
+        "name": "Kai Chen"
+      },
+      {
+        "pid": "06/6268",
+        "name": "Xiaofeng Wang"
+      },
+      {
+        "pid": "65/3618",
+        "name": "Shengzhi Zhang"
+      },
+      {
+        "pid": "145/7790",
+        "name": "Yuxuan Chen"
+      },
+      {
+        "pid": "88/4935",
+        "name": "Dun Liu"
+      },
+      {
+        "pid": "72/2643",
+        "name": "Pan Li"
+      },
+      {
+        "pid": "148/9655",
+        "name": "Zihao Wang"
+      },
+      {
+        "pid": "407/8770",
+        "name": "Runnan Zhu"
+      }
+    ],
+    "pages": "4569-4587",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00259"
+  },
+  {
+    "dblp_key": "conf/sp/MullerSWZMM0GPC25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Investigating Physical Latency Attacks Against Camera-Based Perception",
+    "authors": [
+      {
+        "pid": "332/2911",
+        "name": "Raymond Muller"
+      },
+      {
+        "pid": "329/6551-1",
+        "name": "Ruoyu Song"
+      },
+      {
+        "pid": "233/3129-5",
+        "name": "Chenyi Wang"
+      },
+      {
+        "pid": "306/1688",
+        "name": "Yuxia Zhan"
+      },
+      {
+        "pid": "192/5948",
+        "name": "Jean-Philippe Monteuuis"
+      },
+      {
+        "pid": "174/4227",
+        "name": "Yanmao Man"
+      },
+      {
+        "pid": "l/MingLi3",
+        "name": "Ming Li"
+      },
+      {
+        "pid": "73/1832",
+        "name": "Ryan M. Gerdes"
+      },
+      {
+        "pid": "33/7861",
+        "name": "Jonathan Petit"
+      },
+      {
+        "pid": "143/2298",
+        "name": "Z. Berkay Celik"
+      }
+    ],
+    "pages": "4588-4605",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00236"
+  },
+  {
+    "dblp_key": "conf/sp/DattaCB25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "VerITAS: Verifying Image Transformations at Scale",
+    "authors": [
+      {
+        "pid": "159/1165",
+        "name": "Trisha Datta"
+      },
+      {
+        "pid": "133/2004",
+        "name": "Binyi Chen"
+      },
+      {
+        "pid": "b/DanBoneh",
+        "name": "Dan Boneh"
+      }
+    ],
+    "pages": "4606-4623",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00097"
+  },
+  {
+    "dblp_key": "conf/sp/MonicaVVZ25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Trust Nobody: Privacy-Preserving Proofs for Edited Photos with Your Laptop",
+    "authors": [
+      {
+        "pid": "382/0770",
+        "name": "Pierpaolo Della Monica"
+      },
+      {
+        "pid": "81/5771",
+        "name": "Ivan Visconti"
+      },
+      {
+        "pid": "v/AndreaVitaletti",
+        "name": "Andrea Vitaletti"
+      },
+      {
+        "pid": "258/2353",
+        "name": "Marco Zecchini"
+      }
+    ],
+    "pages": "4624-4642",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00014"
+  },
+  {
+    "dblp_key": "conf/sp/ZhangYO0J25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Eva: Efficient Privacy-Preserving Proof of Authenticity for Lossily Encoded Videos",
+    "authors": [
+      {
+        "pid": "337/7725",
+        "name": "Chengru Zhang"
+      },
+      {
+        "pid": "57/3385",
+        "name": "Xiao Yang"
+      },
+      {
+        "pid": "190/2073",
+        "name": "David F. Oswald"
+      },
+      {
+        "pid": "r/MarkDermotRyan",
+        "name": "Mark Ryan"
+      },
+      {
+        "pid": "14/11314",
+        "name": "Philipp Jovanovic"
+      }
+    ],
+    "pages": "4643-4662",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00237"
+  },
+  {
+    "dblp_key": "conf/sp/Wang00FCB0C25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "From One Stolen Utterance: Assessing the Risks of Voice Cloning in the AIGC Era",
+    "authors": [
+      {
+        "pid": "05/1958-25",
+        "name": "Kun Wang"
+      },
+      {
+        "pid": "25/687-11",
+        "name": "Meng Chen"
+      },
+      {
+        "pid": "49/2793-8",
+        "name": "Li Lu"
+      },
+      {
+        "pid": "142/9322",
+        "name": "Jingwen Feng"
+      },
+      {
+        "pid": "339/6836",
+        "name": "Qianniu Chen"
+      },
+      {
+        "pid": "139/5759",
+        "name": "Zhongjie Ba"
+      },
+      {
+        "pid": "20/6179-1",
+        "name": "Kui Ren"
+      },
+      {
+        "pid": "07/4182-0001",
+        "name": "Chun Chen"
+      }
+    ],
+    "pages": "4663-4681",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00238"
+  },
+  {
+    "dblp_key": "conf/sp/Huang025",
+    "conference": "sp",
+    "year": 2025,
+    "title": "Sniffing Location Privacy of Video Conference Users Using Free Audio Channels",
+    "authors": [
+      {
+        "pid": "152/0790",
+        "name": "Long Huang"
+      },
+      {
+        "pid": "82/4206-9",
+        "name": "Chen Wang"
+      }
+    ],
+    "pages": "4682-4698",
+    "ee": "https://doi.org/10.1109/SP61157.2025.00260"
+  },
+  {
+    "dblp_key": "conf/sp/SharevskiLEP25",
+    "conference": "sp",
+    "year": 2025,
+    "title": "(Blind) Users Really Do Heed Aural Telephone Scam Warnings",
+    "authors": [
+      {
+        "pid": "154/7105",
+        "name": "Filipo Sharevski"
+      },
+      {
+        "pid": "337/9859",
+        "name": "Jennifer Vander Loop"
+      },
+      {
+        "pid": "306/0750",
+        "name": "Bill Evans"
+      },
+      {
+        "pid": "301/5910",
+        "name": "Alexander Ponticello"
+      }
+    ],
+    "pages": "74-92",
+    "ee": "https://doi.org/10.1109/SP61157.2025.11097278"
+  }
+]

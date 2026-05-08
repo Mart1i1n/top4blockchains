@@ -1,0 +1,64 @@
+# Two-stage keyword classification:
+# - positive_strong:     hit -> auto include
+# - positive_in_context: hit -> needs_review (we'd otherwise need an abstract to disambiguate)
+# - negative_overrides:  hit on top of a positive match -> needs_review (likely pure crypto/ML)
+#
+# All matches are case-insensitive substring matches against the DBLP title. Multi-word
+# entries are matched as-is (so "smart contract" will not match "smartcontract").
+
+positive_strong:
+  - blockchain
+  - ethereum
+  - bitcoin
+  - smart contract
+  - smart-contract
+  - defi
+  - monero
+  - solana
+  - zkevm
+  - zk-rollup
+  - rollup
+  - layer 2
+  - layer-2
+  - mev
+  - mempool
+  - validator
+  - randao
+  - beacon chain
+  - atomic swap
+  - cross-chain
+  - cross chain
+  - sidechain
+  - payment channel
+  - on-chain
+  - web3
+  - cryptocurrency
+  - dao
+  - sharding
+  - nakamoto
+  - proof of stake
+  - proof of work
+  - ton
+  - staking
+  - sequencer
+  - ordering fairness
+
+positive_in_context:
+  - bft
+  - byzantine
+  - consensus
+  - dag
+  - threshold
+  - mpc
+  - randomness beacon
+  - vss
+  - secret sharing
+  - vector commitment
+  - threshold signature
+  - threshold ecdsa
+  - zksnark
+
+negative_overrides:
+  - homomorphic encryption
+  - federated learning
+  - differentially private

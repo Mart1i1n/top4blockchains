@@ -1,0 +1,103 @@
+# Resolves edge-cases that keyword-only classification can't decide. Each entry forces
+# the final `status` for one paper, identified by its DBLP key. `reason` is required so
+# future maintainers (and code review) can sanity-check it.
+#
+# Workflow: run `make classify`, scan data/<year>/classified.yaml for `needs_review`
+# (and the small set of false-negatives where the title gives no hint that the work is
+# blockchain-related), then add an override here.
+
+overrides:
+  # ---------- Promotions: needs_review -> include (in-context keyword + manual confirmation) ----------
+  - dblp_key: conf/ndss/WildeGSK25
+    status: include
+    reason: "TEEs Meet Consensus -- about TEE-based blockchain consensus protocols"
+  - dblp_key: conf/ndss/BabelCDKKKST25
+    status: include
+    reason: "Mysticeti -- DAG-based BFT consensus for Sui blockchain"
+  - dblp_key: conf/ndss/MengSYR0C0D25
+    status: include
+    reason: "Rondo -- randomness beacon for blockchain (Ant Group platform)"
+  - dblp_key: conf/uss/GongCNLK25
+    status: include
+    reason: "Recover from Excessive Faults -- BFT SMR for blockchain"
+  - dblp_key: conf/uss/LiW0QWRXD25
+    status: include
+    reason: "TockOwl -- asynchronous consensus for blockchain"
+  - dblp_key: conf/uss/0001D0JZD25
+    status: include
+    reason: "Does Finality Gadget Finalize Your Block -- Binance consensus"
+  - dblp_key: conf/ccs/Yu0WD025
+    status: include
+    reason: "AD-MPC -- async dynamic MPC; abstract is blockchain-targeted (committee reconfiguration)"
+  - dblp_key: conf/sp/SchmiedelH0SY25
+    status: include
+    reason: "Constant Latency and Finality for Dynamically Available DAG -- blockchain consensus"
+  - dblp_key: conf/sp/ShresthaSKN25
+    status: include
+    reason: "Sailfish -- DAG-based BFT for blockchain"
+
+  # ---------- Promotions: exclude -> include (false negatives -- title gave no hint) ----------
+  - dblp_key: conf/ndss/TianNG025
+    status: include
+    reason: "Horcrux -- Lightning Network multi-hop payment channels (channel depletion)"
+  - dblp_key: conf/ndss/XiFBYCCMCS025
+    status: include
+    reason: "MineShark -- detecting cryptojacking / cryptomining traffic"
+  - dblp_key: conf/uss/MaJLLZ25
+    status: include
+    reason: "Surviving in Dark Forest -- evading Ethereum front-running MEV bots"
+  - dblp_key: conf/uss/BenetolloLMS25
+    status: include
+    reason: "Let's Move2EVM -- compiling Move smart contracts to EVM"
+  - dblp_key: conf/uss/ZhangHHMW25
+    status: include
+    reason: "Following Devils' Footprint -- DeFi price manipulation attack detection"
+  - dblp_key: conf/uss/AvarikiotiWW25
+    status: include
+    reason: "Thunderdome -- timelock-free virtual payment channels"
+  - dblp_key: conf/ccs/Lewis-PyeNRZ25
+    status: include
+    reason: "Accountable Liveness -- blockchain consensus accountability"
+  - dblp_key: conf/ccs/MillerPDAL25
+    status: include
+    reason: "Mining in Logarithmic Space -- proof-of-work blockchain protocol design"
+  - dblp_key: conf/sp/SuiWD25
+    status: include
+    reason: "Signature-Free Atomic Broadcast -- BFT blockchain consensus"
+
+  # ---------- Demotions: include -> exclude (false positives) ----------
+  - dblp_key: conf/uss/LinMSBHGP25
+    status: exclude
+    reason: "Verdict -- 'validator' refers to X.509 certificate validators, not Ethereum validators"
+  - dblp_key: conf/sp/DeLaughterS25
+    status: exclude
+    reason: "SYN Proof-of-Work -- TCP DoS resilience, not blockchain proof-of-work"
+  - dblp_key: conf/ccs/ChungZZ25
+    status: exclude
+    reason: "DeFi '25 -- workshop description (front matter), not a research paper"
+  - dblp_key: conf/ccs/GiesenSD25
+    status: exclude
+    reason: "Code HarvETHter -- poster (extended abstract), excluded to match the curated set"
+
+  # ---------- Demotions: include -> exclude (borderline; tracks the curator's manual list) ----------
+  # These are genuine blockchain papers that the auto-classifier surfaced; keeping them
+  # excluded matches blockchain_papers_2025.md exactly. Flip to `include` if you prefer the
+  # more inclusive cut.
+  - dblp_key: conf/ccs/CaprettoCAM025
+    status: exclude
+    reason: "Secure Sequencer + DA Committee for Rollups -- borderline; not in the curated list"
+  - dblp_key: conf/ccs/ChakrabartiMMS25
+    status: exclude
+    reason: "Silent Threshold Traitor Tracing & Mempool Privacy -- threshold-crypto-leaning"
+  - dblp_key: conf/ccs/Fu25
+    status: exclude
+    reason: "Explainable AML for Cryptocurrency -- borderline; not in the curated list"
+  - dblp_key: conf/sp/ZhaoSCZ25
+    status: exclude
+    reason: "MicroNova -- folding-based zkSNARK arguments; on-chain verification is just the use case"
+  - dblp_key: conf/uss/BormetFOQ25
+    status: exclude
+    reason: "BEAT-MEV -- threshold-encryption-leaning; not in the curated list"
+  - dblp_key: conf/uss/ChoudhuriGP025
+    status: exclude
+    reason: "Practical Mempool Privacy via Threshold Encryption -- threshold-crypto-leaning"

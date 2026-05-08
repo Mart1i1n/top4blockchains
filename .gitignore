@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.uv/
+*.egg-info/
+
+# pytest / ruff caches
+.pytest_cache/
+.ruff_cache/
+
+# Pipeline-derived; raw and final artefacts are kept under data/ and output/ but
+# editor swap files etc. are not.
+*.swp
+.DS_Store

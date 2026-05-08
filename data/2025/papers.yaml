@@ -1,0 +1,1011 @@
+- dblp_key: conf/ndss/ScaffinoABAM25
+  title: 'Alba: The Dawn of Scalable Bridges for Blockchains'
+  conference: NDSS
+  conference_code: ndss
+  year: 2025
+  authors:
+  - pid: 306/8308
+    name: Giulia Scaffino
+  - pid: 265/9073
+    name: Lukas Aumayr
+  - pid: 308/5805
+    name: Mahsa Bastankhah
+  - pid: 183/6375
+    name: Zeta Avarikioti
+  - pid: 25/3571
+    name: Matteo Maffei
+  ee: https://www.ndss-symposium.org/ndss-paper/alba-the-dawn-of-scalable-bridges-for-blockchains/
+- dblp_key: conf/ndss/ChenHHL0Z25
+  title: Dissecting Payload-based Transaction Phishing on Ethereum
+  conference: NDSS
+  conference_code: ndss
+  year: 2025
+  authors:
+  - pid: 29/6497-23
+    name: Zhuo Chen
+  - pid: 187/2673
+    name: Yufeng Hu
+  - pid: 65/10102
+    name: Bowen He
+  - pid: 88/7
+    name: Dong Luo
+  - pid: 68/5597-12
+    name: Lei Wu
+  - pid: 15/7381
+    name: Yajin Zhou
+  ee: https://www.ndss-symposium.org/ndss-paper/dissecting-payload-based-transaction-phishing-on-ethereum/
+- dblp_key: conf/ndss/ShiPLG0W025
+  title: Eclipse Attacks on Monero's Peer-to-Peer Network
+  conference: NDSS
+  conference_code: ndss
+  year: 2025
+  authors:
+  - pid: 118/4779
+    name: Ruisheng Shi
+  - pid: 193/1602
+    name: Zhiyuan Peng
+  - pid: 05/10049
+    name: Lina Lan
+  - pid: 374/9829
+    name: Yulian Ge
+  - pid: 21/6121-5
+    name: Peng Liu
+  - pid: 35/1647-8
+    name: Qin Wang
+  - pid: 74/3634-6
+    name: Juan Wang
+  ee: https://www.ndss-symposium.org/ndss-paper/eclipse-attacks-on-moneros-peer-to-peer-network/
+- dblp_key: conf/ndss/HuangJSW25
+  title: Exploring User Perceptions of Security Auditing in the Web3 Ecosystem
+  conference: NDSS
+  conference_code: ndss
+  year: 2025
+  authors:
+  - pid: 386/7776
+    name: Molly Z. Huang
+  - pid: 57/3582
+    name: Rui Jiang
+  - pid: 221/3567
+    name: Tanusree Sharma
+  - pid: 44/6292-17
+    name: Kanye Ye Wang
+  ee: https://www.ndss-symposium.org/ndss-paper/exploring-user-perceptions-of-security-auditing-in-the-web3-ecosystem/
+- dblp_key: conf/ndss/TianNG025
+  title: 'Horcrux: Synthesize, Split, Shift and Stay Alive; Preventing Channel Depletion via Universal and Enhanced Multi-hop
+    Payments'
+  conference: NDSS
+  conference_code: ndss
+  year: 2025
+  authors:
+  - pid: 273/0653
+    name: Anqi Tian
+  - pid: 216/6079
+    name: Peifang Ni
+  - pid: 295/8444
+    name: Yingzi Gao
+  - pid: 07/1951-2
+    name: Jing Xu
+  ee: https://www.ndss-symposium.org/ndss-paper/horcrux-synthesize-split-shift-and-stay-alive-preventing-channel-depletion-via-universal-and-enhanced-multi-hop-payments/
+- dblp_key: conf/ndss/LiuL0PL00C25
+  title: 'Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead'
+  conference: NDSS
+  conference_code: ndss
+  year: 2025
+  authors:
+  - pid: 83/8785
+    name: Yizhong Liu
+  - pid: 291/1511
+    name: Andi Liu
+  - pid: 10/5980-1
+    name: Yuan Lu
+  - pid: 368/7479
+    name: Zhuocheng Pan
+  - pid: 166/5937
+    name: Yinuo Li
+  - pid: 43/3771-1
+    name: Jianwei Liu
+  - pid: 179/7914
+    name: Song Bian
+  - pid: 82/4386
+    name: Mauro Conti
+  ee: https://www.ndss-symposium.org/ndss-paper/kronos-a-secure-and-generic-sharding-blockchain-consensus-with-optimized-overhead/
+- dblp_key: conf/ndss/CheLW25
+  title: 'Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding'
+  conference: NDSS
+  conference_code: ndss
+  year: 2025
+  authors:
+  - pid: 298/7898
+    name: Chunjiang Che
+  - pid: 119/2630
+    name: Songze Li
+  - pid: 223/8062
+    name: Xuechao Wang
+  ee: https://www.ndss-symposium.org/ndss-paper/manifoldchain-maximizing-blockchain-throughput-via-bandwidth-clustered-sharding/
+- dblp_key: conf/ndss/XiFBYCCMCS025
+  title: 'MineShark: Cryptomining Traffic Detection at Scale'
+  conference: NDSS
+  conference_code: ndss
+  year: 2025
+  authors:
+  - pid: 331/4461
+    name: Shaoke Xi
+  - pid: 224/2742
+    name: Tianyi Fu
+  - pid: 14/3799
+    name: Kai Bu
+  - pid: 08/309
+    name: Chunling Yang
+  - pid: 90/8592
+    name: Zhihua Chang
+  - pid: 70/2079
+    name: Wenzhi Chen
+  - pid: 124/1717
+    name: Zhou Ma
+  - pid: 400/4323
+    name: Chongjie Chen
+  - pid: 36/8328
+    name: Yongsheng Shen
+  - pid: 20/6179-1
+    name: Kui Ren
+  ee: https://www.ndss-symposium.org/ndss-paper/mineshark-cryptomining-traffic-detection-at-scale/
+- dblp_key: conf/ndss/BabelCDKKKST25
+  title: 'Mysticeti: Reaching the Latency Limits with Uncertified DAGs'
+  conference: NDSS
+  conference_code: ndss
+  year: 2025
+  authors:
+  - pid: 197/6885
+    name: Kushal Babel
+  - pid: 263/7221
+    name: Andrey Chursin
+  - pid: 11/1148
+    name: George Danezis
+  - pid: 134/6580
+    name: Anastasios Kichidis
+  - pid: 176/5301
+    name: Lefteris Kokoris-Kogias
+  - pid: 400/5089
+    name: Arun Koshy
+  - pid: 170/4315
+    name: Alberto Sonnino
+  - pid: 126/0527
+    name: Mingwei Tian
+  ee: https://www.ndss-symposium.org/ndss-paper/mysticeti-reaching-the-latency-limits-with-uncertified-dags/
+- dblp_key: conf/ndss/0012XW00S025
+  title: 'PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation'
+  conference: NDSS
+  conference_code: ndss
+  year: 2025
+  authors:
+  - pid: 96/2615-12
+    name: Ye Liu
+  - pid: 83/7503
+    name: Yue Xue
+  - pid: 144/7556
+    name: Daoyuan Wu
+  - pid: 36/7625-1
+    name: Yuqiang Sun
+  - pid: 59/871-8
+    name: Yi Li
+  - pid: 367/4816
+    name: Miaolei Shi
+  - pid: 51/3710-3
+    name: Yang Liu
+  ee: https://www.ndss-symposium.org/ndss-paper/propertygpt-llm-driven-formal-verification-of-smart-contracts-through-retrieval-augmented-property-generation/
+- dblp_key: conf/ndss/MengSYR0C0D25
+  title: 'Rondo: Scalable and Reconfiguration-Friendly Randomness Beacon'
+  conference: NDSS
+  conference_code: ndss
+  year: 2025
+  authors:
+  - pid: 336/5377
+    name: Xuanji Meng
+  - pid: 320/2137
+    name: Xiao Sui
+  - pid: 242/8778
+    name: Zhaoxin Yang
+  - pid: 121/8364
+    name: Kang Rong
+  - pid: 81/4590-2
+    name: Wenbo Xu
+  - pid: 198/7854
+    name: Shenglong Chen
+  - pid: 77/4933-2
+    name: Ying Yan
+  - pid: 146/0078
+    name: Sisi Duan
+  ee: https://www.ndss-symposium.org/ndss-paper/rondo-scalable-and-reconfiguration-friendly-randomness-beacon/
+- dblp_key: conf/ndss/Song0JXC25
+  title: 'Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection'
+  conference: NDSS
+  conference_code: ndss
+  year: 2025
+  authors:
+  - pid: 259/3559
+    name: Qiyang Song
+  - pid: 78/7690-1
+    name: Heqing Huang
+  - pid: 41/761
+    name: Xiaoqi Jia
+  - pid: 327/7534
+    name: Yuanbo Xie
+  - pid: 218/8811-1
+    name: Jiahao Cao
+  ee: https://www.ndss-symposium.org/ndss-paper/silence-false-alarms-identifying-anti-reentrancy-patterns-on-ethereum-to-refine-smart-contract-reentrancy-detection/
+- dblp_key: conf/ndss/WildeGSK25
+  title: 'The Forking Way: When TEEs Meet Consensus'
+  conference: NDSS
+  conference_code: ndss
+  year: 2025
+  authors:
+  - pid: 358/6488
+    name: Annika Wilde
+  - pid: 394/4795
+    name: Tim Niklas Gruel
+  - pid: 57/1338
+    name: Claudio Soriente
+  - pid: 36/1531
+    name: Ghassan Karame
+  ee: https://www.ndss-symposium.org/ndss-paper/the-forking-way-when-tees-meet-consensus/
+- dblp_key: conf/uss/RuaroGMMGKV25
+  title: 'Approve Once, Regret Forever: On the Exploitation of Ethereum''s Approve-TransferFrom Ecosystem'
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 218/0179
+    name: Nicola Ruaro
+  - pid: 201/9325
+    name: Fabio Gritti
+  - pid: 200/8971
+    name: Dongyu Meng
+  - pid: 10/6810
+    name: Robert McLaughlin
+  - pid: 180/7263
+    name: Ilya Grishchenko
+  - pid: k/ChristopherKruegel
+    name: Christopher Kruegel
+  - pid: v/GiovanniVigna
+    name: Giovanni Vigna
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/ruaro
+- dblp_key: conf/uss/He0LLD0SL0025
+  title: 'Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain'
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 270/2519
+    name: Zheyuan He
+  - pid: 175/8858-1
+    name: Zihao Li
+  - pid: 283/6159
+    name: Jiahao Luo
+  - pid: 181/2672
+    name: Feng Luo
+  - pid: 277/2244
+    name: Junhan Duan
+  - pid: 92/7728-1
+    name: Jingwei Li
+  - pid: 332/4779
+    name: Shuwei Song
+  - pid: 53/1565
+    name: Xiapu Luo
+  - pid: 19/1766-2
+    name: Ting Chen
+  - pid: 26/3075-1
+    name: Xiaosong Zhang
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/he-zheyuan
+- dblp_key: conf/uss/PengSZM0JLZ25
+  title: Automated Soundness and Completeness Vetting of Polygon zkEVM
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 390/8831
+    name: Xinghao Peng
+  - pid: 158/7630
+    name: Zhiyuan Sun
+  - pid: 276/3918
+    name: Kunsong Zhao
+  - pid: 237/5007
+    name: Zuchao Ma
+  - pid: 175/8858-1
+    name: Zihao Li
+  - pid: 372/3858
+    name: Jinan Jiang
+  - pid: 53/1565
+    name: Xiapu Luo
+  - pid: 77/3503
+    name: Yinqian Zhang
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/peng-xinghao
+- dblp_key: conf/uss/Zhang0LD25
+  title: 'Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake'
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 22/9541
+    name: Mingfei Zhang
+  - pid: 246/5130-1
+    name: Rujia Li
+  - pid: 397/1215
+    name: Xueqian Lu
+  - pid: 146/0078
+    name: Sisi Duan
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-mingfei
+- dblp_key: conf/uss/TsuchiyaDSC25
+  title: Blockchain Address Poisoning
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 38/8132
+    name: Taro Tsuchiya
+  - pid: 222/1664
+    name: Jin-Dong Dong
+  - pid: 133/3572
+    name: Kyle Soska
+  - pid: c/NicolasChristin
+    name: Nicolas Christin
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/tsuchiya
+- dblp_key: conf/uss/PanHD025
+  title: 'CollisionRepair: First-Aid and Automated Patching for Storage Collision Vulnerabilities in Smart Contracts'
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 76/1503
+    name: Yu Pan
+  - pid: 411/7216
+    name: Wanjing Han
+  - pid: 10/9994
+    name: Yue Duan
+  - pid: 28/3341-1
+    name: Mu Zhang
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/pan-yu
+- dblp_key: conf/uss/HeimbachVVKW25
+  title: 'Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue'
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 255/4911
+    name: Lioba Heimbach
+  - pid: 188/9932
+    name: Yann Vonlanthen
+  - pid: 258/4147
+    name: Juan Villacis
+  - pid: 209/8649
+    name: Lucianna Kiffer
+  - pid: w/RogerWattenhofer
+    name: Roger Wattenhofer
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/heimbach
+- dblp_key: conf/uss/0001D0JZD25
+  title: Does Finality Gadget Finalize Your Block? A Case Study of Binance Consensus
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 246/5130-1
+    name: Rujia Li
+  - pid: 98/8455
+    name: Jingyuan Ding
+  - pid: 35/1647-8
+    name: Qin Wang
+  - pid: 51/7169
+    name: Keting Jia
+  - pid: 22/1887
+    name: Haibin Zhang
+  - pid: 146/0078
+    name: Sisi Duan
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/li-rujia
+- dblp_key: conf/uss/ZhangHHMW25
+  title: 'Following Devils'' Footprint: Towards Real-time Detection of Price Manipulation Attacks'
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 399/9045
+    name: Bosi Zhang
+  - pid: 228/1460
+    name: Ningyu He
+  - pid: 67/604
+    name: Xiaohui Hu
+  - pid: 86/7113
+    name: Kai Ma
+  - pid: 50/8499
+    name: Haoyu Wang
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-bosi
+- dblp_key: conf/uss/LubbertsenEW25
+  title: 'Ghost Clusters: Evaluating Attribution of Illicit Services through Cryptocurrency Tracing'
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 353/7524
+    name: Kelvin Lubbertsen
+  - pid: 17/7444
+    name: Michel van Eeten
+  - pid: 224/9337
+    name: Rolf van Wegberg
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/lubbertsen
+- dblp_key: conf/uss/BenetolloLMS25
+  title: Let's Move2EVM
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 369/0955
+    name: Lorenzo Benetollo
+  - pid: 134/4141
+    name: Andreas Lackner
+  - pid: 25/3571
+    name: Matteo Maffei
+  - pid: 264/9986
+    name: Markus Scherer
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/benetollo
+- dblp_key: conf/uss/WuRBH0W0025
+  title: On the Atomicity and Efficiency of Blockchain Payment Channels
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 52/328
+    name: Di Wu
+  - pid: 321/9562
+    name: Shoupeng Ren
+  - pid: 397/1788
+    name: Yuman Bai
+  - pid: 367/2450
+    name: Lipeng He
+  - pid: 35/295-12
+    name: Jian Liu
+  - pid: 70/5228
+    name: Wu Wen
+  - pid: 20/6179-1
+    name: Kui Ren
+  - pid: 07/4182-0001
+    name: Chun Chen
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/wu-di
+- dblp_key: conf/uss/Xiao0DLWZ25
+  title: Parallelizing Universal Atomic Swaps for Multi-Chain Cryptocurrency Exchanges
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 398/0446
+    name: Danlei Xiao
+  - pid: 23/1788-3
+    name: Chuan Zhang
+  - pid: 169/9944
+    name: Haotian Deng
+  - pid: 218/8781
+    name: Jinwen Liang
+  - pid: 54/2170
+    name: Licheng Wang
+  - pid: 26/2546
+    name: Liehuang Zhu
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/xiao-danlei
+- dblp_key: conf/uss/GongCNLK25
+  title: Recover from Excessive Faults in Partially-Synchronous BFT SMR
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 270/9951
+    name: Tiantian Gong
+  - pid: 247/8635
+    name: Gustavo Franco Camilo
+  - pid: 143/4459
+    name: Kartik Nayak
+  - pid: 126/5207
+    name: Andrew Lewis-Pye
+  - pid: 12/3394
+    name: Aniket Kate
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/gong-tiantian
+- dblp_key: conf/uss/MaJLLZ25
+  title: 'Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer'
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 237/5007
+    name: Zuchao Ma
+  - pid: 203/0794
+    name: Muhui Jiang
+  - pid: 181/2672
+    name: Feng Luo
+  - pid: 53/1565
+    name: Xiapu Luo
+  - pid: 15/7381
+    name: Yajin Zhou
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/ma-zuchao
+- dblp_key: conf/uss/AvarikiotiWW25
+  title: 'Thunderdome: Timelock-Free Rationally-Secure Virtual Channels'
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 183/6375
+    name: Zeta Avarikioti
+  - pid: 85/4469
+    name: Yuheng Wang
+  - pid: 118/4761-1
+    name: Yuyi Wang
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/avarikioti
+- dblp_key: conf/uss/LiW0QWRXD25
+  title: 'TockOwl: Asynchronous Consensus with Fault and Network Adaptability'
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 128/0236
+    name: Minghang Li
+  - pid: 54/7015
+    name: Qianhong Wu
+  - pid: 56/5818-9
+    name: Zhipeng Wang
+  - pid: 05/4546
+    name: Bo Qin
+  - pid: 397/1423
+    name: Bohang Wei
+  - pid: 137/8211
+    name: Hang Ruan
+  - pid: 370/3086
+    name: Shihong Xiong
+  - pid: 219/0447
+    name: Zhenyang Ding
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/li-minghang
+- dblp_key: conf/uss/FabregaZYAABKJ25
+  title: 'Voting-Bloc Entropy: A New Metric for DAO Decentralization'
+  conference: USENIX Security
+  conference_code: uss
+  year: 2025
+  authors:
+  - pid: 333/8848
+    name: Andrés Fábrega
+  - pid: 176/0969
+    name: Amy Zhao
+  - pid: 274/2928
+    name: Jay Yu
+  - pid: 305/3202
+    name: James Austgen
+  - pid: 49/1564
+    name: Sarah Allen
+  - pid: 197/6885
+    name: Kushal Babel
+  - pid: 218/7156
+    name: Mahimna Kelkar
+  - pid: j/AriJuels
+    name: Ari Juels
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/fabrega-entropy
+- dblp_key: conf/ccs/Lewis-PyeNRZ25
+  title: Accountable Liveness
+  conference: ACM CCS
+  conference_code: ccs
+  year: 2025
+  authors:
+  - pid: 126/5207
+    name: Andrew Lewis-Pye
+  - pid: 205/3153
+    name: Joachim Neu
+  - pid: r/TimRoughgarden
+    name: Tim Roughgarden
+  - pid: 265/5787
+    name: Luca Zanolini
+  ee: https://doi.org/10.1145/3719027.3765032
+- dblp_key: conf/ccs/Yu0WD025
+  title: 'AD-MPC: Asynchronous Dynamic MPC with Guaranteed Output Delivery'
+  conference: ACM CCS
+  conference_code: ccs
+  year: 2025
+  authors:
+  - pid: 21/8402
+    name: Wenxuan Yu
+  - pid: 84/7272-1
+    name: Minghui Xu
+  - pid: 75/1956
+    name: Bing Wu
+  - pid: 146/0078
+    name: Sisi Duan
+  - pid: c/XiuzhenCheng
+    name: Xiuzhen Cheng
+  ee: https://doi.org/10.1145/3719027.3765166
+- dblp_key: conf/ccs/Bar-OnZBCES25
+  title: 'Aegis: Tethering a Blockchain with Primary-Chain Stake'
+  conference: ACM CCS
+  conference_code: ccs
+  year: 2025
+  authors:
+  - pid: 245/0139
+    name: Yogev Bar-On
+  - pid: 270/0147
+    name: Roi Bar-Zur
+  - pid: 176/5401
+    name: Omer Ben-Porat
+  - pid: 380/3380
+    name: Nimrod Cohen
+  - pid: 86/8318
+    name: Ittay Eyal
+  - pid: 380/4599
+    name: Matan Sitbon
+  ee: https://doi.org/10.1145/3719027.3744885
+- dblp_key: conf/ccs/SarencheANP25
+  title: 'Bitcoin Under Volatile Block Rewards: How Mempool Statistics Can Influence Bitcoin Mining'
+  conference: ACM CCS
+  conference_code: ccs
+  year: 2025
+  authors:
+  - pid: 238/9625
+    name: Roozbeh Sarenche
+  - pid: 262/3401
+    name: Alireza Aghabagherloo
+  - pid: 24/3255
+    name: Svetla Nikova
+  - pid: p/BartPreneel
+    name: Bart Preneel
+  ee: https://doi.org/10.1145/3719027.3744875
+- dblp_key: conf/ccs/0001SHC0L0Z25
+  title: Denial of Sequencing Attacks in Ethereum Layer 2 Rollups
+  conference: ACM CCS
+  conference_code: ccs
+  year: 2025
+  authors:
+  - pid: 175/8858-1
+    name: Zihao Li
+  - pid: 158/7630
+    name: Zhiyuan Sun
+  - pid: 270/2519
+    name: Zheyuan He
+  - pid: 408/9906
+    name: Jinzhao Chu
+  - pid: 63/778-43
+    name: Hao Zhou
+  - pid: 53/1565
+    name: Xiapu Luo
+  - pid: 19/1766-2
+    name: Ting Chen
+  - pid: 77/3503
+    name: Yinqian Zhang
+  ee: https://doi.org/10.1145/3719027.3765100
+- dblp_key: conf/ccs/NagyTSL25
+  title: 'Forking the RANDAO: Manipulating Ethereum''s Distributed Randomness Beacon'
+  conference: ACM CCS
+  conference_code: ccs
+  year: 2025
+  authors:
+  - pid: 416/1571
+    name: Ábel Nagy
+  - pid: 14/4896
+    name: János Tapolcai
+  - pid: 234/7668
+    name: István András Seres
+  - pid: 163/4741
+    name: Bence Ladóczki
+  ee: https://doi.org/10.1145/3719027.3744852
+- dblp_key: conf/ccs/CaoG25
+  title: How to Beat Nakamoto in the Race
+  conference: ACM CCS
+  conference_code: ccs
+  year: 2025
+  authors:
+  - pid: 284/8417
+    name: Shu-Jie Cao
+  - pid: 75/6451
+    name: Dongning Guo
+  ee: https://doi.org/10.1145/3719027.3765058
+- dblp_key: conf/ccs/MillerPDAL25
+  title: Mining in Logarithmic Space with Variable Difficulty
+  conference: ACM CCS
+  conference_code: ccs
+  year: 2025
+  authors:
+  - pid: 248/8001
+    name: Loïc Miller
+  - pid: 420/7873
+    name: Dorian Pacaud
+  - pid: 420/7893
+    name: Nathanël Derousseaux-Lebert
+  - pid: a/EmmanuelleAnceaume
+    name: Emmanuelle Anceaume
+  - pid: 34/6017
+    name: Romaric Ludinard
+  ee: https://doi.org/10.1145/3719027.3744874
+- dblp_key: conf/ccs/ParkYNMK25
+  title: On Frontrunning Risks in Batch-Order Fair Systems for Blockchains
+  conference: ACM CCS
+  conference_code: ccs
+  year: 2025
+  authors:
+  - pid: 411/5601
+    name: Eunchan Park
+  - pid: 44/657
+    name: Taeung Yoon
+  - pid: 303/4635-1
+    name: Hocheol Nam
+  - pid: 235/4793
+    name: Deepak Maram
+  - pid: 75/8333
+    name: Min Suk Kang
+  ee: https://doi.org/10.1145/3719027.3744879
+- dblp_key: conf/ccs/LiuLPHL0L00Q25
+  title: 'Realizing Corrupted-Shard Tolerance: A Sharding Blockchain with Preserving Global Resilience'
+  conference: ACM CCS
+  conference_code: ccs
+  year: 2025
+  authors:
+  - pid: 83/8785
+    name: Yizhong Liu
+  - pid: 291/1511
+    name: Andi Liu
+  - pid: 368/7479
+    name: Zhuocheng Pan
+  - pid: 157/2787
+    name: Yuxuan Hu
+  - pid: 43/3771-1
+    name: Jianwei Liu
+  - pid: 179/7914
+    name: Song Bian
+  - pid: 10/5980-1
+    name: Yuan Lu
+  - pid: 121/1665-2
+    name: Zhenyu Guan
+  - pid: 13/5856-9
+    name: Dawei Li
+  - pid: q/MeikangQiu
+    name: Meikang Qiu
+  ee: https://doi.org/10.1145/3719027.3765132
+- dblp_key: conf/ccs/00080L0Z00F25
+  title: 'Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee'
+  conference: ACM CCS
+  conference_code: ccs
+  year: 2025
+  authors:
+  - pid: 55/1254-8
+    name: Shan Wang
+  - pid: 98/2604-1
+    name: Ming Yang
+  - pid: 97/2274
+    name: Yu Liu
+  - pid: 47/722-25
+    name: Yue Zhang
+  - pid: 296/6003
+    name: Shuaiqing Zhang
+  - pid: 79/7563-1
+    name: Zhen Ling
+  - pid: c/JiannongCao
+    name: Jiannong Cao
+  - pid: 49/2189
+    name: Xinwen Fu
+  ee: https://doi.org/10.1145/3719027.3765082
+- dblp_key: conf/ccs/ChaliasosFL25
+  title: Towards a Formal Foundation for Blockchain ZK Rollups
+  conference: ACM CCS
+  conference_code: ccs
+  year: 2025
+  authors:
+  - pid: 248/8003
+    name: Stefanos Chaliasos
+  - pid: 138/7311
+    name: Denis Firsov
+  - pid: 46/2924
+    name: Benjamin Livshits
+  ee: https://doi.org/10.1145/3719027.3765115
+- dblp_key: conf/sp/ChatzigiannisWA25
+  title: A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms
+  conference: IEEE S&P
+  conference_code: sp
+  year: 2025
+  authors:
+  - pid: 241/5872
+    name: Panagiotis Chatzigiannis
+  - pid: 220/3081
+    name: Ke Coby Wang
+  - pid: 118/1516
+    name: Sunpreet S. Arora
+  - pid: 139/2505
+    name: Mohsen Minaei
+  ee: https://doi.org/10.1109/SP61157.2025.00158
+- dblp_key: conf/sp/FrenkelK25
+  title: An Attack on TON's ADNL Secure Channel Protocol
+  conference: IEEE S&P
+  conference_code: sp
+  year: 2025
+  authors:
+  - pid: 405/9514
+    name: Aviv Frenkel
+  - pid: 61/210
+    name: Dmitry Kogan
+  ee: https://doi.org/10.1109/SP61157.2025.00169
+- dblp_key: conf/sp/DingT025
+  title: 'Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs'
+  conference: IEEE S&P
+  conference_code: sp
+  year: 2025
+  authors:
+  - pid: 269/2842
+    name: Wanning Ding
+  - pid: 09/1770
+    name: Yuzhe Tang
+  - pid: 25/4764-6
+    name: Yibo Wang
+  ee: https://doi.org/10.1109/SP61157.2025.00061
+- dblp_key: conf/sp/LuoJGK25
+  title: 'Cauchyproofs: Batch-Updatable Vector Commitment with Easy Aggregation and Application to Stateless Blockchains'
+  conference: IEEE S&P
+  conference_code: sp
+  year: 2025
+  authors:
+  - pid: 306/1508
+    name: Zhongtang Luo
+  - pid: 231/8643
+    name: Yanxue Jia
+  - pid: 397/2053
+    name: Alejandra Victoria Ospina Gracia
+  - pid: 12/3394
+    name: Aniket Kate
+  ee: https://doi.org/10.1109/SP61157.2025.00247
+- dblp_key: conf/sp/SchmiedelH0SY25
+  title: Constant Latency and Finality for Dynamically Available DAG
+  conference: IEEE S&P
+  conference_code: sp
+  year: 2025
+  authors:
+  - pid: 373/6123
+    name: Hans Schmiedel
+  - pid: 217/8511
+    name: Runchao Han
+  - pid: 17/2212-5
+    name: Qiang Tang
+  - pid: 71/625
+    name: Ron Steinfeld
+  - pid: 18/11043
+    name: Jiangshan Yu
+  ee: https://doi.org/10.1109/SP61157.2025.00246
+- dblp_key: conf/sp/YangN025
+  title: Decentralization of Ethereum's Builder Market
+  conference: IEEE S&P
+  conference_code: sp
+  year: 2025
+  authors:
+  - pid: 90/4655-11
+    name: Sen Yang
+  - pid: 143/4459
+    name: Kartik Nayak
+  - pid: 21/3626-22
+    name: Fan Zhang
+  ee: https://doi.org/10.1109/SP61157.2025.00157
+- dblp_key: conf/sp/AustgenFKVABYJ25
+  title: 'Liquefaction: Privately Liquefying Blockchain Assets'
+  conference: IEEE S&P
+  conference_code: sp
+  year: 2025
+  authors:
+  - pid: 305/3202
+    name: James Austgen
+  - pid: 333/8848
+    name: Andrés Fábrega
+  - pid: 218/7156
+    name: Mahimna Kelkar
+  - pid: 392/5745
+    name: Dani Vilardell
+  - pid: 49/1564
+    name: Sarah Allen
+  - pid: 197/6885
+    name: Kushal Babel
+  - pid: 274/2928
+    name: Jay Yu
+  - pid: j/AriJuels
+    name: Ari Juels
+  ee: https://doi.org/10.1109/SP61157.2025.00156
+- dblp_key: conf/sp/Han0YB25
+  title: 'P2C2T: Preserving the Privacy of Cross-Chain Transfer'
+  conference: IEEE S&P
+  conference_code: sp
+  year: 2025
+  authors:
+  - pid: 133/5698
+    name: Panpan Han
+  - pid: 43/180-2
+    name: Zheng Yan
+  - pid: y/LaurenceTianruoYang
+    name: Laurence T. Yang
+  - pid: b/ElisaBertino
+    name: Elisa Bertino
+  ee: https://doi.org/10.1109/SP61157.2025.00051
+- dblp_key: conf/sp/FischL0Y25
+  title: Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)
+  conference: IEEE S&P
+  conference_code: sp
+  year: 2025
+  authors:
+  - pid: 148/2252
+    name: Ben Fisch
+  - pid: 329/5777
+    name: Arthur Lazzaretti
+  - pid: 116/0645-4
+    name: Zeyu Liu
+  - pid: 50/2484
+    name: Lei Yang
+  ee: https://doi.org/10.1109/SP61157.2025.00248
+- dblp_key: conf/sp/ShresthaSKN25
+  title: 'Sailfish: Towards Improving the Latency of DAG-Based BFT'
+  conference: IEEE S&P
+  conference_code: sp
+  year: 2025
+  authors:
+  - pid: 236/5741
+    name: Nibesh Shrestha
+  - pid: 407/8745
+    name: Rohan Shrothrium
+  - pid: 12/3394
+    name: Aniket Kate
+  - pid: 143/4459
+    name: Kartik Nayak
+  ee: https://doi.org/10.1109/SP61157.2025.00021
+- dblp_key: conf/sp/GuanYSHQWW25
+  title: 'Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem'
+  conference: IEEE S&P
+  conference_code: sp
+  year: 2025
+  authors:
+  - pid: 389/5717
+    name: Maggie Yongqi Guan
+  - pid: 344/8557
+    name: Yaman Yu
+  - pid: 221/3567
+    name: Tanusree Sharma
+  - pid: 386/7776
+    name: Molly Z. Huang
+  - pid: 246/5857
+    name: Kaihua Qin
+  - pid: w/YangWang5
+    name: Yang Wang
+  - pid: 44/6292-17
+    name: Kanye Ye Wang
+  ee: https://doi.org/10.1109/SP61157.2025.00042
+- dblp_key: conf/sp/SuiWD25
+  title: Signature-Free Atomic Broadcast with Optimal $O(n^{2})$ Messages and $O(1)$ Expected Time
+  conference: IEEE S&P
+  conference_code: sp
+  year: 2025
+  authors:
+  - pid: 320/2137
+    name: Xiao Sui
+  - pid: 10/5630
+    name: Xin Wang
+  - pid: 146/0078
+    name: Sisi Duan
+  ee: https://doi.org/10.1109/SP61157.2025.00244
+- dblp_key: conf/sp/ThyagarajanMHKM25
+  title: 'Vitārit: Paying for Threshold Services on Bitcoin and Friends'
+  conference: IEEE S&P
+  conference_code: sp
+  year: 2025
+  authors:
+  - pid: 164/5298
+    name: Sri Aravinda Krishnan Thyagarajan
+  - pid: 125/2314
+    name: Easwar Vivek Mangipudi
+  - pid: 119/3581
+    name: Lucjan Hanzlik
+  - pid: 12/3394
+    name: Aniket Kate
+  - pid: 128/5167
+    name: Pratyay Mukherjee
+  ee: https://doi.org/10.1109/SP61157.2025.00170
+- dblp_key: conf/sp/NiT025
+  title: 'Warning! The Timeout T Cannot Protect You From Losing Coins: PipeSwap: Forcing the Timely Release of a Secret for
+    Atomic Cross-Chain Swaps'
+  conference: IEEE S&P
+  conference_code: sp
+  year: 2025
+  authors:
+  - pid: 216/6079
+    name: Peifang Ni
+  - pid: 273/0653
+    name: Anqi Tian
+  - pid: 07/1951-2
+    name: Jing Xu
+  ee: https://doi.org/10.1109/SP61157.2025.00245
